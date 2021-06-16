@@ -1,0 +1,22 @@
+{
+  "unversionedId": "谷歌教室",
+  "id": "谷歌教室",
+  "isDocsHomePage": false,
+  "title": "谷歌教室",
+  "description": "| 课程 | 代码 |",
+  "source": "@site/docs/谷歌教室.md",
+  "sourceDirName": ".",
+  "slug": "/谷歌教室",
+  "permalink": "/docs/谷歌教室",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/谷歌教室.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "淨土大經科註",
+    "permalink": "/docs/youtube/淨土大經科註"
+  }
+}

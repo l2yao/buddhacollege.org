@@ -1,0 +1,91 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/docs/intro"
+      },
+      {
+        "type": "category",
+        "label": "Youtube",
+        "items": [
+          {
+            "type": "link",
+            "label": "了凡四训",
+            "href": "/docs/youtube/了凡四训"
+          },
+          {
+            "type": "link",
+            "label": "太上感应篇",
+            "href": "/docs/youtube/太上感应篇"
+          },
+          {
+            "type": "link",
+            "label": "佛说十善业道经",
+            "href": "/docs/youtube/佛说十善业道经"
+          },
+          {
+            "type": "link",
+            "label": "地藏菩薩本願經",
+            "href": "/docs/youtube/地藏菩薩本願經"
+          },
+          {
+            "type": "link",
+            "label": "金刚经",
+            "href": "/docs/youtube/金刚经"
+          },
+          {
+            "type": "link",
+            "label": "心經",
+            "href": "/docs/youtube/心經"
+          },
+          {
+            "type": "link",
+            "label": "妙法蓮華經",
+            "href": "/docs/youtube/妙法蓮華經"
+          },
+          {
+            "type": "link",
+            "label": "無量壽經",
+            "href": "/docs/youtube/無量壽經"
+          },
+          {
+            "type": "link",
+            "label": "阿彌陀經要解",
+            "href": "/docs/youtube/阿彌陀經要解"
+          },
+          {
+            "type": "link",
+            "label": "淨土大經科註",
+            "href": "/docs/youtube/淨土大經科註"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "link",
+        "label": "谷歌教室",
+        "href": "/docs/谷歌教室"
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/intro": "tutorialSidebar",
+    "/docs/youtube/了凡四训": "tutorialSidebar",
+    "/docs/youtube/佛说十善业道经": "tutorialSidebar",
+    "/docs/youtube/地藏菩薩本願經": "tutorialSidebar",
+    "/docs/youtube/太上感应篇": "tutorialSidebar",
+    "/docs/youtube/妙法蓮華經": "tutorialSidebar",
+    "/docs/youtube/心經": "tutorialSidebar",
+    "/docs/youtube/淨土大經科註": "tutorialSidebar",
+    "/docs/youtube/無量壽經": "tutorialSidebar",
+    "/docs/youtube/金刚经": "tutorialSidebar",
+    "/docs/youtube/阿彌陀經要解": "tutorialSidebar",
+    "/docs/谷歌教室": "tutorialSidebar"
+  }
+}

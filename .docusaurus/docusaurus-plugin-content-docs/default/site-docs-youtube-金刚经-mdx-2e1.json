@@ -1,0 +1,26 @@
+{
+  "unversionedId": "youtube/金刚经",
+  "id": "youtube/金刚经",
+  "isDocsHomePage": false,
+  "title": "金刚经",
+  "description": "",
+  "source": "@site/docs/youtube/金刚经.mdx",
+  "sourceDirName": "youtube",
+  "slug": "/youtube/金刚经",
+  "permalink": "/docs/youtube/金刚经",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/金刚经.mdx",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "地藏菩薩本願經",
+    "permalink": "/docs/youtube/地藏菩薩本願經"
+  },
+  "next": {
+    "title": "心經",
+    "permalink": "/docs/youtube/心經"
+  }
+}

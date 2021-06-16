@@ -1,0 +1,572 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "versionEditUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs",
+          "versionEditUrlLocalized": "https://github.com/l2yao/buddhacollege.org/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/longyao/Documents/buddhacollege.org/sidebars.js",
+          "contentPath": "/Users/longyao/Documents/buddhacollege.org/docs",
+          "contentPathLocalized": "/Users/longyao/Documents/buddhacollege.org/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Youtube",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "youtube/了凡四训"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "youtube/太上感应篇"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "youtube/佛说十善业道经"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "youtube/地藏菩薩本願經"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "youtube/金刚经"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "youtube/心經"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "youtube/妙法蓮華經"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "youtube/無量壽經"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "youtube/阿彌陀經要解"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "youtube/淨土大經科註"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "doc",
+                "id": "谷歌教室"
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/intro": "tutorialSidebar",
+            "/docs/youtube/了凡四训": "tutorialSidebar",
+            "/docs/youtube/佛说十善业道经": "tutorialSidebar",
+            "/docs/youtube/地藏菩薩本願經": "tutorialSidebar",
+            "/docs/youtube/太上感应篇": "tutorialSidebar",
+            "/docs/youtube/妙法蓮華經": "tutorialSidebar",
+            "/docs/youtube/心經": "tutorialSidebar",
+            "/docs/youtube/淨土大經科註": "tutorialSidebar",
+            "/docs/youtube/無量壽經": "tutorialSidebar",
+            "/docs/youtube/金刚经": "tutorialSidebar",
+            "/docs/youtube/阿彌陀經要解": "tutorialSidebar",
+            "/docs/谷歌教室": "tutorialSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Tutorial Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/intro.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "了凡四训",
+                "permalink": "/docs/youtube/了凡四训"
+              }
+            },
+            {
+              "unversionedId": "youtube/了凡四训",
+              "id": "youtube/了凡四训",
+              "isDocsHomePage": false,
+              "title": "了凡四训",
+              "description": "",
+              "source": "@site/docs/youtube/了凡四训.mdx",
+              "sourceDirName": "youtube",
+              "slug": "/youtube/了凡四训",
+              "permalink": "/docs/youtube/了凡四训",
+              "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/了凡四训.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial Intro",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "太上感应篇",
+                "permalink": "/docs/youtube/太上感应篇"
+              }
+            },
+            {
+              "unversionedId": "youtube/佛说十善业道经",
+              "id": "youtube/佛说十善业道经",
+              "isDocsHomePage": false,
+              "title": "佛说十善业道经",
+              "description": "",
+              "source": "@site/docs/youtube/佛说十善业道经.mdx",
+              "sourceDirName": "youtube",
+              "slug": "/youtube/佛说十善业道经",
+              "permalink": "/docs/youtube/佛说十善业道经",
+              "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/佛说十善业道经.mdx",
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "太上感应篇",
+                "permalink": "/docs/youtube/太上感应篇"
+              },
+              "next": {
+                "title": "地藏菩薩本願經",
+                "permalink": "/docs/youtube/地藏菩薩本願經"
+              }
+            },
+            {
+              "unversionedId": "youtube/地藏菩薩本願經",
+              "id": "youtube/地藏菩薩本願經",
+              "isDocsHomePage": false,
+              "title": "地藏菩薩本願經",
+              "description": "",
+              "source": "@site/docs/youtube/地藏菩薩本願經.mdx",
+              "sourceDirName": "youtube",
+              "slug": "/youtube/地藏菩薩本願經",
+              "permalink": "/docs/youtube/地藏菩薩本願經",
+              "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/地藏菩薩本願經.mdx",
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "佛说十善业道经",
+                "permalink": "/docs/youtube/佛说十善业道经"
+              },
+              "next": {
+                "title": "金刚经",
+                "permalink": "/docs/youtube/金刚经"
+              }
+            },
+            {
+              "unversionedId": "youtube/太上感应篇",
+              "id": "youtube/太上感应篇",
+              "isDocsHomePage": false,
+              "title": "太上感应篇",
+              "description": "",
+              "source": "@site/docs/youtube/太上感应篇.mdx",
+              "sourceDirName": "youtube",
+              "slug": "/youtube/太上感应篇",
+              "permalink": "/docs/youtube/太上感应篇",
+              "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/太上感应篇.mdx",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "了凡四训",
+                "permalink": "/docs/youtube/了凡四训"
+              },
+              "next": {
+                "title": "佛说十善业道经",
+                "permalink": "/docs/youtube/佛说十善业道经"
+              }
+            },
+            {
+              "unversionedId": "youtube/妙法蓮華經",
+              "id": "youtube/妙法蓮華經",
+              "isDocsHomePage": false,
+              "title": "妙法蓮華經",
+              "description": "",
+              "source": "@site/docs/youtube/妙法蓮華經.mdx",
+              "sourceDirName": "youtube",
+              "slug": "/youtube/妙法蓮華經",
+              "permalink": "/docs/youtube/妙法蓮華經",
+              "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/妙法蓮華經.mdx",
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "心經",
+                "permalink": "/docs/youtube/心經"
+              },
+              "next": {
+                "title": "無量壽經",
+                "permalink": "/docs/youtube/無量壽經"
+              }
+            },
+            {
+              "unversionedId": "youtube/心經",
+              "id": "youtube/心經",
+              "isDocsHomePage": false,
+              "title": "心經",
+              "description": "",
+              "source": "@site/docs/youtube/心經.mdx",
+              "sourceDirName": "youtube",
+              "slug": "/youtube/心經",
+              "permalink": "/docs/youtube/心經",
+              "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/心經.mdx",
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "金刚经",
+                "permalink": "/docs/youtube/金刚经"
+              },
+              "next": {
+                "title": "妙法蓮華經",
+                "permalink": "/docs/youtube/妙法蓮華經"
+              }
+            },
+            {
+              "unversionedId": "youtube/淨土大經科註",
+              "id": "youtube/淨土大經科註",
+              "isDocsHomePage": false,
+              "title": "淨土大經科註",
+              "description": "",
+              "source": "@site/docs/youtube/淨土大經科註.mdx",
+              "sourceDirName": "youtube",
+              "slug": "/youtube/淨土大經科註",
+              "permalink": "/docs/youtube/淨土大經科註",
+              "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/淨土大經科註.mdx",
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "阿彌陀經要解",
+                "permalink": "/docs/youtube/阿彌陀經要解"
+              },
+              "next": {
+                "title": "谷歌教室",
+                "permalink": "/docs/谷歌教室"
+              }
+            },
+            {
+              "unversionedId": "youtube/無量壽經",
+              "id": "youtube/無量壽經",
+              "isDocsHomePage": false,
+              "title": "無量壽經",
+              "description": "",
+              "source": "@site/docs/youtube/無量壽經.mdx",
+              "sourceDirName": "youtube",
+              "slug": "/youtube/無量壽經",
+              "permalink": "/docs/youtube/無量壽經",
+              "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/無量壽經.mdx",
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "妙法蓮華經",
+                "permalink": "/docs/youtube/妙法蓮華經"
+              },
+              "next": {
+                "title": "阿彌陀經要解",
+                "permalink": "/docs/youtube/阿彌陀經要解"
+              }
+            },
+            {
+              "unversionedId": "youtube/金刚经",
+              "id": "youtube/金刚经",
+              "isDocsHomePage": false,
+              "title": "金刚经",
+              "description": "",
+              "source": "@site/docs/youtube/金刚经.mdx",
+              "sourceDirName": "youtube",
+              "slug": "/youtube/金刚经",
+              "permalink": "/docs/youtube/金刚经",
+              "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/金刚经.mdx",
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "地藏菩薩本願經",
+                "permalink": "/docs/youtube/地藏菩薩本願經"
+              },
+              "next": {
+                "title": "心經",
+                "permalink": "/docs/youtube/心經"
+              }
+            },
+            {
+              "unversionedId": "youtube/阿彌陀經要解",
+              "id": "youtube/阿彌陀經要解",
+              "isDocsHomePage": false,
+              "title": "阿彌陀經要解",
+              "description": "",
+              "source": "@site/docs/youtube/阿彌陀經要解.mdx",
+              "sourceDirName": "youtube",
+              "slug": "/youtube/阿彌陀經要解",
+              "permalink": "/docs/youtube/阿彌陀經要解",
+              "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/阿彌陀經要解.mdx",
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "無量壽經",
+                "permalink": "/docs/youtube/無量壽經"
+              },
+              "next": {
+                "title": "淨土大經科註",
+                "permalink": "/docs/youtube/淨土大經科註"
+              }
+            },
+            {
+              "unversionedId": "谷歌教室",
+              "id": "谷歌教室",
+              "isDocsHomePage": false,
+              "title": "谷歌教室",
+              "description": "| 课程 | 代码 |",
+              "source": "@site/docs/谷歌教室.md",
+              "sourceDirName": ".",
+              "slug": "/谷歌教室",
+              "permalink": "/docs/谷歌教室",
+              "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/谷歌教室.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "淨土大經科註",
+                "permalink": "/docs/youtube/淨土大經科註"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/blog/blog/2019-05-30-welcome.md",
+            "source": "@site/blog/2019-05-30-welcome.md",
+            "title": "Welcome",
+            "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
+            "date": "2019-05-30T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "truncated": false,
+            "nextItem": {
+              "title": "Hello",
+              "permalink": "/blog/hello-world"
+            }
+          }
+        },
+        {
+          "id": "hello-world",
+          "metadata": {
+            "permalink": "/blog/hello-world",
+            "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/blog/blog/2019-05-29-hello-world.md",
+            "source": "@site/blog/2019-05-29-hello-world.md",
+            "title": "Hello",
+            "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": true,
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Hola",
+              "permalink": "/blog/hola"
+            }
+          }
+        },
+        {
+          "id": "hola",
+          "metadata": {
+            "permalink": "/blog/hola",
+            "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/blog/blog/2019-05-28-hola.md",
+            "source": "@site/blog/2019-05-28-hola.md",
+            "title": "Hola",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 27, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "prevItem": {
+              "title": "Hello",
+              "permalink": "/blog/hello-world"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ]
+        }
+      ],
+      "blogTags": {
+        "facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook"
+        },
+        "hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "hello-world"
+          ],
+          "permalink": "/blog/tags/hello"
+        },
+        "docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ],
+          "permalink": "/blog/tags/docusaurus"
+        },
+        "hola": {
+          "name": "hola",
+          "items": [
+            "hola"
+          ],
+          "permalink": "/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "youtube/地藏菩薩本願經",
+  "id": "youtube/地藏菩薩本願經",
+  "isDocsHomePage": false,
+  "title": "地藏菩薩本願經",
+  "description": "",
+  "source": "@site/docs/youtube/地藏菩薩本願經.mdx",
+  "sourceDirName": "youtube",
+  "slug": "/youtube/地藏菩薩本願經",
+  "permalink": "/docs/youtube/地藏菩薩本願經",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/地藏菩薩本願經.mdx",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "佛说十善业道经",
+    "permalink": "/docs/youtube/佛说十善业道经"
+  },
+  "next": {
+    "title": "金刚经",
+    "permalink": "/docs/youtube/金刚经"
+  }
+}

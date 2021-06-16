@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "youtube/了凡四训",
+              "path": "/docs/youtube/了凡四训",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "youtube/佛说十善业道经",
+              "path": "/docs/youtube/佛说十善业道经",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "youtube/地藏菩薩本願經",
+              "path": "/docs/youtube/地藏菩薩本願經",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "youtube/太上感应篇",
+              "path": "/docs/youtube/太上感应篇",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "youtube/妙法蓮華經",
+              "path": "/docs/youtube/妙法蓮華經",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "youtube/心經",
+              "path": "/docs/youtube/心經",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "youtube/淨土大經科註",
+              "path": "/docs/youtube/淨土大經科註",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "youtube/無量壽經",
+              "path": "/docs/youtube/無量壽經",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "youtube/金刚经",
+              "path": "/docs/youtube/金刚经",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "youtube/阿彌陀經要解",
+              "path": "/docs/youtube/阿彌陀經要解",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "谷歌教室",
+              "path": "/docs/谷歌教室",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

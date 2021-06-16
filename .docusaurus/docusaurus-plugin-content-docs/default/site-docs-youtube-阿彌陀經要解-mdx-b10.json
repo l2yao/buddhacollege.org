@@ -1,0 +1,26 @@
+{
+  "unversionedId": "youtube/阿彌陀經要解",
+  "id": "youtube/阿彌陀經要解",
+  "isDocsHomePage": false,
+  "title": "阿彌陀經要解",
+  "description": "",
+  "source": "@site/docs/youtube/阿彌陀經要解.mdx",
+  "sourceDirName": "youtube",
+  "slug": "/youtube/阿彌陀經要解",
+  "permalink": "/docs/youtube/阿彌陀經要解",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/阿彌陀經要解.mdx",
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "無量壽經",
+    "permalink": "/docs/youtube/無量壽經"
+  },
+  "next": {
+    "title": "淨土大經科註",
+    "permalink": "/docs/youtube/淨土大經科註"
+  }
+}

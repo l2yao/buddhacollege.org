@@ -1,0 +1,26 @@
+{
+  "unversionedId": "youtube/心經",
+  "id": "youtube/心經",
+  "isDocsHomePage": false,
+  "title": "心經",
+  "description": "",
+  "source": "@site/docs/youtube/心經.mdx",
+  "sourceDirName": "youtube",
+  "slug": "/youtube/心經",
+  "permalink": "/docs/youtube/心經",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/心經.mdx",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "金刚经",
+    "permalink": "/docs/youtube/金刚经"
+  },
+  "next": {
+    "title": "妙法蓮華經",
+    "permalink": "/docs/youtube/妙法蓮華經"
+  }
+}

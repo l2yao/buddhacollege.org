@@ -1,0 +1,26 @@
+{
+  "unversionedId": "youtube/妙法蓮華經",
+  "id": "youtube/妙法蓮華經",
+  "isDocsHomePage": false,
+  "title": "妙法蓮華經",
+  "description": "",
+  "source": "@site/docs/youtube/妙法蓮華經.mdx",
+  "sourceDirName": "youtube",
+  "slug": "/youtube/妙法蓮華經",
+  "permalink": "/docs/youtube/妙法蓮華經",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/妙法蓮華經.mdx",
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "心經",
+    "permalink": "/docs/youtube/心經"
+  },
+  "next": {
+    "title": "無量壽經",
+    "permalink": "/docs/youtube/無量壽經"
+  }
+}

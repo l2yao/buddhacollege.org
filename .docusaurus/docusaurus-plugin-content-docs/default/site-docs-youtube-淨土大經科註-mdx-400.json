@@ -1,0 +1,26 @@
+{
+  "unversionedId": "youtube/淨土大經科註",
+  "id": "youtube/淨土大經科註",
+  "isDocsHomePage": false,
+  "title": "淨土大經科註",
+  "description": "",
+  "source": "@site/docs/youtube/淨土大經科註.mdx",
+  "sourceDirName": "youtube",
+  "slug": "/youtube/淨土大經科註",
+  "permalink": "/docs/youtube/淨土大經科註",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/youtube/淨土大經科註.mdx",
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "阿彌陀經要解",
+    "permalink": "/docs/youtube/阿彌陀經要解"
+  },
+  "next": {
+    "title": "谷歌教室",
+    "permalink": "/docs/谷歌教室"
+  }
+}
