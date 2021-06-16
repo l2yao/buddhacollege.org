@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/上淨下空老和尚開示-如何挽救世界劫難",
+  "id": "amtb/開示與問答/地區開示/上淨下空老和尚開示-如何挽救世界劫難",
+  "isDocsHomePage": false,
+  "title": "上淨下空老和尚開示－如何挽救世界劫難",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/上淨下空老和尚開示-如何挽救世界劫難.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/上淨下空老和尚開示-如何挽救世界劫難",
+  "permalink": "/docs/amtb/開示與問答/地區開示/上淨下空老和尚開示-如何挽救世界劫難",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/上淨下空老和尚開示-如何挽救世界劫難.mdx",
+  "version": "current",
+  "sidebarPosition": 793,
+  "frontMatter": {
+    "sidebar_position": 793
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學佛答問（答香港參學同修之九十八）",
+    "permalink": "/docs/amtb/開示與問答/地區開示/學佛答問答香港參學同修之九十八"
+  },
+  "next": {
+    "title": "對鼓山寺第二屆夏令營講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對鼓山寺第二屆夏令營講話"
+  }
+}

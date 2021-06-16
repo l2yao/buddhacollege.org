@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/環宇和諧天下一家宗教對話與世界和平的反思與建議",
+  "id": "amtb/社會教育/多元文化/環宇和諧天下一家宗教對話與世界和平的反思與建議",
+  "isDocsHomePage": false,
+  "title": "環宇和諧，天下一家宗教對話與世界和平的反思與建議",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/環宇和諧天下一家宗教對話與世界和平的反思與建議.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/環宇和諧天下一家宗教對話與世界和平的反思與建議",
+  "permalink": "/docs/amtb/社會教育/多元文化/環宇和諧天下一家宗教對話與世界和平的反思與建議",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/環宇和諧天下一家宗教對話與世界和平的反思與建議.mdx",
+  "version": "current",
+  "sidebarPosition": 595,
+  "frontMatter": {
+    "sidebar_position": 595
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "宗教教育與和諧",
+    "permalink": "/docs/amtb/社會教育/多元文化/宗教教育與和諧"
+  },
+  "next": {
+    "title": "關於和平教育的對話",
+    "permalink": "/docs/amtb/社會教育/多元文化/關於和平教育的對話"
+  }
+}

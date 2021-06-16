@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/浙江雜技團來訪談話",
+  "id": "amtb/開示與問答/地區開示/浙江雜技團來訪談話",
+  "isDocsHomePage": false,
+  "title": "浙江雜技團來訪談話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/浙江雜技團來訪談話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/浙江雜技團來訪談話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/浙江雜技團來訪談話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/浙江雜技團來訪談話.mdx",
+  "version": "current",
+  "sidebarPosition": 593,
+  "frontMatter": {
+    "sidebar_position": 593
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "淨空法師與王財貴博士談話-如何落實兒童讀經教育",
+    "permalink": "/docs/amtb/開示與問答/地區開示/淨空法師與王財貴博士談話-如何落實兒童讀經教育"
+  },
+  "next": {
+    "title": "印尼美都電視新聞探訪",
+    "permalink": "/docs/amtb/開示與問答/地區開示/印尼美都電視新聞探訪"
+  }
+}

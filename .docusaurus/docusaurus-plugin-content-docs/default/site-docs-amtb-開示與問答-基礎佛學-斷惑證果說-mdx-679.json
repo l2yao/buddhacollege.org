@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/基礎佛學/斷惑證果說",
+  "id": "amtb/開示與問答/基礎佛學/斷惑證果說",
+  "isDocsHomePage": false,
+  "title": "斷惑證果說",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/基礎佛學/斷惑證果說.mdx",
+  "sourceDirName": "amtb/開示與問答/基礎佛學",
+  "slug": "/amtb/開示與問答/基礎佛學/斷惑證果說",
+  "permalink": "/docs/amtb/開示與問答/基礎佛學/斷惑證果說",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/基礎佛學/斷惑證果說.mdx",
+  "version": "current",
+  "sidebarPosition": 876,
+  "frontMatter": {
+    "sidebar_position": 876
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "觀音菩薩聖德略述",
+    "permalink": "/docs/amtb/開示與問答/基礎佛學/觀音菩薩聖德略述"
+  },
+  "next": {
+    "title": "大乘菩薩修行次第",
+    "permalink": "/docs/amtb/開示與問答/基礎佛學/大乘菩薩修行次第"
+  }
+}

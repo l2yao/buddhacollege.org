@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/祖師大德/印光大師/敦倫盡份老實念佛",
+  "id": "amtb/祖師大德/印光大師/敦倫盡份老實念佛",
+  "isDocsHomePage": false,
+  "title": "敦倫盡份、老實念佛",
+  "description": "",
+  "source": "@site/docs/amtb/祖師大德/印光大師/敦倫盡份老實念佛.mdx",
+  "sourceDirName": "amtb/祖師大德/印光大師",
+  "slug": "/amtb/祖師大德/印光大師/敦倫盡份老實念佛",
+  "permalink": "/docs/amtb/祖師大德/印光大師/敦倫盡份老實念佛",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/祖師大德/印光大師/敦倫盡份老實念佛.mdx",
+  "version": "current",
+  "sidebarPosition": 306,
+  "frontMatter": {
+    "sidebar_position": 306
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "僧燦大師信心銘",
+    "permalink": "/docs/amtb/祖師大德/僧燦大師/僧燦大師信心銘"
+  },
+  "next": {
+    "title": "種善因得善果",
+    "permalink": "/docs/amtb/祖師大德/印光大師/種善因得善果"
+  }
+}

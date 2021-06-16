@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/講經培訓/內典研學/學講開示-可對外流通",
+  "id": "amtb/講經培訓/內典研學/學講開示-可對外流通",
+  "isDocsHomePage": false,
+  "title": "學講開示 (可對外流通)",
+  "description": "",
+  "source": "@site/docs/amtb/講經培訓/內典研學/學講開示-可對外流通.mdx",
+  "sourceDirName": "amtb/講經培訓/內典研學",
+  "slug": "/amtb/講經培訓/內典研學/學講開示-可對外流通",
+  "permalink": "/docs/amtb/講經培訓/內典研學/學講開示-可對外流通",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/講經培訓/內典研學/學講開示-可對外流通.mdx",
+  "version": "current",
+  "sidebarPosition": 886,
+  "frontMatter": {
+    "sidebar_position": 886
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "初學講經開示 (可對外流通)",
+    "permalink": "/docs/amtb/講經培訓/內典研學/初學講經開示-可對外流通"
+  },
+  "next": {
+    "title": "第一屆淨土培訓班",
+    "permalink": "/docs/amtb/講經培訓/內典研學/第一屆淨土培訓班"
+  }
+}

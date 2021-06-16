@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/十發心-十淨願",
+  "id": "amtb/開示與問答/節錄/十發心-十淨願",
+  "isDocsHomePage": false,
+  "title": "十發心 十淨願",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/十發心-十淨願.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/十發心-十淨願",
+  "permalink": "/docs/amtb/開示與問答/節錄/十發心-十淨願",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/十發心-十淨願.mdx",
+  "version": "current",
+  "sidebarPosition": 1101,
+  "frontMatter": {
+    "sidebar_position": 1101
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "何其自性 能生萬法－一切萬法 心現識變",
+    "permalink": "/docs/amtb/開示與問答/節錄/何其自性-能生萬法-一切萬法-心現識變"
+  },
+  "next": {
+    "title": "止觀－三止三觀",
+    "permalink": "/docs/amtb/開示與問答/節錄/止觀-三止三觀"
+  }
+}

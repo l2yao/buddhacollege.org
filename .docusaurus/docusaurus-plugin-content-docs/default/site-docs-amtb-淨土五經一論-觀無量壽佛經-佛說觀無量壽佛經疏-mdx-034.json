@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/觀無量壽佛經/佛說觀無量壽佛經疏",
+  "id": "amtb/淨土五經一論/觀無量壽佛經/佛說觀無量壽佛經疏",
+  "isDocsHomePage": false,
+  "title": "佛說觀無量壽佛經疏",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/觀無量壽佛經/佛說觀無量壽佛經疏.mdx",
+  "sourceDirName": "amtb/淨土五經一論/觀無量壽佛經",
+  "slug": "/amtb/淨土五經一論/觀無量壽佛經/佛說觀無量壽佛經疏",
+  "permalink": "/docs/amtb/淨土五經一論/觀無量壽佛經/佛說觀無量壽佛經疏",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/觀無量壽佛經/佛說觀無量壽佛經疏.mdx",
+  "version": "current",
+  "sidebarPosition": 58,
+  "frontMatter": {
+    "sidebar_position": 58
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "觀經上品上生章",
+    "permalink": "/docs/amtb/淨土五經一論/觀無量壽佛經/觀經上品上生章"
+  },
+  "next": {
+    "title": "觀無量壽佛經大意",
+    "permalink": "/docs/amtb/淨土五經一論/觀無量壽佛經/觀無量壽佛經大意"
+  }
+}

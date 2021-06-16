@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/化解對立",
+  "id": "amtb/開示與問答/節錄/化解對立",
+  "isDocsHomePage": false,
+  "title": "化解對立",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/化解對立.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/化解對立",
+  "permalink": "/docs/amtb/開示與問答/節錄/化解對立",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/化解對立.mdx",
+  "version": "current",
+  "sidebarPosition": 1147,
+  "frontMatter": {
+    "sidebar_position": 1147
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "入佛菩提",
+    "permalink": "/docs/amtb/開示與問答/節錄/入佛菩提"
+  },
+  "next": {
+    "title": "認識信願行三資糧遠離諸難恐怖",
+    "permalink": "/docs/amtb/開示與問答/節錄/認識信願行三資糧遠離諸難恐怖"
+  }
+}

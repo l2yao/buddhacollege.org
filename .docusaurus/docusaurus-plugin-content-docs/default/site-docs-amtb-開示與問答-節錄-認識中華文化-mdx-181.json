@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/認識中華文化",
+  "id": "amtb/開示與問答/節錄/認識中華文化",
+  "isDocsHomePage": false,
+  "title": "認識中華文化",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/認識中華文化.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/認識中華文化",
+  "permalink": "/docs/amtb/開示與問答/節錄/認識中華文化",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/認識中華文化.mdx",
+  "version": "current",
+  "sidebarPosition": 4080,
+  "frontMatter": {
+    "sidebar_position": 4080
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "孝是做人、成佛的根本",
+    "permalink": "/docs/amtb/開示與問答/節錄/孝是做人成佛的根本"
+  },
+  "next": {
+    "title": "一句佛號大總持",
+    "permalink": "/docs/amtb/開示與問答/節錄/一句佛號大總持"
+  }
+}

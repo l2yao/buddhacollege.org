@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/呼籲全世界淨宗同學念佛化解災難",
+  "id": "amtb/開示與問答/節錄/呼籲全世界淨宗同學念佛化解災難",
+  "isDocsHomePage": false,
+  "title": "呼籲全世界淨宗同學念佛化解災難",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/呼籲全世界淨宗同學念佛化解災難.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/呼籲全世界淨宗同學念佛化解災難",
+  "permalink": "/docs/amtb/開示與問答/節錄/呼籲全世界淨宗同學念佛化解災難",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/呼籲全世界淨宗同學念佛化解災難.mdx",
+  "version": "current",
+  "sidebarPosition": 2600,
+  "frontMatter": {
+    "sidebar_position": 2600
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "涅槃八味（三）",
+    "permalink": "/docs/amtb/開示與問答/節錄/涅槃八味三"
+  },
+  "next": {
+    "title": "彌陀要解研習報告",
+    "permalink": "/docs/amtb/開示與問答/節錄/彌陀要解研習報告"
+  }
+}

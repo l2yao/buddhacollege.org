@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/電台弘法/學為人師-行為世範",
+  "id": "amtb/開示與問答/電台弘法/學為人師-行為世範",
+  "isDocsHomePage": false,
+  "title": "學為人師  行為世範",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/電台弘法/學為人師-行為世範.mdx",
+  "sourceDirName": "amtb/開示與問答/電台弘法",
+  "slug": "/amtb/開示與問答/電台弘法/學為人師-行為世範",
+  "permalink": "/docs/amtb/開示與問答/電台弘法/學為人師-行為世範",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/電台弘法/學為人師-行為世範.mdx",
+  "version": "current",
+  "sidebarPosition": 904,
+  "frontMatter": {
+    "sidebar_position": 904
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "佛教是什麼?《續篇》",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/佛教是什麼續篇"
+  },
+  "next": {
+    "title": "談因果",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/談因果"
+  }
+}

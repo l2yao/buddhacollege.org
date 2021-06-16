@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/十種信心",
+  "id": "amtb/開示與問答/節錄/十種信心",
+  "isDocsHomePage": false,
+  "title": "十種信心",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/十種信心.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/十種信心",
+  "permalink": "/docs/amtb/開示與問答/節錄/十種信心",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/十種信心.mdx",
+  "version": "current",
+  "sidebarPosition": 2452,
+  "frontMatter": {
+    "sidebar_position": 2452
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "現代自學方法",
+    "permalink": "/docs/amtb/開示與問答/節錄/現代自學方法"
+  },
+  "next": {
+    "title": "十種治病",
+    "permalink": "/docs/amtb/開示與問答/節錄/十種治病"
+  }
+}

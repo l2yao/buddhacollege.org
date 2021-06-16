@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/因果教育/了凡四訓大意",
+  "id": "amtb/社會教育/因果教育/了凡四訓大意",
+  "isDocsHomePage": false,
+  "title": "了凡四訓大意",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/因果教育/了凡四訓大意.mdx",
+  "sourceDirName": "amtb/社會教育/因果教育",
+  "slug": "/amtb/社會教育/因果教育/了凡四訓大意",
+  "permalink": "/docs/amtb/社會教育/因果教育/了凡四訓大意",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/因果教育/了凡四訓大意.mdx",
+  "version": "current",
+  "sidebarPosition": 300,
+  "frontMatter": {
+    "sidebar_position": 300
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "了凡四訓",
+    "permalink": "/docs/amtb/社會教育/因果教育/了凡四訓"
+  },
+  "next": {
+    "title": "陰騭文大意",
+    "permalink": "/docs/amtb/社會教育/因果教育/陰騭文大意"
+  }
+}

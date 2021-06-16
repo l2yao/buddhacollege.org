@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/如來光明無量-音身普度",
+  "id": "amtb/開示與問答/節錄/如來光明無量-音身普度",
+  "isDocsHomePage": false,
+  "title": "如來光明無量 音身普度",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/如來光明無量-音身普度.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/如來光明無量-音身普度",
+  "permalink": "/docs/amtb/開示與問答/節錄/如來光明無量-音身普度",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/如來光明無量-音身普度.mdx",
+  "version": "current",
+  "sidebarPosition": 4188,
+  "frontMatter": {
+    "sidebar_position": 4188
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "重新認識淨土法門",
+    "permalink": "/docs/amtb/開示與問答/節錄/重新認識淨土法門"
+  },
+  "next": {
+    "title": "發廣大願 效海賢行",
+    "permalink": "/docs/amtb/開示與問答/節錄/發廣大願-效海賢行"
+  }
+}

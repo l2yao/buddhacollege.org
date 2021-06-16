@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/電台弘法/孝親尊師",
+  "id": "amtb/開示與問答/電台弘法/孝親尊師",
+  "isDocsHomePage": false,
+  "title": "孝親尊師",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/電台弘法/孝親尊師.mdx",
+  "sourceDirName": "amtb/開示與問答/電台弘法",
+  "slug": "/amtb/開示與問答/電台弘法/孝親尊師",
+  "permalink": "/docs/amtb/開示與問答/電台弘法/孝親尊師",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/電台弘法/孝親尊師.mdx",
+  "version": "current",
+  "sidebarPosition": 910,
+  "frontMatter": {
+    "sidebar_position": 910
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "談護法",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/談護法"
+  },
+  "next": {
+    "title": "未來理想的修學環境",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/未來理想的修學環境"
+  }
+}

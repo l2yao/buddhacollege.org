@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/新加坡富麗華酒店會客談話",
+  "id": "amtb/開示與問答/地區開示/新加坡富麗華酒店會客談話",
+  "isDocsHomePage": false,
+  "title": "新加坡富麗華酒店會客談話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/新加坡富麗華酒店會客談話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/新加坡富麗華酒店會客談話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/新加坡富麗華酒店會客談話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/新加坡富麗華酒店會客談話.mdx",
+  "version": "current",
+  "sidebarPosition": 4894,
+  "frontMatter": {
+    "sidebar_position": 4894
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "馬六甲精舍會客談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/馬六甲精舍會客談話"
+  },
+  "next": {
+    "title": "香港佛陀教育協會會客談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/香港佛陀教育協會會客談話"
+  }
+}

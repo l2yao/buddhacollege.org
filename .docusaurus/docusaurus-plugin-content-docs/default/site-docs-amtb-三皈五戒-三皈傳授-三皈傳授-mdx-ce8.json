@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/三皈五戒/三皈傳授/三皈傳授",
+  "id": "amtb/三皈五戒/三皈傳授/三皈傳授",
+  "isDocsHomePage": false,
+  "title": "三皈傳授",
+  "description": "",
+  "source": "@site/docs/amtb/三皈五戒/三皈傳授/三皈傳授.mdx",
+  "sourceDirName": "amtb/三皈五戒/三皈傳授",
+  "slug": "/amtb/三皈五戒/三皈傳授/三皈傳授",
+  "permalink": "/docs/amtb/三皈五戒/三皈傳授/三皈傳授",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/三皈五戒/三皈傳授/三皈傳授.mdx",
+  "version": "current",
+  "sidebarPosition": 238,
+  "frontMatter": {
+    "sidebar_position": 238
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "三皈依",
+    "permalink": "/docs/amtb/三皈五戒/三皈傳授/三皈依"
+  },
+  "next": {
+    "title": "三皈授受",
+    "permalink": "/docs/amtb/三皈五戒/三皈傳授/三皈授受"
+  }
+}

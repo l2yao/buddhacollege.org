@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/信疑得失",
+  "id": "amtb/開示與問答/節錄/信疑得失",
+  "isDocsHomePage": false,
+  "title": "信疑得失",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/信疑得失.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/信疑得失",
+  "permalink": "/docs/amtb/開示與問答/節錄/信疑得失",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/信疑得失.mdx",
+  "version": "current",
+  "sidebarPosition": 3793,
+  "frontMatter": {
+    "sidebar_position": 3793
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仰信佛智  修習善本",
+    "permalink": "/docs/amtb/開示與問答/節錄/仰信佛智-修習善本"
+  },
+  "next": {
+    "title": "如來十力、四無畏",
+    "permalink": "/docs/amtb/開示與問答/節錄/如來十力四無畏"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/法界菩薩嘆佛十度",
+  "id": "amtb/開示與問答/節錄/法界菩薩嘆佛十度",
+  "isDocsHomePage": false,
+  "title": "法界菩薩嘆佛十度",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/法界菩薩嘆佛十度.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/法界菩薩嘆佛十度",
+  "permalink": "/docs/amtb/開示與問答/節錄/法界菩薩嘆佛十度",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/法界菩薩嘆佛十度.mdx",
+  "version": "current",
+  "sidebarPosition": 1151,
+  "frontMatter": {
+    "sidebar_position": 1151
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "泉池功德(下)",
+    "permalink": "/docs/amtb/開示與問答/節錄/泉池功德下"
+  },
+  "next": {
+    "title": "如何提升自我的靈性到達圓滿",
+    "permalink": "/docs/amtb/開示與問答/節錄/如何提升自我的靈性到達圓滿"
+  }
+}

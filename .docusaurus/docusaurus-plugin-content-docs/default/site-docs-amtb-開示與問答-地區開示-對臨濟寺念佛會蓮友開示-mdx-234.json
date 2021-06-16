@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/對臨濟寺念佛會蓮友開示",
+  "id": "amtb/開示與問答/地區開示/對臨濟寺念佛會蓮友開示",
+  "isDocsHomePage": false,
+  "title": "對臨濟寺念佛會蓮友開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/對臨濟寺念佛會蓮友開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/對臨濟寺念佛會蓮友開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/對臨濟寺念佛會蓮友開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/對臨濟寺念佛會蓮友開示.mdx",
+  "version": "current",
+  "sidebarPosition": 2271,
+  "frontMatter": {
+    "sidebar_position": 2271
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "談儒釋道之大意，從品德教育做起",
+    "permalink": "/docs/amtb/開示與問答/地區開示/談儒釋道之大意從品德教育做起"
+  },
+  "next": {
+    "title": "菲律賓淨宗學會開幕致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/菲律賓淨宗學會開幕致詞"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/臺北靈巖山寺雙溪小築第三屆護國息災百七繫念法事淨空老法師開示",
+  "id": "amtb/開示與問答/地區開示/臺北靈巖山寺雙溪小築第三屆護國息災百七繫念法事淨空老法師開示",
+  "isDocsHomePage": false,
+  "title": "臺北靈巖山寺雙溪小築第三屆護國息災百七繫念法事淨空老法師開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/臺北靈巖山寺雙溪小築第三屆護國息災百七繫念法事淨空老法師開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/臺北靈巖山寺雙溪小築第三屆護國息災百七繫念法事淨空老法師開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/臺北靈巖山寺雙溪小築第三屆護國息災百七繫念法事淨空老法師開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/臺北靈巖山寺雙溪小築第三屆護國息災百七繫念法事淨空老法師開示.mdx",
+  "version": "current",
+  "sidebarPosition": 3798,
+  "frontMatter": {
+    "sidebar_position": 3798
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "二零一四賀年談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/二零一四賀年談話"
+  },
+  "next": {
+    "title": "遇善知識  聞法能行",
+    "permalink": "/docs/amtb/開示與問答/地區開示/遇善知識-聞法能行"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/新年無如念佛好丙申年賀年語",
+  "id": "amtb/開示與問答/地區開示/新年無如念佛好丙申年賀年語",
+  "isDocsHomePage": false,
+  "title": "新年無如念佛好——丙申年賀年語",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/新年無如念佛好丙申年賀年語.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/新年無如念佛好丙申年賀年語",
+  "permalink": "/docs/amtb/開示與問答/地區開示/新年無如念佛好丙申年賀年語",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/新年無如念佛好丙申年賀年語.mdx",
+  "version": "current",
+  "sidebarPosition": 4439,
+  "frontMatter": {
+    "sidebar_position": 4439
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "迷人口說 智者心行——乙未年除夕談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/迷人口說-智者心行乙未年除夕談話"
+  },
+  "next": {
+    "title": "一切法從真實心中作——丙申年春節寄語",
+    "permalink": "/docs/amtb/開示與問答/地區開示/一切法從真實心中作丙申年春節寄語"
+  }
+}

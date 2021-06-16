@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/無量壽經/無量壽經二次宣講",
+  "id": "amtb/淨土五經一論/無量壽經/無量壽經二次宣講",
+  "isDocsHomePage": false,
+  "title": "無量壽經（二次宣講）",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/無量壽經/無量壽經二次宣講.mdx",
+  "sourceDirName": "amtb/淨土五經一論/無量壽經",
+  "slug": "/amtb/淨土五經一論/無量壽經/無量壽經二次宣講",
+  "permalink": "/docs/amtb/淨土五經一論/無量壽經/無量壽經二次宣講",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/無量壽經/無量壽經二次宣講.mdx",
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "sidebar_position": 21
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "無量壽經概要",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/無量壽經概要"
+  },
+  "next": {
+    "title": "彌陀四十八願",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/彌陀四十八願"
+  }
+}

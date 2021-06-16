@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/無量壽經/無量壽經卅三~卅五品",
+  "id": "amtb/淨土五經一論/無量壽經/無量壽經卅三~卅五品",
+  "isDocsHomePage": false,
+  "title": "無量壽經卅三～卅五品",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/無量壽經/無量壽經卅三~卅五品.mdx",
+  "sourceDirName": "amtb/淨土五經一論/無量壽經",
+  "slug": "/amtb/淨土五經一論/無量壽經/無量壽經卅三~卅五品",
+  "permalink": "/docs/amtb/淨土五經一論/無量壽經/無量壽經卅三~卅五品",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/無量壽經/無量壽經卅三~卅五品.mdx",
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "sidebar_position": 40
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "無量壽經講述筆記",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/無量壽經講述筆記"
+  },
+  "next": {
+    "title": "淨宗朝暮課誦經文講記",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/淨宗朝暮課誦經文講記"
+  }
+}

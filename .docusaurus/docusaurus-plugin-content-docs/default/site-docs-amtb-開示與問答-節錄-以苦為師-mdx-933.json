@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/以苦為師",
+  "id": "amtb/開示與問答/節錄/以苦為師",
+  "isDocsHomePage": false,
+  "title": "以苦為師",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/以苦為師.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/以苦為師",
+  "permalink": "/docs/amtb/開示與問答/節錄/以苦為師",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/以苦為師.mdx",
+  "version": "current",
+  "sidebarPosition": 1158,
+  "frontMatter": {
+    "sidebar_position": 1158
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "知恩報恩",
+    "permalink": "/docs/amtb/開示與問答/節錄/知恩報恩"
+  },
+  "next": {
+    "title": "堅持志行",
+    "permalink": "/docs/amtb/開示與問答/節錄/堅持志行"
+  }
+}

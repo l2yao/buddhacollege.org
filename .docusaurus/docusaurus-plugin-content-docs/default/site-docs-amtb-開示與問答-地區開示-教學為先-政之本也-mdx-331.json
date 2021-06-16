@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/教學為先-政之本也",
+  "id": "amtb/開示與問答/地區開示/教學為先-政之本也",
+  "isDocsHomePage": false,
+  "title": "教學為先 政之本也",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/教學為先-政之本也.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/教學為先-政之本也",
+  "permalink": "/docs/amtb/開示與問答/地區開示/教學為先-政之本也",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/教學為先-政之本也.mdx",
+  "version": "current",
+  "sidebarPosition": 5442,
+  "frontMatter": {
+    "sidebar_position": 5442
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "一切眾生皆成佛",
+    "permalink": "/docs/amtb/開示與問答/地區開示/一切眾生皆成佛"
+  },
+  "next": {
+    "title": "教學為先",
+    "permalink": "/docs/amtb/開示與問答/地區開示/教學為先"
+  }
+}

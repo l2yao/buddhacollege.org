@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/退一步才是真正的向前",
+  "id": "amtb/開示與問答/節錄/退一步才是真正的向前",
+  "isDocsHomePage": false,
+  "title": "退一步才是真正的向前",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/退一步才是真正的向前.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/退一步才是真正的向前",
+  "permalink": "/docs/amtb/開示與問答/節錄/退一步才是真正的向前",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/退一步才是真正的向前.mdx",
+  "version": "current",
+  "sidebarPosition": 1080,
+  "frontMatter": {
+    "sidebar_position": 1080
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "設得一分出世道果",
+    "permalink": "/docs/amtb/開示與問答/節錄/設得一分出世道果"
+  },
+  "next": {
+    "title": "羅漢現通喻菩薩益生德",
+    "permalink": "/docs/amtb/開示與問答/節錄/羅漢現通喻菩薩益生德"
+  }
+}

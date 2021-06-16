@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/念佛圓通章/大勢至菩薩念佛圓通章疏鈔",
+  "id": "amtb/淨土五經一論/念佛圓通章/大勢至菩薩念佛圓通章疏鈔",
+  "isDocsHomePage": false,
+  "title": "大勢至菩薩念佛圓通章疏鈔",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/念佛圓通章/大勢至菩薩念佛圓通章疏鈔.mdx",
+  "sourceDirName": "amtb/淨土五經一論/念佛圓通章",
+  "slug": "/amtb/淨土五經一論/念佛圓通章/大勢至菩薩念佛圓通章疏鈔",
+  "permalink": "/docs/amtb/淨土五經一論/念佛圓通章/大勢至菩薩念佛圓通章疏鈔",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/念佛圓通章/大勢至菩薩念佛圓通章疏鈔.mdx",
+  "version": "current",
+  "sidebarPosition": 77,
+  "frontMatter": {
+    "sidebar_position": 77
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "無量壽經優婆提舍願生偈曇註節要－往生論講記",
+    "permalink": "/docs/amtb/淨土五經一論/往生論/無量壽經優婆提舍願生偈曇註節要-往生論講記"
+  },
+  "next": {
+    "title": "大勢至念佛圓通章大意",
+    "permalink": "/docs/amtb/淨土五經一論/念佛圓通章/大勢至念佛圓通章大意"
+  }
+}

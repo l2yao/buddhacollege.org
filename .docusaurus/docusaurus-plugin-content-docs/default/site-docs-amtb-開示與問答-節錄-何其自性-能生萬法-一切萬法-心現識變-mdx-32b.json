@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/何其自性-能生萬法-一切萬法-心現識變",
+  "id": "amtb/開示與問答/節錄/何其自性-能生萬法-一切萬法-心現識變",
+  "isDocsHomePage": false,
+  "title": "何其自性 能生萬法－一切萬法 心現識變",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/何其自性-能生萬法-一切萬法-心現識變.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/何其自性-能生萬法-一切萬法-心現識變",
+  "permalink": "/docs/amtb/開示與問答/節錄/何其自性-能生萬法-一切萬法-心現識變",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/何其自性-能生萬法-一切萬法-心現識變.mdx",
+  "version": "current",
+  "sidebarPosition": 1100,
+  "frontMatter": {
+    "sidebar_position": 1100
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "十種住心－從地獄到成佛",
+    "permalink": "/docs/amtb/開示與問答/節錄/十種住心-從地獄到成佛"
+  },
+  "next": {
+    "title": "十發心 十淨願",
+    "permalink": "/docs/amtb/開示與問答/節錄/十發心-十淨願"
+  }
+}

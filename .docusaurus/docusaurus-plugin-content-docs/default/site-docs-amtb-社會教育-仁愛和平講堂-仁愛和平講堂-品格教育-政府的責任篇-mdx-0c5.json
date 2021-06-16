@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-品格教育-政府的責任篇",
+  "id": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-品格教育-政府的責任篇",
+  "isDocsHomePage": false,
+  "title": "仁愛和平講堂－品格教育-政府的責任篇",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-品格教育-政府的責任篇.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-品格教育-政府的責任篇",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-品格教育-政府的責任篇",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-品格教育-政府的責任篇.mdx",
+  "version": "current",
+  "sidebarPosition": 1056,
+  "frontMatter": {
+    "sidebar_position": 1056
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仁愛和平講堂－重建倫理道德篇",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-重建倫理道德篇"
+  },
+  "next": {
+    "title": "仁愛和平講堂－地方父母官的品格教育篇",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-地方父母官的品格教育篇"
+  }
+}

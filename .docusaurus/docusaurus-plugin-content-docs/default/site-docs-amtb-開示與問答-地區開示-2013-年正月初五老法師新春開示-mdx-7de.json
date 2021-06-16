@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/2013年正月初五老法師新春開示",
+  "id": "amtb/開示與問答/地區開示/2013年正月初五老法師新春開示",
+  "isDocsHomePage": false,
+  "title": "2013年正月初五老法師新春開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/2013年正月初五老法師新春開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/2013年正月初五老法師新春開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/2013年正月初五老法師新春開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/2013年正月初五老法師新春開示.mdx",
+  "version": "current",
+  "sidebarPosition": 3567,
+  "frontMatter": {
+    "sidebar_position": 3567
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2013年農曆新年賀詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2013年農曆新年賀詞"
+  },
+  "next": {
+    "title": "祝福大會使者祈求世界和諧 Wish for Ambassadors' Success in Nurturing World Peace",
+    "permalink": "/docs/amtb/開示與問答/地區開示/祝福大會使者祈求世界和諧-wish-for-ambassadors-success-in-nurturing-world-peace"
+  }
+}

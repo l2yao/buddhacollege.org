@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/菩薩六度",
+  "id": "amtb/開示與問答/節錄/菩薩六度",
+  "isDocsHomePage": false,
+  "title": "菩薩六度",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/菩薩六度.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/菩薩六度",
+  "permalink": "/docs/amtb/開示與問答/節錄/菩薩六度",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/菩薩六度.mdx",
+  "version": "current",
+  "sidebarPosition": 3202,
+  "frontMatter": {
+    "sidebar_position": 3202
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "德遵普賢",
+    "permalink": "/docs/amtb/開示與問答/節錄/德遵普賢"
+  },
+  "next": {
+    "title": "四十八願的核心",
+    "permalink": "/docs/amtb/開示與問答/節錄/四十八願的核心"
+  }
+}

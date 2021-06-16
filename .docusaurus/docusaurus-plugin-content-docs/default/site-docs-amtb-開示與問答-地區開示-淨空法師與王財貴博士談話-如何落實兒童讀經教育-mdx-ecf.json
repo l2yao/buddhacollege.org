@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/淨空法師與王財貴博士談話-如何落實兒童讀經教育",
+  "id": "amtb/開示與問答/地區開示/淨空法師與王財貴博士談話-如何落實兒童讀經教育",
+  "isDocsHomePage": false,
+  "title": "淨空法師與王財貴博士談話-如何落實兒童讀經教育",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/淨空法師與王財貴博士談話-如何落實兒童讀經教育.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/淨空法師與王財貴博士談話-如何落實兒童讀經教育",
+  "permalink": "/docs/amtb/開示與問答/地區開示/淨空法師與王財貴博士談話-如何落實兒童讀經教育",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/淨空法師與王財貴博士談話-如何落實兒童讀經教育.mdx",
+  "version": "current",
+  "sidebarPosition": 585,
+  "frontMatter": {
+    "sidebar_position": 585
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "對義工和工作人員的開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對義工和工作人員的開示"
+  },
+  "next": {
+    "title": "浙江雜技團來訪談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/浙江雜技團來訪談話"
+  }
+}

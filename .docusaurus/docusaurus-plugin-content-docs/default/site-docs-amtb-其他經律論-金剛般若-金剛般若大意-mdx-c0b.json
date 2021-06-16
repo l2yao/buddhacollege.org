@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/其他經律論/金剛般若/金剛般若大意",
+  "id": "amtb/其他經律論/金剛般若/金剛般若大意",
+  "isDocsHomePage": false,
+  "title": "金剛般若大意",
+  "description": "",
+  "source": "@site/docs/amtb/其他經律論/金剛般若/金剛般若大意.mdx",
+  "sourceDirName": "amtb/其他經律論/金剛般若",
+  "slug": "/amtb/其他經律論/金剛般若/金剛般若大意",
+  "permalink": "/docs/amtb/其他經律論/金剛般若/金剛般若大意",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/其他經律論/金剛般若/金剛般若大意.mdx",
+  "version": "current",
+  "sidebarPosition": 114,
+  "frontMatter": {
+    "sidebar_position": 114
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "般若心經念佛說",
+    "permalink": "/docs/amtb/其他經律論/金剛般若/般若心經念佛說"
+  },
+  "next": {
+    "title": "金剛般若的啟示",
+    "permalink": "/docs/amtb/其他經律論/金剛般若/金剛般若的啟示"
+  }
+}

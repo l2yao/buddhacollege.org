@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/大乘經論/四十華嚴/華嚴經行願品-吉祥雲比丘章",
+  "id": "amtb/大乘經論/四十華嚴/華嚴經行願品-吉祥雲比丘章",
+  "isDocsHomePage": false,
+  "title": "華嚴經行願品-吉祥雲比丘章",
+  "description": "",
+  "source": "@site/docs/amtb/大乘經論/四十華嚴/華嚴經行願品-吉祥雲比丘章.mdx",
+  "sourceDirName": "amtb/大乘經論/四十華嚴",
+  "slug": "/amtb/大乘經論/四十華嚴/華嚴經行願品-吉祥雲比丘章",
+  "permalink": "/docs/amtb/大乘經論/四十華嚴/華嚴經行願品-吉祥雲比丘章",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/大乘經論/四十華嚴/華嚴經行願品-吉祥雲比丘章.mdx",
+  "version": "current",
+  "sidebarPosition": 147,
+  "frontMatter": {
+    "sidebar_position": 147
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "華嚴經行願品-文殊十信章",
+    "permalink": "/docs/amtb/大乘經論/四十華嚴/華嚴經行願品-文殊十信章"
+  },
+  "next": {
+    "title": "華嚴經行願品-海雲比丘章",
+    "permalink": "/docs/amtb/大乘經論/四十華嚴/華嚴經行願品-海雲比丘章"
+  }
+}

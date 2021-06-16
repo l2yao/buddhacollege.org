@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/宗教教育與和平",
+  "id": "amtb/社會教育/多元文化/宗教教育與和平",
+  "isDocsHomePage": false,
+  "title": "宗教教育與和平",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/宗教教育與和平.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/宗教教育與和平",
+  "permalink": "/docs/amtb/社會教育/多元文化/宗教教育與和平",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/宗教教育與和平.mdx",
+  "version": "current",
+  "sidebarPosition": 783,
+  "frontMatter": {
+    "sidebar_position": 783
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "從自性平和到世界和平",
+    "permalink": "/docs/amtb/社會教育/多元文化/從自性平和到世界和平"
+  },
+  "next": {
+    "title": "宗教團結和諧世界 辦班教學安定社會",
+    "permalink": "/docs/amtb/社會教育/多元文化/宗教團結和諧世界-辦班教學安定社會"
+  }
+}

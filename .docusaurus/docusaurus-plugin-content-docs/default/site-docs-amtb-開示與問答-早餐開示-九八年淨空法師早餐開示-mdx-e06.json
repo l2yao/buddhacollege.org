@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/早餐開示/九八年淨空法師早餐開示",
+  "id": "amtb/開示與問答/早餐開示/九八年淨空法師早餐開示",
+  "isDocsHomePage": false,
+  "title": "九八年淨空法師早餐開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/早餐開示/九八年淨空法師早餐開示.mdx",
+  "sourceDirName": "amtb/開示與問答/早餐開示",
+  "slug": "/amtb/開示與問答/早餐開示/九八年淨空法師早餐開示",
+  "permalink": "/docs/amtb/開示與問答/早餐開示/九八年淨空法師早餐開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/早餐開示/九八年淨空法師早餐開示.mdx",
+  "version": "current",
+  "sidebarPosition": 329,
+  "frontMatter": {
+    "sidebar_position": 329
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "淨空法師早餐開示第三集",
+    "permalink": "/docs/amtb/開示與問答/早餐開示/淨空法師早餐開示第三集"
+  },
+  "next": {
+    "title": "九九年淨空法師早餐開示",
+    "permalink": "/docs/amtb/開示與問答/早餐開示/九九年淨空法師早餐開示"
+  }
+}

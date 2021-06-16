@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/不動堪忍",
+  "id": "amtb/開示與問答/節錄/不動堪忍",
+  "isDocsHomePage": false,
+  "title": "不動堪忍",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/不動堪忍.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/不動堪忍",
+  "permalink": "/docs/amtb/開示與問答/節錄/不動堪忍",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/不動堪忍.mdx",
+  "version": "current",
+  "sidebarPosition": 1091,
+  "frontMatter": {
+    "sidebar_position": 1091
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "須彌山表法",
+    "permalink": "/docs/amtb/開示與問答/節錄/須彌山表法"
+  },
+  "next": {
+    "title": "知足天王",
+    "permalink": "/docs/amtb/開示與問答/節錄/知足天王"
+  }
+}

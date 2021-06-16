@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/神愛世人的啟示澳洲宗教教育研討會答問",
+  "id": "amtb/社會教育/多元文化/神愛世人的啟示澳洲宗教教育研討會答問",
+  "isDocsHomePage": false,
+  "title": "《神愛世人》的啟示——澳洲宗教教育研討會答問",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/神愛世人的啟示澳洲宗教教育研討會答問.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/神愛世人的啟示澳洲宗教教育研討會答問",
+  "permalink": "/docs/amtb/社會教育/多元文化/神愛世人的啟示澳洲宗教教育研討會答問",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/神愛世人的啟示澳洲宗教教育研討會答問.mdx",
+  "version": "current",
+  "sidebarPosition": 5472,
+  "frontMatter": {
+    "sidebar_position": 5472
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "宗教是世界和平所必需——威爾士三一聖大衛大學 跨宗教論壇 致辭",
+    "permalink": "/docs/amtb/社會教育/多元文化/宗教是世界和平所必需威爾士三一聖大衛大學-跨宗教論壇-致辭"
+  },
+  "next": {
+    "title": "締造和平 教學為先——聯合國教科文組織淨空之友社開示",
+    "permalink": "/docs/amtb/社會教育/多元文化/締造和平-教學為先聯合國教科文組織淨空之友社開示"
+  }
+}

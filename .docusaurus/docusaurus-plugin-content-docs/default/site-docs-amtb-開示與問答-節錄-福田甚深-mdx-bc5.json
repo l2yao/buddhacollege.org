@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/福田甚深",
+  "id": "amtb/開示與問答/節錄/福田甚深",
+  "isDocsHomePage": false,
+  "title": "福田甚深",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/福田甚深.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/福田甚深",
+  "permalink": "/docs/amtb/開示與問答/節錄/福田甚深",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/福田甚深.mdx",
+  "version": "current",
+  "sidebarPosition": 1096,
+  "frontMatter": {
+    "sidebar_position": 1096
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "山頂科學",
+    "permalink": "/docs/amtb/開示與問答/節錄/山頂科學"
+  },
+  "next": {
+    "title": "十佛十身",
+    "permalink": "/docs/amtb/開示與問答/節錄/十佛十身"
+  }
+}

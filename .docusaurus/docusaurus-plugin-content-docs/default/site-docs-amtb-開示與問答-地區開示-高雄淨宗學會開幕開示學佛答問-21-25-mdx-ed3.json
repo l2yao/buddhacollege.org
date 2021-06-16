@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/高雄淨宗學會開幕開示學佛答問21-25",
+  "id": "amtb/開示與問答/地區開示/高雄淨宗學會開幕開示學佛答問21-25",
+  "isDocsHomePage": false,
+  "title": "高雄淨宗學會開幕開示(學佛答問21-25)",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/高雄淨宗學會開幕開示學佛答問21-25.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/高雄淨宗學會開幕開示學佛答問21-25",
+  "permalink": "/docs/amtb/開示與問答/地區開示/高雄淨宗學會開幕開示學佛答問21-25",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/高雄淨宗學會開幕開示學佛答問21-25.mdx",
+  "version": "current",
+  "sidebarPosition": 362,
+  "frontMatter": {
+    "sidebar_position": 362
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "新加坡淨宗學會開幕實況",
+    "permalink": "/docs/amtb/開示與問答/地區開示/新加坡淨宗學會開幕實況"
+  },
+  "next": {
+    "title": "傳心法要",
+    "permalink": "/docs/amtb/開示與問答/地區開示/傳心法要"
+  }
+}

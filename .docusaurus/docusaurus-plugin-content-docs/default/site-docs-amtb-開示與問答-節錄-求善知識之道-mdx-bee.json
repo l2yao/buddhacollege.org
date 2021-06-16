@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/求善知識之道",
+  "id": "amtb/開示與問答/節錄/求善知識之道",
+  "isDocsHomePage": false,
+  "title": "求善知識之道",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/求善知識之道.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/求善知識之道",
+  "permalink": "/docs/amtb/開示與問答/節錄/求善知識之道",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/求善知識之道.mdx",
+  "version": "current",
+  "sidebarPosition": 3428,
+  "frontMatter": {
+    "sidebar_position": 3428
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "三解脫門",
+    "permalink": "/docs/amtb/開示與問答/節錄/三解脫門"
+  },
+  "next": {
+    "title": "法界釋義",
+    "permalink": "/docs/amtb/開示與問答/節錄/法界釋義"
+  }
+}

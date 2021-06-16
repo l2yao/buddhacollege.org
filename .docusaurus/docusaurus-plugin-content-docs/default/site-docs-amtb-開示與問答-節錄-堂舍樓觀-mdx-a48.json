@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/堂舍樓觀",
+  "id": "amtb/開示與問答/節錄/堂舍樓觀",
+  "isDocsHomePage": false,
+  "title": "堂舍樓觀",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/堂舍樓觀.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/堂舍樓觀",
+  "permalink": "/docs/amtb/開示與問答/節錄/堂舍樓觀",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/堂舍樓觀.mdx",
+  "version": "current",
+  "sidebarPosition": 1129,
+  "frontMatter": {
+    "sidebar_position": 1129
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "四十八願核心",
+    "permalink": "/docs/amtb/開示與問答/節錄/四十八願核心"
+  },
+  "next": {
+    "title": "念一句阿彌陀佛就是住真實慧",
+    "permalink": "/docs/amtb/開示與問答/節錄/念一句阿彌陀佛就是住真實慧"
+  }
+}

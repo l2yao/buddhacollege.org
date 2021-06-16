@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/放下屠刀立地成佛",
+  "id": "amtb/開示與問答/節錄/放下屠刀立地成佛",
+  "isDocsHomePage": false,
+  "title": "放下屠刀立地成佛",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/放下屠刀立地成佛.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/放下屠刀立地成佛",
+  "permalink": "/docs/amtb/開示與問答/節錄/放下屠刀立地成佛",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/放下屠刀立地成佛.mdx",
+  "version": "current",
+  "sidebarPosition": 1088,
+  "frontMatter": {
+    "sidebar_position": 1088
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "四意趣",
+    "permalink": "/docs/amtb/開示與問答/節錄/四意趣"
+  },
+  "next": {
+    "title": "六種智慧",
+    "permalink": "/docs/amtb/開示與問答/節錄/六種智慧"
+  }
+}

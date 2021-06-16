@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/華嚴三昧",
+  "id": "amtb/開示與問答/節錄/華嚴三昧",
+  "isDocsHomePage": false,
+  "title": "華嚴三昧",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/華嚴三昧.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/華嚴三昧",
+  "permalink": "/docs/amtb/開示與問答/節錄/華嚴三昧",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/華嚴三昧.mdx",
+  "version": "current",
+  "sidebarPosition": 1187,
+  "frontMatter": {
+    "sidebar_position": 1187
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "捨家棄欲 而作沙門",
+    "permalink": "/docs/amtb/開示與問答/節錄/捨家棄欲-而作沙門"
+  },
+  "next": {
+    "title": "菩薩染淨觀",
+    "permalink": "/docs/amtb/開示與問答/節錄/菩薩染淨觀"
+  }
+}

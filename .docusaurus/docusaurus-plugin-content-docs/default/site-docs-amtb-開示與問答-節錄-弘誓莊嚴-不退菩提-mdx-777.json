@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/弘誓莊嚴-不退菩提",
+  "id": "amtb/開示與問答/節錄/弘誓莊嚴-不退菩提",
+  "isDocsHomePage": false,
+  "title": "弘誓莊嚴  不退菩提",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/弘誓莊嚴-不退菩提.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/弘誓莊嚴-不退菩提",
+  "permalink": "/docs/amtb/開示與問答/節錄/弘誓莊嚴-不退菩提",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/弘誓莊嚴-不退菩提.mdx",
+  "version": "current",
+  "sidebarPosition": 3904,
+  "frontMatter": {
+    "sidebar_position": 3904
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "諸佛本心 勸人念佛",
+    "permalink": "/docs/amtb/開示與問答/節錄/諸佛本心-勸人念佛"
+  },
+  "next": {
+    "title": "大經總結  學佛榜樣",
+    "permalink": "/docs/amtb/開示與問答/節錄/大經總結-學佛榜樣"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/種性",
+  "id": "amtb/開示與問答/節錄/種性",
+  "isDocsHomePage": false,
+  "title": "種性",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/種性.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/種性",
+  "permalink": "/docs/amtb/開示與問答/節錄/種性",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/種性.mdx",
+  "version": "current",
+  "sidebarPosition": 1140,
+  "frontMatter": {
+    "sidebar_position": 1140
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "七辯",
+    "permalink": "/docs/amtb/開示與問答/節錄/七辯"
+  },
+  "next": {
+    "title": "如何發無上菩提心",
+    "permalink": "/docs/amtb/開示與問答/節錄/如何發無上菩提心"
+  }
+}

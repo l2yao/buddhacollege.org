@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/端守佛誨永離三途",
+  "id": "amtb/開示與問答/節錄/端守佛誨永離三途",
+  "isDocsHomePage": false,
+  "title": "端守佛誨永離三途",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/端守佛誨永離三途.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/端守佛誨永離三途",
+  "permalink": "/docs/amtb/開示與問答/節錄/端守佛誨永離三途",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/端守佛誨永離三途.mdx",
+  "version": "current",
+  "sidebarPosition": 3772,
+  "frontMatter": {
+    "sidebar_position": 3772
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "長壽泥洹之道",
+    "permalink": "/docs/amtb/開示與問答/節錄/長壽泥洹之道"
+  },
+  "next": {
+    "title": "言行安定廣植德本",
+    "permalink": "/docs/amtb/開示與問答/節錄/言行安定廣植德本"
+  }
+}

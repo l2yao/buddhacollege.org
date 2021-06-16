@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/救度眾生-先斷自己的煩惱習氣",
+  "id": "amtb/開示與問答/地區開示/救度眾生-先斷自己的煩惱習氣",
+  "isDocsHomePage": false,
+  "title": "救度眾生 先斷自己的煩惱習氣",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/救度眾生-先斷自己的煩惱習氣.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/救度眾生-先斷自己的煩惱習氣",
+  "permalink": "/docs/amtb/開示與問答/地區開示/救度眾生-先斷自己的煩惱習氣",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/救度眾生-先斷自己的煩惱習氣.mdx",
+  "version": "current",
+  "sidebarPosition": 516,
+  "frontMatter": {
+    "sidebar_position": 516
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "參訪中華醫院致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/參訪中華醫院致詞"
+  },
+  "next": {
+    "title": "格里菲斯大學榮譽博士致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/格里菲斯大學榮譽博士致詞"
+  }
+}

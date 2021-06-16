@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/各地活動紀念影片/世界佛教徒聯誼會致詞",
+  "id": "amtb/開示與問答/各地活動紀念影片/世界佛教徒聯誼會致詞",
+  "isDocsHomePage": false,
+  "title": "世界佛教徒聯誼會致詞",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/各地活動紀念影片/世界佛教徒聯誼會致詞.mdx",
+  "sourceDirName": "amtb/開示與問答/各地活動紀念影片",
+  "slug": "/amtb/開示與問答/各地活動紀念影片/世界佛教徒聯誼會致詞",
+  "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/世界佛教徒聯誼會致詞",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/各地活動紀念影片/世界佛教徒聯誼會致詞.mdx",
+  "version": "current",
+  "sidebarPosition": 3338,
+  "frontMatter": {
+    "sidebar_position": 3338
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "中華民族萬姓先祖紀念堂落成典禮",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/中華民族萬姓先祖紀念堂落成典禮"
+  },
+  "next": {
+    "title": "2012年5月泰國弘法行記",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/2012年5月泰國弘法行記"
+  }
+}

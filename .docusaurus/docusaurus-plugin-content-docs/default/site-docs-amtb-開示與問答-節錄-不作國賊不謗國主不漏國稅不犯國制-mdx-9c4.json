@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/不作國賊不謗國主不漏國稅不犯國制",
+  "id": "amtb/開示與問答/節錄/不作國賊不謗國主不漏國稅不犯國制",
+  "isDocsHomePage": false,
+  "title": "不作國賊、不謗國主、不漏國稅、不犯國制",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/不作國賊不謗國主不漏國稅不犯國制.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/不作國賊不謗國主不漏國稅不犯國制",
+  "permalink": "/docs/amtb/開示與問答/節錄/不作國賊不謗國主不漏國稅不犯國制",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/不作國賊不謗國主不漏國稅不犯國制.mdx",
+  "version": "current",
+  "sidebarPosition": 1183,
+  "frontMatter": {
+    "sidebar_position": 1183
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "普化眾生",
+    "permalink": "/docs/amtb/開示與問答/節錄/普化眾生"
+  },
+  "next": {
+    "title": "身眾神",
+    "permalink": "/docs/amtb/開示與問答/節錄/身眾神"
+  }
+}

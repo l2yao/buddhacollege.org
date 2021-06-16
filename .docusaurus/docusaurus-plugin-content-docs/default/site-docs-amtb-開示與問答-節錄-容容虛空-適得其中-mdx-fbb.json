@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/容容虛空-適得其中",
+  "id": "amtb/開示與問答/節錄/容容虛空-適得其中",
+  "isDocsHomePage": false,
+  "title": "容容虛空  適得其中",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/容容虛空-適得其中.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/容容虛空-適得其中",
+  "permalink": "/docs/amtb/開示與問答/節錄/容容虛空-適得其中",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/容容虛空-適得其中.mdx",
+  "version": "current",
+  "sidebarPosition": 3751,
+  "frontMatter": {
+    "sidebar_position": 3751
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "究竟菩薩諸波羅蜜",
+    "permalink": "/docs/amtb/開示與問答/節錄/究竟菩薩諸波羅蜜"
+  },
+  "next": {
+    "title": "自然中自然相",
+    "permalink": "/docs/amtb/開示與問答/節錄/自然中自然相"
+  }
+}

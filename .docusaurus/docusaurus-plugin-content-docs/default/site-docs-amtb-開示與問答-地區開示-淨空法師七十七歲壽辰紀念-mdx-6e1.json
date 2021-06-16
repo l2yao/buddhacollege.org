@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/淨空法師七十七歲壽辰紀念",
+  "id": "amtb/開示與問答/地區開示/淨空法師七十七歲壽辰紀念",
+  "isDocsHomePage": false,
+  "title": "淨空法師七十七歲壽辰紀念",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/淨空法師七十七歲壽辰紀念.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/淨空法師七十七歲壽辰紀念",
+  "permalink": "/docs/amtb/開示與問答/地區開示/淨空法師七十七歲壽辰紀念",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/淨空法師七十七歲壽辰紀念.mdx",
+  "version": "current",
+  "sidebarPosition": 495,
+  "frontMatter": {
+    "sidebar_position": 495
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "於香港中華萬姓先組紀念堂對義工開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/於香港中華萬姓先組紀念堂對義工開示"
+  },
+  "next": {
+    "title": "五十年學佛心得精論",
+    "permalink": "/docs/amtb/開示與問答/地區開示/五十年學佛心得精論"
+  }
+}

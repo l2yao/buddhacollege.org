@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/有福有慧量大福大",
+  "id": "amtb/開示與問答/節錄/有福有慧量大福大",
+  "isDocsHomePage": false,
+  "title": "有福有慧、量大福大",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/有福有慧量大福大.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/有福有慧量大福大",
+  "permalink": "/docs/amtb/開示與問答/節錄/有福有慧量大福大",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/有福有慧量大福大.mdx",
+  "version": "current",
+  "sidebarPosition": 1073,
+  "frontMatter": {
+    "sidebar_position": 1073
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "一切人事物到這都是圓",
+    "permalink": "/docs/amtb/開示與問答/節錄/一切人事物到這都是圓"
+  },
+  "next": {
+    "title": "今生要成就、必以戒為師",
+    "permalink": "/docs/amtb/開示與問答/節錄/今生要成就必以戒為師"
+  }
+}

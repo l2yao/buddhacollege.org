@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/認祖歸宗-靠定彌陀",
+  "id": "amtb/開示與問答/地區開示/認祖歸宗-靠定彌陀",
+  "isDocsHomePage": false,
+  "title": "認祖歸宗 靠定彌陀",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/認祖歸宗-靠定彌陀.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/認祖歸宗-靠定彌陀",
+  "permalink": "/docs/amtb/開示與問答/地區開示/認祖歸宗-靠定彌陀",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/認祖歸宗-靠定彌陀.mdx",
+  "version": "current",
+  "sidebarPosition": 5716,
+  "frontMatter": {
+    "sidebar_position": 5716
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "法音宣流（開示集）",
+    "permalink": "/docs/amtb/開示與問答/地區開示/法音宣流開示集"
+  },
+  "next": {
+    "title": "九十四歲壽辰開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/九十四歲壽辰開示"
+  }
+}

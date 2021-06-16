@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/學佛的真實利益",
+  "id": "amtb/開示與問答/地區開示/學佛的真實利益",
+  "isDocsHomePage": false,
+  "title": "學佛的真實利益",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/學佛的真實利益.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/學佛的真實利益",
+  "permalink": "/docs/amtb/開示與問答/地區開示/學佛的真實利益",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/學佛的真實利益.mdx",
+  "version": "current",
+  "sidebarPosition": 545,
+  "frontMatter": {
+    "sidebar_position": 545
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "澳洲淨宗學院開幕典禮致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/澳洲淨宗學院開幕典禮致詞"
+  },
+  "next": {
+    "title": "訪問淨空法師--北美衛視董事長蕭政之先生",
+    "permalink": "/docs/amtb/開示與問答/地區開示/訪問淨空法師-北美衛視董事長蕭政之先生"
+  }
+}

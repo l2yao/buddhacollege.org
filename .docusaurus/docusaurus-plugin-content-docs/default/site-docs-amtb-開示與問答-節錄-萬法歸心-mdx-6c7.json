@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/萬法歸心",
+  "id": "amtb/開示與問答/節錄/萬法歸心",
+  "isDocsHomePage": false,
+  "title": "萬法歸心",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/萬法歸心.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/萬法歸心",
+  "permalink": "/docs/amtb/開示與問答/節錄/萬法歸心",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/萬法歸心.mdx",
+  "version": "current",
+  "sidebarPosition": 1206,
+  "frontMatter": {
+    "sidebar_position": 1206
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "根淨境清",
+    "permalink": "/docs/amtb/開示與問答/節錄/根淨境清"
+  },
+  "next": {
+    "title": "毛光勝德　同福開覺",
+    "permalink": "/docs/amtb/開示與問答/節錄/毛光勝德-同福開覺"
+  }
+}

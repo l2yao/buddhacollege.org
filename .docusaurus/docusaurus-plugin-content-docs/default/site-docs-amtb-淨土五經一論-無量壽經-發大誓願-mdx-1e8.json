@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/無量壽經/發大誓願",
+  "id": "amtb/淨土五經一論/無量壽經/發大誓願",
+  "isDocsHomePage": false,
+  "title": "發大誓願",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/無量壽經/發大誓願.mdx",
+  "sourceDirName": "amtb/淨土五經一論/無量壽經",
+  "slug": "/amtb/淨土五經一論/無量壽經/發大誓願",
+  "permalink": "/docs/amtb/淨土五經一論/無量壽經/發大誓願",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/無量壽經/發大誓願.mdx",
+  "version": "current",
+  "sidebarPosition": 4291,
+  "frontMatter": {
+    "sidebar_position": 4291
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "無量壽經科註第四回學習班",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/無量壽經科註第四回學習班"
+  },
+  "next": {
+    "title": "發大誓願（第二回）",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/發大誓願第二回"
+  }
+}

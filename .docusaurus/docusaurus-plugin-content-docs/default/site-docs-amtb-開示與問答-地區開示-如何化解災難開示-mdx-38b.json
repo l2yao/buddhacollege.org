@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/如何化解災難開示",
+  "id": "amtb/開示與問答/地區開示/如何化解災難開示",
+  "isDocsHomePage": false,
+  "title": "「如何化解災難」開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/如何化解災難開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/如何化解災難開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/如何化解災難開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/如何化解災難開示.mdx",
+  "version": "current",
+  "sidebarPosition": 4322,
+  "frontMatter": {
+    "sidebar_position": 4322
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "「正信佛教」開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/正信佛教開示"
+  },
+  "next": {
+    "title": "「什麼是佛」開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/什麼是佛開示"
+  }
+}

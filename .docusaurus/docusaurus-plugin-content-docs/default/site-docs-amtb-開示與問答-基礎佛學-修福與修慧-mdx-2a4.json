@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/基礎佛學/修福與修慧",
+  "id": "amtb/開示與問答/基礎佛學/修福與修慧",
+  "isDocsHomePage": false,
+  "title": "修福與修慧",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/基礎佛學/修福與修慧.mdx",
+  "sourceDirName": "amtb/開示與問答/基礎佛學",
+  "slug": "/amtb/開示與問答/基礎佛學/修福與修慧",
+  "permalink": "/docs/amtb/開示與問答/基礎佛學/修福與修慧",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/基礎佛學/修福與修慧.mdx",
+  "version": "current",
+  "sidebarPosition": 879,
+  "frontMatter": {
+    "sidebar_position": 879
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "大乘菩薩修行次第",
+    "permalink": "/docs/amtb/開示與問答/基礎佛學/大乘菩薩修行次第"
+  },
+  "next": {
+    "title": "真善美慧的人生",
+    "permalink": "/docs/amtb/開示與問答/基礎佛學/真善美慧的人生"
+  }
+}

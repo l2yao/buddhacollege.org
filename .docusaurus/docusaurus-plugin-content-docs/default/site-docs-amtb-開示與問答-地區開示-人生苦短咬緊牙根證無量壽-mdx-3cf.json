@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/人生苦短咬緊牙根證無量壽",
+  "id": "amtb/開示與問答/地區開示/人生苦短咬緊牙根證無量壽",
+  "isDocsHomePage": false,
+  "title": "人生苦短咬緊牙根證無量壽",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/人生苦短咬緊牙根證無量壽.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/人生苦短咬緊牙根證無量壽",
+  "permalink": "/docs/amtb/開示與問答/地區開示/人生苦短咬緊牙根證無量壽",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/人生苦短咬緊牙根證無量壽.mdx",
+  "version": "current",
+  "sidebarPosition": 499,
+  "frontMatter": {
+    "sidebar_position": 499
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "韓故館長生西六週年追思紀念法會",
+    "permalink": "/docs/amtb/開示與問答/地區開示/韓故館長生西六週年追思紀念法會"
+  },
+  "next": {
+    "title": "古晉佛七開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/古晉佛七開示"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/阿彌陀經/往生咒",
+  "id": "amtb/淨土五經一論/阿彌陀經/往生咒",
+  "isDocsHomePage": false,
+  "title": "往生咒",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/阿彌陀經/往生咒.mdx",
+  "sourceDirName": "amtb/淨土五經一論/阿彌陀經",
+  "slug": "/amtb/淨土五經一論/阿彌陀經/往生咒",
+  "permalink": "/docs/amtb/淨土五經一論/阿彌陀經/往生咒",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/阿彌陀經/往生咒.mdx",
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "彌陀要解菁華",
+    "permalink": "/docs/amtb/淨土五經一論/阿彌陀經/彌陀要解菁華"
+  },
+  "next": {
+    "title": "佛說阿彌陀經要解便蒙鈔",
+    "permalink": "/docs/amtb/淨土五經一論/阿彌陀經/佛說阿彌陀經要解便蒙鈔"
+  }
+}

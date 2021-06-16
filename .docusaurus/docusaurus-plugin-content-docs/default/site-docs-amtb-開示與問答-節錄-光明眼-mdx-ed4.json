@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/光明眼",
+  "id": "amtb/開示與問答/節錄/光明眼",
+  "isDocsHomePage": false,
+  "title": "光明眼",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/光明眼.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/光明眼",
+  "permalink": "/docs/amtb/開示與問答/節錄/光明眼",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/光明眼.mdx",
+  "version": "current",
+  "sidebarPosition": 3213,
+  "frontMatter": {
+    "sidebar_position": 3213
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "離欲深正念 淨慧修梵行",
+    "permalink": "/docs/amtb/開示與問答/節錄/離欲深正念-淨慧修梵行"
+  },
+  "next": {
+    "title": "圓滿昔所願 一切皆成佛",
+    "permalink": "/docs/amtb/開示與問答/節錄/圓滿昔所願-一切皆成佛"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/當前應如何修學才能自在往生",
+  "id": "amtb/開示與問答/地區開示/當前應如何修學才能自在往生",
+  "isDocsHomePage": false,
+  "title": "當前應如何修學才能自在往生",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/當前應如何修學才能自在往生.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/當前應如何修學才能自在往生",
+  "permalink": "/docs/amtb/開示與問答/地區開示/當前應如何修學才能自在往生",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/當前應如何修學才能自在往生.mdx",
+  "version": "current",
+  "sidebarPosition": 430,
+  "frontMatter": {
+    "sidebar_position": 430
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "千禧年的預言啟示與展望",
+    "permalink": "/docs/amtb/開示與問答/地區開示/千禧年的預言啟示與展望"
+  },
+  "next": {
+    "title": "一切眾生皆成佛 Everyone Can Be a Buddha",
+    "permalink": "/docs/amtb/開示與問答/地區開示/一切眾生皆成佛-everyone-can-be-a-buddha"
+  }
+}

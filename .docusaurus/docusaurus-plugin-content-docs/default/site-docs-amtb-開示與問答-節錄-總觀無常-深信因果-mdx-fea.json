@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/總觀無常-深信因果",
+  "id": "amtb/開示與問答/節錄/總觀無常-深信因果",
+  "isDocsHomePage": false,
+  "title": "總觀無常  深信因果",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/總觀無常-深信因果.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/總觀無常-深信因果",
+  "permalink": "/docs/amtb/開示與問答/節錄/總觀無常-深信因果",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/總觀無常-深信因果.mdx",
+  "version": "current",
+  "sidebarPosition": 2459,
+  "frontMatter": {
+    "sidebar_position": 2459
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "德貴謙虛",
+    "permalink": "/docs/amtb/開示與問答/節錄/德貴謙虛"
+  },
+  "next": {
+    "title": "中峰三時繫念法事全集節要",
+    "permalink": "/docs/amtb/開示與問答/節錄/中峰三時繫念法事全集節要"
+  }
+}

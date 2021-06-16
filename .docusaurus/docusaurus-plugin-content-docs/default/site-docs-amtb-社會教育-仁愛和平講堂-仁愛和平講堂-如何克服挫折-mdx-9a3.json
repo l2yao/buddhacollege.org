@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何克服挫折",
+  "id": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何克服挫折",
+  "isDocsHomePage": false,
+  "title": "仁愛和平講堂－如何克服挫折",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何克服挫折.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何克服挫折",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何克服挫折",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何克服挫折.mdx",
+  "version": "current",
+  "sidebarPosition": 2237,
+  "frontMatter": {
+    "sidebar_position": 2237
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仁愛和平講堂－如何推動品格道德教育",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何推動品格道德教育"
+  },
+  "next": {
+    "title": "仁愛和平講堂－為災民祈福 解救世界災難",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-為災民祈福-解救世界災難"
+  }
+}

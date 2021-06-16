@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/弘法與護法",
+  "id": "amtb/開示與問答/地區開示/弘法與護法",
+  "isDocsHomePage": false,
+  "title": "弘法與護法",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/弘法與護法.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/弘法與護法",
+  "permalink": "/docs/amtb/開示與問答/地區開示/弘法與護法",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/弘法與護法.mdx",
+  "version": "current",
+  "sidebarPosition": 374,
+  "frontMatter": {
+    "sidebar_position": 374
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1997年新春開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/1997年新春開示"
+  },
+  "next": {
+    "title": "1997年澳洲淨宗學會講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/1997年澳洲淨宗學會講話"
+  }
+}

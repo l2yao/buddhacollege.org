@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/祖師大德/行策大師/行策大師淨土警語菁華",
+  "id": "amtb/祖師大德/行策大師/行策大師淨土警語菁華",
+  "isDocsHomePage": false,
+  "title": "行策大師淨土警語菁華",
+  "description": "",
+  "source": "@site/docs/amtb/祖師大德/行策大師/行策大師淨土警語菁華.mdx",
+  "sourceDirName": "amtb/祖師大德/行策大師",
+  "slug": "/amtb/祖師大德/行策大師/行策大師淨土警語菁華",
+  "permalink": "/docs/amtb/祖師大德/行策大師/行策大師淨土警語菁華",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/祖師大德/行策大師/行策大師淨土警語菁華.mdx",
+  "version": "current",
+  "sidebarPosition": 323,
+  "frontMatter": {
+    "sidebar_position": 323
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "四書蕅益解論語學而篇",
+    "permalink": "/docs/amtb/祖師大德/蕅益大師/四書蕅益解論語學而篇"
+  },
+  "next": {
+    "title": "雲谷大師傳",
+    "permalink": "/docs/amtb/祖師大德/雲谷大師/雲谷大師傳"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/淨空老法師參訪原居民學校講話",
+  "id": "amtb/開示與問答/地區開示/淨空老法師參訪原居民學校講話",
+  "isDocsHomePage": false,
+  "title": "淨空老法師參訪原居民學校講話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/淨空老法師參訪原居民學校講話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/淨空老法師參訪原居民學校講話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/淨空老法師參訪原居民學校講話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/淨空老法師參訪原居民學校講話.mdx",
+  "version": "current",
+  "sidebarPosition": 2382,
+  "frontMatter": {
+    "sidebar_position": 2382
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "拜訪澳洲錫克教",
+    "permalink": "/docs/amtb/開示與問答/地區開示/拜訪澳洲錫克教"
+  },
+  "next": {
+    "title": "對極樂寺菩提別院的開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對極樂寺菩提別院的開示"
+  }
+}

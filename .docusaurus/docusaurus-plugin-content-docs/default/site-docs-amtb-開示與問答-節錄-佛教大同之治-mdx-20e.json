@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/佛教大同之治",
+  "id": "amtb/開示與問答/節錄/佛教大同之治",
+  "isDocsHomePage": false,
+  "title": "佛教大同之治",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/佛教大同之治.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/佛教大同之治",
+  "permalink": "/docs/amtb/開示與問答/節錄/佛教大同之治",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/佛教大同之治.mdx",
+  "version": "current",
+  "sidebarPosition": 3777,
+  "frontMatter": {
+    "sidebar_position": 3777
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "奉持經戒  如貧得寶",
+    "permalink": "/docs/amtb/開示與問答/節錄/奉持經戒-如貧得寶"
+  },
+  "next": {
+    "title": "仰信佛智  修習善本",
+    "permalink": "/docs/amtb/開示與問答/節錄/仰信佛智-修習善本"
+  }
+}

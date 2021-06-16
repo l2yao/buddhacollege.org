@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/傳統文化/人類文化的根本-孝道與師道",
+  "id": "amtb/社會教育/傳統文化/人類文化的根本-孝道與師道",
+  "isDocsHomePage": false,
+  "title": "人類文化的根本 孝道與師道",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/傳統文化/人類文化的根本-孝道與師道.mdx",
+  "sourceDirName": "amtb/社會教育/傳統文化",
+  "slug": "/amtb/社會教育/傳統文化/人類文化的根本-孝道與師道",
+  "permalink": "/docs/amtb/社會教育/傳統文化/人類文化的根本-孝道與師道",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/傳統文化/人類文化的根本-孝道與師道.mdx",
+  "version": "current",
+  "sidebarPosition": 716,
+  "frontMatter": {
+    "sidebar_position": 716
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "對江陰江南彌陀村萬姓先祖紀念堂開幕的講話",
+    "permalink": "/docs/amtb/社會教育/傳統文化/對江陰江南彌陀村萬姓先祖紀念堂開幕的講話"
+  },
+  "next": {
+    "title": "2007年淨宗弘法大會－中華文化的根",
+    "permalink": "/docs/amtb/社會教育/傳統文化/2007年淨宗弘法大會-中華文化的根"
+  }
+}

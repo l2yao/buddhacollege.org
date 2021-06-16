@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/香港佛陀教育協會會員大會講話",
+  "id": "amtb/開示與問答/地區開示/香港佛陀教育協會會員大會講話",
+  "isDocsHomePage": false,
+  "title": "香港佛陀教育協會會員大會講話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/香港佛陀教育協會會員大會講話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/香港佛陀教育協會會員大會講話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/香港佛陀教育協會會員大會講話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/香港佛陀教育協會會員大會講話.mdx",
+  "version": "current",
+  "sidebarPosition": 2350,
+  "frontMatter": {
+    "sidebar_position": 2350
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "馬來西亞廬江文化教育中心啟用典禮－歡送晚宴致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/馬來西亞廬江文化教育中心啟用典禮-歡送晚宴致詞"
+  },
+  "next": {
+    "title": "慶祝教師節－淨空老法師開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/慶祝教師節-淨空老法師開示"
+  }
+}

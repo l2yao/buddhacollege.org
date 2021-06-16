@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/要怎樣克服煩惱",
+  "id": "amtb/開示與問答/節錄/要怎樣克服煩惱",
+  "isDocsHomePage": false,
+  "title": "要怎樣克服煩惱",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/要怎樣克服煩惱.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/要怎樣克服煩惱",
+  "permalink": "/docs/amtb/開示與問答/節錄/要怎樣克服煩惱",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/要怎樣克服煩惱.mdx",
+  "version": "current",
+  "sidebarPosition": 2529,
+  "frontMatter": {
+    "sidebar_position": 2529
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何才能使自己功夫得力",
+    "permalink": "/docs/amtb/開示與問答/節錄/如何才能使自己功夫得力"
+  },
+  "next": {
+    "title": "學習的秘訣是不斷的重複",
+    "permalink": "/docs/amtb/開示與問答/節錄/學習的秘訣是不斷的重複"
+  }
+}

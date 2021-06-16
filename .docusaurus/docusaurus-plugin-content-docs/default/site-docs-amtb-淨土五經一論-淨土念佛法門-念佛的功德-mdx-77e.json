@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/淨土念佛法門/念佛的功德",
+  "id": "amtb/淨土五經一論/淨土念佛法門/念佛的功德",
+  "isDocsHomePage": false,
+  "title": "念佛的功德",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/淨土念佛法門/念佛的功德.mdx",
+  "sourceDirName": "amtb/淨土五經一論/淨土念佛法門",
+  "slug": "/amtb/淨土五經一論/淨土念佛法門/念佛的功德",
+  "permalink": "/docs/amtb/淨土五經一論/淨土念佛法門/念佛的功德",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/淨土念佛法門/念佛的功德.mdx",
+  "version": "current",
+  "sidebarPosition": 190,
+  "frontMatter": {
+    "sidebar_position": 190
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "淨宗科學觀",
+    "permalink": "/docs/amtb/淨土五經一論/淨土念佛法門/淨宗科學觀"
+  },
+  "next": {
+    "title": "淨土資糧",
+    "permalink": "/docs/amtb/淨土五經一論/淨土念佛法門/淨土資糧"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/大乘經論/修華嚴奧旨妄盡還源觀/修華嚴奧旨妄盡還源觀",
+  "id": "amtb/大乘經論/修華嚴奧旨妄盡還源觀/修華嚴奧旨妄盡還源觀",
+  "isDocsHomePage": false,
+  "title": "修華嚴奧旨妄盡還源觀",
+  "description": "",
+  "source": "@site/docs/amtb/大乘經論/修華嚴奧旨妄盡還源觀/修華嚴奧旨妄盡還源觀.mdx",
+  "sourceDirName": "amtb/大乘經論/修華嚴奧旨妄盡還源觀",
+  "slug": "/amtb/大乘經論/修華嚴奧旨妄盡還源觀/修華嚴奧旨妄盡還源觀",
+  "permalink": "/docs/amtb/大乘經論/修華嚴奧旨妄盡還源觀/修華嚴奧旨妄盡還源觀",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/大乘經論/修華嚴奧旨妄盡還源觀/修華嚴奧旨妄盡還源觀.mdx",
+  "version": "current",
+  "sidebarPosition": 180,
+  "frontMatter": {
+    "sidebar_position": 180
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "佛說八大人覺經",
+    "permalink": "/docs/amtb/大乘經論/佛說八大人覺經/佛說八大人覺經"
+  },
+  "next": {
+    "title": "華嚴經第七迴向章",
+    "permalink": "/docs/amtb/大乘經論/八十華嚴/華嚴經第七迴向章"
+  }
+}

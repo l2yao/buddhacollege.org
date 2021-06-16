@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/普賢德-恆順眾生",
+  "id": "amtb/開示與問答/節錄/普賢德-恆順眾生",
+  "isDocsHomePage": false,
+  "title": "普賢德-恆順眾生",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/普賢德-恆順眾生.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/普賢德-恆順眾生",
+  "permalink": "/docs/amtb/開示與問答/節錄/普賢德-恆順眾生",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/普賢德-恆順眾生.mdx",
+  "version": "current",
+  "sidebarPosition": 1177,
+  "frontMatter": {
+    "sidebar_position": 1177
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "十自在",
+    "permalink": "/docs/amtb/開示與問答/節錄/十自在"
+  },
+  "next": {
+    "title": "普賢德-普皆回向",
+    "permalink": "/docs/amtb/開示與問答/節錄/普賢德-普皆回向"
+  }
+}

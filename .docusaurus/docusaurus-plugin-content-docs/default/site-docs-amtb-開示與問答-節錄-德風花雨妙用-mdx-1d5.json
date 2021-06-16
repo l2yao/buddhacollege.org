@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/德風花雨妙用",
+  "id": "amtb/開示與問答/節錄/德風花雨妙用",
+  "isDocsHomePage": false,
+  "title": "德風花雨妙用",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/德風花雨妙用.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/德風花雨妙用",
+  "permalink": "/docs/amtb/開示與問答/節錄/德風花雨妙用",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/德風花雨妙用.mdx",
+  "version": "current",
+  "sidebarPosition": 3688,
+  "frontMatter": {
+    "sidebar_position": 3688
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "智慧明了 神通自在",
+    "permalink": "/docs/amtb/開示與問答/節錄/智慧明了-神通自在"
+  },
+  "next": {
+    "title": "寶蓮佛光 無邊妙用",
+    "permalink": "/docs/amtb/開示與問答/節錄/寶蓮佛光-無邊妙用"
+  }
+}

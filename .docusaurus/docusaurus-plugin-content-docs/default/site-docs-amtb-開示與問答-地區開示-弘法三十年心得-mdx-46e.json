@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/弘法三十年心得",
+  "id": "amtb/開示與問答/地區開示/弘法三十年心得",
+  "isDocsHomePage": false,
+  "title": "弘法三十年心得",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/弘法三十年心得.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/弘法三十年心得",
+  "permalink": "/docs/amtb/開示與問答/地區開示/弘法三十年心得",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/弘法三十年心得.mdx",
+  "version": "current",
+  "sidebarPosition": 338,
+  "frontMatter": {
+    "sidebar_position": 338
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "《大愛無疆》",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/大愛無疆"
+  },
+  "next": {
+    "title": "亞洲弘法心得",
+    "permalink": "/docs/amtb/開示與問答/地區開示/亞洲弘法心得"
+  }
+}

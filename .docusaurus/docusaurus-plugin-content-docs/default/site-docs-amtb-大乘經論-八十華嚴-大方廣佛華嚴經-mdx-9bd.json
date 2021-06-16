@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/大乘經論/八十華嚴/大方廣佛華嚴經",
+  "id": "amtb/大乘經論/八十華嚴/大方廣佛華嚴經",
+  "isDocsHomePage": false,
+  "title": "大方廣佛華嚴經",
+  "description": "",
+  "source": "@site/docs/amtb/大乘經論/八十華嚴/大方廣佛華嚴經.mdx",
+  "sourceDirName": "amtb/大乘經論/八十華嚴",
+  "slug": "/amtb/大乘經論/八十華嚴/大方廣佛華嚴經",
+  "permalink": "/docs/amtb/大乘經論/八十華嚴/大方廣佛華嚴經",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/大乘經論/八十華嚴/大方廣佛華嚴經.mdx",
+  "version": "current",
+  "sidebarPosition": 145,
+  "frontMatter": {
+    "sidebar_position": 145
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "華嚴經第七迴向章",
+    "permalink": "/docs/amtb/大乘經論/八十華嚴/華嚴經第七迴向章"
+  },
+  "next": {
+    "title": "華嚴經疏論節要研習報告",
+    "permalink": "/docs/amtb/大乘經論/八十華嚴/華嚴經疏論節要研習報告"
+  }
+}

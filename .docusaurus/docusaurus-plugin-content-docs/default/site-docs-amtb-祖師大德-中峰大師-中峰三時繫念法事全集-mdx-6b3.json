@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/祖師大德/中峰大師/中峰三時繫念法事全集",
+  "id": "amtb/祖師大德/中峰大師/中峰三時繫念法事全集",
+  "isDocsHomePage": false,
+  "title": "中峰三時繫念法事全集",
+  "description": "",
+  "source": "@site/docs/amtb/祖師大德/中峰大師/中峰三時繫念法事全集.mdx",
+  "sourceDirName": "amtb/祖師大德/中峰大師",
+  "slug": "/amtb/祖師大德/中峰大師/中峰三時繫念法事全集",
+  "permalink": "/docs/amtb/祖師大德/中峰大師/中峰三時繫念法事全集",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/祖師大德/中峰大師/中峰三時繫念法事全集.mdx",
+  "version": "current",
+  "sidebarPosition": 331,
+  "frontMatter": {
+    "sidebar_position": 331
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "繫念法事講話",
+    "permalink": "/docs/amtb/祖師大德/中峰大師/繫念法事講話"
+  },
+  "next": {
+    "title": "倓老佛七開示簡介",
+    "permalink": "/docs/amtb/祖師大德/倓虛法師/倓老佛七開示簡介"
+  }
+}

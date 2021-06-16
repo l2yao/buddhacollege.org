@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/善惡",
+  "id": "amtb/開示與問答/節錄/善惡",
+  "isDocsHomePage": false,
+  "title": "善惡",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/善惡.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/善惡",
+  "permalink": "/docs/amtb/開示與問答/節錄/善惡",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/善惡.mdx",
+  "version": "current",
+  "sidebarPosition": 1181,
+  "frontMatter": {
+    "sidebar_position": 1181
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "六種戲論",
+    "permalink": "/docs/amtb/開示與問答/節錄/六種戲論"
+  },
+  "next": {
+    "title": "普化眾生",
+    "permalink": "/docs/amtb/開示與問答/節錄/普化眾生"
+  }
+}

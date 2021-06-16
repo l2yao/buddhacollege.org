@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/傳統文化/論語39-2四弘誓願",
+  "id": "amtb/社會教育/傳統文化/論語39-2四弘誓願",
+  "isDocsHomePage": false,
+  "title": "論語（？39-2四弘誓願）",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/傳統文化/論語39-2四弘誓願.mdx",
+  "sourceDirName": "amtb/社會教育/傳統文化",
+  "slug": "/amtb/社會教育/傳統文化/論語39-2四弘誓願",
+  "permalink": "/docs/amtb/社會教育/傳統文化/論語39-2四弘誓願",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/傳統文化/論語39-2四弘誓願.mdx",
+  "version": "current",
+  "sidebarPosition": 318,
+  "frontMatter": {
+    "sidebar_position": 318
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仁愛和平講堂－為災民祈福 解救世界災難",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-為災民祈福-解救世界災難"
+  },
+  "next": {
+    "title": "中國傳統文化-古聖先賢的教育",
+    "permalink": "/docs/amtb/社會教育/傳統文化/中國傳統文化-古聖先賢的教育"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/不順法度-廣行諸惡",
+  "id": "amtb/開示與問答/節錄/不順法度-廣行諸惡",
+  "isDocsHomePage": false,
+  "title": "不順法度  廣行諸惡",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/不順法度-廣行諸惡.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/不順法度-廣行諸惡",
+  "permalink": "/docs/amtb/開示與問答/節錄/不順法度-廣行諸惡",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/不順法度-廣行諸惡.mdx",
+  "version": "current",
+  "sidebarPosition": 3765,
+  "frontMatter": {
+    "sidebar_position": 3765
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "正心誠意  善護己念",
+    "permalink": "/docs/amtb/開示與問答/節錄/正心誠意-善護己念"
+  },
+  "next": {
+    "title": "自心現量  不斷之無",
+    "permalink": "/docs/amtb/開示與問答/節錄/自心現量-不斷之無"
+  }
+}

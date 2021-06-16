@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/金剛經的智言慧語",
+  "id": "amtb/開示與問答/節錄/金剛經的智言慧語",
+  "isDocsHomePage": false,
+  "title": "金剛經的智言慧語",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/金剛經的智言慧語.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/金剛經的智言慧語",
+  "permalink": "/docs/amtb/開示與問答/節錄/金剛經的智言慧語",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/金剛經的智言慧語.mdx",
+  "version": "current",
+  "sidebarPosition": 5098,
+  "frontMatter": {
+    "sidebar_position": 5098
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "法音普薰集",
+    "permalink": "/docs/amtb/開示與問答/節錄/法音普薰集"
+  },
+  "next": {
+    "title": "懂因果就能趨吉避凶",
+    "permalink": "/docs/amtb/開示與問答/節錄/懂因果就能趨吉避凶"
+  }
+}

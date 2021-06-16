@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/認識佛教/寺院教育/認識寺院教育",
+  "id": "amtb/認識佛教/寺院教育/認識寺院教育",
+  "isDocsHomePage": false,
+  "title": "認識寺院教育",
+  "description": "",
+  "source": "@site/docs/amtb/認識佛教/寺院教育/認識寺院教育.mdx",
+  "sourceDirName": "amtb/認識佛教/寺院教育",
+  "slug": "/amtb/認識佛教/寺院教育/認識寺院教育",
+  "permalink": "/docs/amtb/認識佛教/寺院教育/認識寺院教育",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/認識佛教/寺院教育/認識寺院教育.mdx",
+  "version": "current",
+  "sidebarPosition": 264,
+  "frontMatter": {
+    "sidebar_position": 264
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "宗教與生活座談會",
+    "permalink": "/docs/amtb/認識佛教/佛法人生/宗教與生活座談會"
+  },
+  "next": {
+    "title": "以出世的精神做入世的事業",
+    "permalink": "/docs/amtb/認識佛教/寺院教育/以出世的精神做入世的事業"
+  }
+}

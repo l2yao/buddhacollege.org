@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/治地住",
+  "id": "amtb/開示與問答/節錄/治地住",
+  "isDocsHomePage": false,
+  "title": "治地住",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/治地住.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/治地住",
+  "permalink": "/docs/amtb/開示與問答/節錄/治地住",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/治地住.mdx",
+  "version": "current",
+  "sidebarPosition": 2596,
+  "frontMatter": {
+    "sidebar_position": 2596
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "六事成就-供養、學戒、修悲、勤善、離喧、樂法",
+    "permalink": "/docs/amtb/開示與問答/節錄/六事成就-供養學戒修悲勤善離喧樂法"
+  },
+  "next": {
+    "title": "涅槃八味（三）",
+    "permalink": "/docs/amtb/開示與問答/節錄/涅槃八味三"
+  }
+}

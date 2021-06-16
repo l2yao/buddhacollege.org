@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/修覺正淨能超魔境",
+  "id": "amtb/開示與問答/節錄/修覺正淨能超魔境",
+  "isDocsHomePage": false,
+  "title": "修覺正淨能超魔境",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/修覺正淨能超魔境.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/修覺正淨能超魔境",
+  "permalink": "/docs/amtb/開示與問答/節錄/修覺正淨能超魔境",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/修覺正淨能超魔境.mdx",
+  "version": "current",
+  "sidebarPosition": 1202,
+  "frontMatter": {
+    "sidebar_position": 1202
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "順逆境緣 心平氣和－忍嚴光忍辱",
+    "permalink": "/docs/amtb/開示與問答/節錄/順逆境緣-心平氣和-忍嚴光忍辱"
+  },
+  "next": {
+    "title": "徹了真相 身心安樂",
+    "permalink": "/docs/amtb/開示與問答/節錄/徹了真相-身心安樂"
+  }
+}

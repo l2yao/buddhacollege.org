@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/無量壽經/當生成就第一法門",
+  "id": "amtb/淨土五經一論/無量壽經/當生成就第一法門",
+  "isDocsHomePage": false,
+  "title": "當生成就第一法門",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/無量壽經/當生成就第一法門.mdx",
+  "sourceDirName": "amtb/淨土五經一論/無量壽經",
+  "slug": "/amtb/淨土五經一論/無量壽經/當生成就第一法門",
+  "permalink": "/docs/amtb/淨土五經一論/無量壽經/當生成就第一法門",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/無量壽經/當生成就第一法門.mdx",
+  "version": "current",
+  "sidebarPosition": 24,
+  "frontMatter": {
+    "sidebar_position": 24
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "彌陀四十八願",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/彌陀四十八願"
+  },
+  "next": {
+    "title": "如何實踐彌陀大願",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/如何實踐彌陀大願"
+  }
+}

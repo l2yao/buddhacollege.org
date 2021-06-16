@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/印尼美都電視新聞探訪",
+  "id": "amtb/開示與問答/地區開示/印尼美都電視新聞探訪",
+  "isDocsHomePage": false,
+  "title": "印尼美都電視新聞探訪",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/印尼美都電視新聞探訪.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/印尼美都電視新聞探訪",
+  "permalink": "/docs/amtb/開示與問答/地區開示/印尼美都電視新聞探訪",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/印尼美都電視新聞探訪.mdx",
+  "version": "current",
+  "sidebarPosition": 594,
+  "frontMatter": {
+    "sidebar_position": 594
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "浙江雜技團來訪談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/浙江雜技團來訪談話"
+  },
+  "next": {
+    "title": "淨空老和尚對台灣華藏團參學開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/淨空老和尚對台灣華藏團參學開示"
+  }
+}

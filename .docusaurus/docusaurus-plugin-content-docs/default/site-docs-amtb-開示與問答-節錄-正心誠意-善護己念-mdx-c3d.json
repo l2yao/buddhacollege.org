@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/正心誠意-善護己念",
+  "id": "amtb/開示與問答/節錄/正心誠意-善護己念",
+  "isDocsHomePage": false,
+  "title": "正心誠意  善護己念",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/正心誠意-善護己念.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/正心誠意-善護己念",
+  "permalink": "/docs/amtb/開示與問答/節錄/正心誠意-善護己念",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/正心誠意-善護己念.mdx",
+  "version": "current",
+  "sidebarPosition": 3763,
+  "frontMatter": {
+    "sidebar_position": 3763
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "一世勤苦  永得樂果",
+    "permalink": "/docs/amtb/開示與問答/節錄/一世勤苦-永得樂果"
+  },
+  "next": {
+    "title": "不順法度  廣行諸惡",
+    "permalink": "/docs/amtb/開示與問答/節錄/不順法度-廣行諸惡"
+  }
+}

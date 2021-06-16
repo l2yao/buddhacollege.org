@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/念三寶大意",
+  "id": "amtb/開示與問答/節錄/念三寶大意",
+  "isDocsHomePage": false,
+  "title": "念三寶大意",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/念三寶大意.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/念三寶大意",
+  "permalink": "/docs/amtb/開示與問答/節錄/念三寶大意",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/念三寶大意.mdx",
+  "version": "current",
+  "sidebarPosition": 1196,
+  "frontMatter": {
+    "sidebar_position": 1196
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "十力 四無畏",
+    "permalink": "/docs/amtb/開示與問答/節錄/十力-四無畏"
+  },
+  "next": {
+    "title": "菩薩的五種自在",
+    "permalink": "/docs/amtb/開示與問答/節錄/菩薩的五種自在"
+  }
+}

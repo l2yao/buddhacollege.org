@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/其他經律論/法相唯識/百法明門論",
+  "id": "amtb/其他經律論/法相唯識/百法明門論",
+  "isDocsHomePage": false,
+  "title": "百法明門論",
+  "description": "",
+  "source": "@site/docs/amtb/其他經律論/法相唯識/百法明門論.mdx",
+  "sourceDirName": "amtb/其他經律論/法相唯識",
+  "slug": "/amtb/其他經律論/法相唯識/百法明門論",
+  "permalink": "/docs/amtb/其他經律論/法相唯識/百法明門論",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/其他經律論/法相唯識/百法明門論.mdx",
+  "version": "current",
+  "sidebarPosition": 129,
+  "frontMatter": {
+    "sidebar_position": 129
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "大乘起信論",
+    "permalink": "/docs/amtb/其他經律論/法相唯識/大乘起信論"
+  },
+  "next": {
+    "title": "仁王經護國品",
+    "permalink": "/docs/amtb/其他經律論/金剛般若/仁王經護國品"
+  }
+}

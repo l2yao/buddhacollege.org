@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/重視因果",
+  "id": "amtb/開示與問答/地區開示/重視因果",
+  "isDocsHomePage": false,
+  "title": "重視因果",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/重視因果.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/重視因果",
+  "permalink": "/docs/amtb/開示與問答/地區開示/重視因果",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/重視因果.mdx",
+  "version": "current",
+  "sidebarPosition": 556,
+  "frontMatter": {
+    "sidebar_position": 556
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "淨宗修學理念",
+    "permalink": "/docs/amtb/開示與問答/地區開示/淨宗修學理念"
+  },
+  "next": {
+    "title": "化解衝突從化解自己心裡矛盾對立始暨三皈傳授",
+    "permalink": "/docs/amtb/開示與問答/地區開示/化解衝突從化解自己心裡矛盾對立始暨三皈傳授"
+  }
+}

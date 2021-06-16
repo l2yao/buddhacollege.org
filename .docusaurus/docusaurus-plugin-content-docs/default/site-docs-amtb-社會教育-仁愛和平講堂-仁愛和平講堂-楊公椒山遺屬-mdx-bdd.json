@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-楊公椒山遺屬",
+  "id": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-楊公椒山遺屬",
+  "isDocsHomePage": false,
+  "title": "仁愛和平講堂-楊公椒山遺屬",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-楊公椒山遺屬.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-楊公椒山遺屬",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-楊公椒山遺屬",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-楊公椒山遺屬.mdx",
+  "version": "current",
+  "sidebarPosition": 1022,
+  "frontMatter": {
+    "sidebar_position": 1022
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仁愛和平講堂-認識佛陀教育",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-認識佛陀教育"
+  },
+  "next": {
+    "title": "仁愛和平講堂-中華聖哲傳統教學綱要",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-中華聖哲傳統教學綱要"
+  }
+}

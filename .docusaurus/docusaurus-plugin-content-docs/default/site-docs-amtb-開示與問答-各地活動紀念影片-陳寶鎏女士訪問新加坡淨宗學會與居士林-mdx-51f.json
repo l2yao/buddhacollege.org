@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/各地活動紀念影片/陳寶鎏女士訪問新加坡淨宗學會與居士林",
+  "id": "amtb/開示與問答/各地活動紀念影片/陳寶鎏女士訪問新加坡淨宗學會與居士林",
+  "isDocsHomePage": false,
+  "title": "陳寶鎏女士訪問新加坡淨宗學會與居士林",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/各地活動紀念影片/陳寶鎏女士訪問新加坡淨宗學會與居士林.mdx",
+  "sourceDirName": "amtb/開示與問答/各地活動紀念影片",
+  "slug": "/amtb/開示與問答/各地活動紀念影片/陳寶鎏女士訪問新加坡淨宗學會與居士林",
+  "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/陳寶鎏女士訪問新加坡淨宗學會與居士林",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/各地活動紀念影片/陳寶鎏女士訪問新加坡淨宗學會與居士林.mdx",
+  "version": "current",
+  "sidebarPosition": 935,
+  "frontMatter": {
+    "sidebar_position": 935
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "韓故館長瑛往生七週年追思法會",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/韓故館長瑛往生七週年追思法會"
+  },
+  "next": {
+    "title": "張九桓大使參訪新加坡佛教居士林",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/張九桓大使參訪新加坡佛教居士林"
+  }
+}

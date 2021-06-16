@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/健康長壽的秘訣",
+  "id": "amtb/開示與問答/地區開示/健康長壽的秘訣",
+  "isDocsHomePage": false,
+  "title": "健康長壽的秘訣",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/健康長壽的秘訣.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/健康長壽的秘訣",
+  "permalink": "/docs/amtb/開示與問答/地區開示/健康長壽的秘訣",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/健康長壽的秘訣.mdx",
+  "version": "current",
+  "sidebarPosition": 4139,
+  "frontMatter": {
+    "sidebar_position": 4139
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "與聖名小學校長及老師談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/與聖名小學校長及老師談話"
+  },
+  "next": {
+    "title": "斯里蘭卡淨宗學會精進念佛堂及大雄寶殿峻工開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/斯里蘭卡淨宗學會精進念佛堂及大雄寶殿峻工開示"
+  }
+}

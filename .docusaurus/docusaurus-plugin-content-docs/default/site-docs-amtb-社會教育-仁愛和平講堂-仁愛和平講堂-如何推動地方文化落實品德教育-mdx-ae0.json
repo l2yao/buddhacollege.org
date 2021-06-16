@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何推動地方文化落實品德教育",
+  "id": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何推動地方文化落實品德教育",
+  "isDocsHomePage": false,
+  "title": "仁愛和平講堂－如何推動地方文化落實品德教育",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何推動地方文化落實品德教育.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何推動地方文化落實品德教育",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何推動地方文化落實品德教育",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何推動地方文化落實品德教育.mdx",
+  "version": "current",
+  "sidebarPosition": 1060,
+  "frontMatter": {
+    "sidebar_position": 1060
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仁愛和平講堂－政治人物的教育藍圖篇",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-政治人物的教育藍圖篇"
+  },
+  "next": {
+    "title": "仁愛和平講堂－政黨對社會的道德責任",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-政黨對社會的道德責任"
+  }
+}

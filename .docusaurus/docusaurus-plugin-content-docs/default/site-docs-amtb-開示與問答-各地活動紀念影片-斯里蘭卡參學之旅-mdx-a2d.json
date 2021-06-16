@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/各地活動紀念影片/斯里蘭卡參學之旅",
+  "id": "amtb/開示與問答/各地活動紀念影片/斯里蘭卡參學之旅",
+  "isDocsHomePage": false,
+  "title": "斯里蘭卡參學之旅",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/各地活動紀念影片/斯里蘭卡參學之旅.mdx",
+  "sourceDirName": "amtb/開示與問答/各地活動紀念影片",
+  "slug": "/amtb/開示與問答/各地活動紀念影片/斯里蘭卡參學之旅",
+  "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/斯里蘭卡參學之旅",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/各地活動紀念影片/斯里蘭卡參學之旅.mdx",
+  "version": "current",
+  "sidebarPosition": 3558,
+  "frontMatter": {
+    "sidebar_position": 3558
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "企業家座談會",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/企業家座談會"
+  },
+  "next": {
+    "title": "憶恩師－恩師早年弘法掠影",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/憶恩師-恩師早年弘法掠影"
+  }
+}

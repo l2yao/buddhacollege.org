@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/辭歲談話-新春祝福",
+  "id": "amtb/開示與問答/地區開示/辭歲談話-新春祝福",
+  "isDocsHomePage": false,
+  "title": "辭歲談話 新春祝福",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/辭歲談話-新春祝福.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/辭歲談話-新春祝福",
+  "permalink": "/docs/amtb/開示與問答/地區開示/辭歲談話-新春祝福",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/辭歲談話-新春祝福.mdx",
+  "version": "current",
+  "sidebarPosition": 2454,
+  "frontMatter": {
+    "sidebar_position": 2454
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "台北靈巖山寺雙溪小築百七三時繫念法會開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/台北靈巖山寺雙溪小築百七三時繫念法會開示"
+  },
+  "next": {
+    "title": "舞獅呈祥遊社區的講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/舞獅呈祥遊社區的講話"
+  }
+}

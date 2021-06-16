@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/山東大學演講記錄",
+  "id": "amtb/開示與問答/地區開示/山東大學演講記錄",
+  "isDocsHomePage": false,
+  "title": "山東大學演講記錄",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/山東大學演講記錄.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/山東大學演講記錄",
+  "permalink": "/docs/amtb/開示與問答/地區開示/山東大學演講記錄",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/山東大學演講記錄.mdx",
+  "version": "current",
+  "sidebarPosition": 803,
+  "frontMatter": {
+    "sidebar_position": 803
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "內部開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/內部開示"
+  },
+  "next": {
+    "title": "對佛陀教育基金會同修講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對佛陀教育基金會同修講話"
+  }
+}

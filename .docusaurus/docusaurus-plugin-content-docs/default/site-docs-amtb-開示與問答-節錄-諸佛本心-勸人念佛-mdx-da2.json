@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/諸佛本心-勸人念佛",
+  "id": "amtb/開示與問答/節錄/諸佛本心-勸人念佛",
+  "isDocsHomePage": false,
+  "title": "諸佛本心 勸人念佛",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/諸佛本心-勸人念佛.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/諸佛本心-勸人念佛",
+  "permalink": "/docs/amtb/開示與問答/節錄/諸佛本心-勸人念佛",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/諸佛本心-勸人念佛.mdx",
+  "version": "current",
+  "sidebarPosition": 3813,
+  "frontMatter": {
+    "sidebar_position": 3813
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "福慧始聞淨土法門",
+    "permalink": "/docs/amtb/開示與問答/節錄/福慧始聞淨土法門"
+  },
+  "next": {
+    "title": "弘誓莊嚴  不退菩提",
+    "permalink": "/docs/amtb/開示與問答/節錄/弘誓莊嚴-不退菩提"
+  }
+}

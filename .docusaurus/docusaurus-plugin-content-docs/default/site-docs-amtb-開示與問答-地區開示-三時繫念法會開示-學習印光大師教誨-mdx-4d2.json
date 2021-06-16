@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/三時繫念法會開示-學習印光大師教誨",
+  "id": "amtb/開示與問答/地區開示/三時繫念法會開示-學習印光大師教誨",
+  "isDocsHomePage": false,
+  "title": "三時繫念法會開示－學習印光大師教誨",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/三時繫念法會開示-學習印光大師教誨.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/三時繫念法會開示-學習印光大師教誨",
+  "permalink": "/docs/amtb/開示與問答/地區開示/三時繫念法會開示-學習印光大師教誨",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/三時繫念法會開示-學習印光大師教誨.mdx",
+  "version": "current",
+  "sidebarPosition": 2313,
+  "frontMatter": {
+    "sidebar_position": 2313
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "傳統文化教育學會閉幕典禮淨空老法師致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/傳統文化教育學會閉幕典禮淨空老法師致詞"
+  },
+  "next": {
+    "title": "對印尼淨宗學會的開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對印尼淨宗學會的開示"
+  }
+}

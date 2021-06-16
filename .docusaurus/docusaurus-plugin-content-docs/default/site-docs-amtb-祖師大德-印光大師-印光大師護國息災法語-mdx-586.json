@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/祖師大德/印光大師/印光大師護國息災法語",
+  "id": "amtb/祖師大德/印光大師/印光大師護國息災法語",
+  "isDocsHomePage": false,
+  "title": "印光大師護國息災法語",
+  "description": "",
+  "source": "@site/docs/amtb/祖師大德/印光大師/印光大師護國息災法語.mdx",
+  "sourceDirName": "amtb/祖師大德/印光大師",
+  "slug": "/amtb/祖師大德/印光大師/印光大師護國息災法語",
+  "permalink": "/docs/amtb/祖師大德/印光大師/印光大師護國息災法語",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/祖師大德/印光大師/印光大師護國息災法語.mdx",
+  "version": "current",
+  "sidebarPosition": 320,
+  "frontMatter": {
+    "sidebar_position": 320
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "種善因得善果",
+    "permalink": "/docs/amtb/祖師大德/印光大師/種善因得善果"
+  },
+  "next": {
+    "title": "印祖遺訓-化解災難的良方",
+    "permalink": "/docs/amtb/祖師大德/印光大師/印祖遺訓-化解災難的良方"
+  }
+}

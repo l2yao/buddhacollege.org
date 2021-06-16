@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/聞名發心-願生極樂",
+  "id": "amtb/開示與問答/節錄/聞名發心-願生極樂",
+  "isDocsHomePage": false,
+  "title": "聞名發心 願生極樂",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/聞名發心-願生極樂.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/聞名發心-願生極樂",
+  "permalink": "/docs/amtb/開示與問答/節錄/聞名發心-願生極樂",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/聞名發心-願生極樂.mdx",
+  "version": "current",
+  "sidebarPosition": 3585,
+  "frontMatter": {
+    "sidebar_position": 3585
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "大願之王 十念必生",
+    "permalink": "/docs/amtb/開示與問答/節錄/大願之王-十念必生"
+  },
+  "next": {
+    "title": "教化隨意 無不圓滿",
+    "permalink": "/docs/amtb/開示與問答/節錄/教化隨意-無不圓滿"
+  }
+}

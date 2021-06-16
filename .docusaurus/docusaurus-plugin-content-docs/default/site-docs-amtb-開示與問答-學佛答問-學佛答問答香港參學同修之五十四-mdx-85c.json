@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/學佛答問/學佛答問答香港參學同修之五十四",
+  "id": "amtb/開示與問答/學佛答問/學佛答問答香港參學同修之五十四",
+  "isDocsHomePage": false,
+  "title": "學佛答問（答香港參學同修之五十四）",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之五十四.mdx",
+  "sourceDirName": "amtb/開示與問答/學佛答問",
+  "slug": "/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之五十四",
+  "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之五十四",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之五十四.mdx",
+  "version": "current",
+  "sidebarPosition": 687,
+  "frontMatter": {
+    "sidebar_position": 687
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學佛答問（答香港參學同修之五十三）",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之五十三"
+  },
+  "next": {
+    "title": "學佛答問（答香港參學同修之五十五）",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之五十五"
+  }
+}

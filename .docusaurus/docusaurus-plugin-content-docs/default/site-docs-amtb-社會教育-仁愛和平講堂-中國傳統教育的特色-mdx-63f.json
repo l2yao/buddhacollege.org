@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/中國傳統教育的特色",
+  "id": "amtb/社會教育/仁愛和平講堂/中國傳統教育的特色",
+  "isDocsHomePage": false,
+  "title": "中國傳統教育的特色",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/中國傳統教育的特色.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/中國傳統教育的特色",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/中國傳統教育的特色",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/中國傳統教育的特色.mdx",
+  "version": "current",
+  "sidebarPosition": 1035,
+  "frontMatter": {
+    "sidebar_position": 1035
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "中國傳統教學系列-四書選讀",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-四書選讀"
+  },
+  "next": {
+    "title": "談學佛",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/談學佛"
+  }
+}

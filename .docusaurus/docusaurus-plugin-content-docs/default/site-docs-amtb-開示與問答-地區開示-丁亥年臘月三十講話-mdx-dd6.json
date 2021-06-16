@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/丁亥年臘月三十講話",
+  "id": "amtb/開示與問答/地區開示/丁亥年臘月三十講話",
+  "isDocsHomePage": false,
+  "title": "丁亥年臘月三十講話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/丁亥年臘月三十講話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/丁亥年臘月三十講話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/丁亥年臘月三十講話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/丁亥年臘月三十講話.mdx",
+  "version": "current",
+  "sidebarPosition": 766,
+  "frontMatter": {
+    "sidebar_position": 766
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "儒釋道學說講座－與淨空老法師交流會",
+    "permalink": "/docs/amtb/開示與問答/地區開示/儒釋道學說講座-與淨空老法師交流會"
+  },
+  "next": {
+    "title": "新春恭喜－淨空老法師開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/新春恭喜-淨空老法師開示"
+  }
+}

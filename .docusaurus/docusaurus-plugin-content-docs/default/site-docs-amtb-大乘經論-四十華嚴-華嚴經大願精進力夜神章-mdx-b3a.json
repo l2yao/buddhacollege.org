@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/大乘經論/四十華嚴/華嚴經大願精進力夜神章",
+  "id": "amtb/大乘經論/四十華嚴/華嚴經大願精進力夜神章",
+  "isDocsHomePage": false,
+  "title": "華嚴經大願精進力夜神章",
+  "description": "",
+  "source": "@site/docs/amtb/大乘經論/四十華嚴/華嚴經大願精進力夜神章.mdx",
+  "sourceDirName": "amtb/大乘經論/四十華嚴",
+  "slug": "/amtb/大乘經論/四十華嚴/華嚴經大願精進力夜神章",
+  "permalink": "/docs/amtb/大乘經論/四十華嚴/華嚴經大願精進力夜神章",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/大乘經論/四十華嚴/華嚴經大願精進力夜神章.mdx",
+  "version": "current",
+  "sidebarPosition": 139,
+  "frontMatter": {
+    "sidebar_position": 139
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "華嚴開敷夜神章",
+    "permalink": "/docs/amtb/大乘經論/四十華嚴/華嚴開敷夜神章"
+  },
+  "next": {
+    "title": "四十華嚴-普救夜神章",
+    "permalink": "/docs/amtb/大乘經論/四十華嚴/四十華嚴-普救夜神章"
+  }
+}

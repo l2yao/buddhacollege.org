@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/93年達拉斯佛七講話中英",
+  "id": "amtb/開示與問答/地區開示/93年達拉斯佛七講話中英",
+  "isDocsHomePage": false,
+  "title": "93年達拉斯佛七講話(中英)",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/93年達拉斯佛七講話中英.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/93年達拉斯佛七講話中英",
+  "permalink": "/docs/amtb/開示與問答/地區開示/93年達拉斯佛七講話中英",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/93年達拉斯佛七講話中英.mdx",
+  "version": "current",
+  "sidebarPosition": 349,
+  "frontMatter": {
+    "sidebar_position": 349
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "93年達拉斯佛七講話(英文) Instructions During Buddha Recitation Session at Dallas",
+    "permalink": "/docs/amtb/開示與問答/地區開示/93年達拉斯佛七講話英文-instructions-during-buddha-recitation-session-at-dallas"
+  },
+  "next": {
+    "title": "94年達拉斯春季佛七講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/94年達拉斯春季佛七講話"
+  }
+}

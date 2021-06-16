@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/傳統文化如何落實與傳承",
+  "id": "amtb/開示與問答/地區開示/傳統文化如何落實與傳承",
+  "isDocsHomePage": false,
+  "title": "傳統文化如何落實與傳承",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/傳統文化如何落實與傳承.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/傳統文化如何落實與傳承",
+  "permalink": "/docs/amtb/開示與問答/地區開示/傳統文化如何落實與傳承",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/傳統文化如何落實與傳承.mdx",
+  "version": "current",
+  "sidebarPosition": 4150,
+  "frontMatter": {
+    "sidebar_position": 4150
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "傳統文化如何學習",
+    "permalink": "/docs/amtb/開示與問答/地區開示/傳統文化如何學習"
+  },
+  "next": {
+    "title": "2014年冬至祭祖護國息災超薦繫念法會開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2014年冬至祭祖護國息災超薦繫念法會開示"
+  }
+}

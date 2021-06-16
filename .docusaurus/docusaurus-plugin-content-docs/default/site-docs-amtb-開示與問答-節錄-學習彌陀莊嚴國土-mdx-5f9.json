@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/學習彌陀莊嚴國土",
+  "id": "amtb/開示與問答/節錄/學習彌陀莊嚴國土",
+  "isDocsHomePage": false,
+  "title": "學習彌陀莊嚴國土",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/學習彌陀莊嚴國土.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/學習彌陀莊嚴國土",
+  "permalink": "/docs/amtb/開示與問答/節錄/學習彌陀莊嚴國土",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/學習彌陀莊嚴國土.mdx",
+  "version": "current",
+  "sidebarPosition": 3218,
+  "frontMatter": {
+    "sidebar_position": 3218
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "教學最成功的示範區─極樂世界",
+    "permalink": "/docs/amtb/開示與問答/節錄/教學最成功的示範區極樂世界"
+  },
+  "next": {
+    "title": "極樂世界七種獨妙",
+    "permalink": "/docs/amtb/開示與問答/節錄/極樂世界七種獨妙"
+  }
+}

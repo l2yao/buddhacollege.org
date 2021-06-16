@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/法藏願力-成就極樂",
+  "id": "amtb/開示與問答/節錄/法藏願力-成就極樂",
+  "isDocsHomePage": false,
+  "title": "法藏願力 成就極樂",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/法藏願力-成就極樂.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/法藏願力-成就極樂",
+  "permalink": "/docs/amtb/開示與問答/節錄/法藏願力-成就極樂",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/法藏願力-成就極樂.mdx",
+  "version": "current",
+  "sidebarPosition": 3254,
+  "frontMatter": {
+    "sidebar_position": 3254
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "法藏成佛 號阿彌陀－名號功德不可思議",
+    "permalink": "/docs/amtb/開示與問答/節錄/法藏成佛-號阿彌陀-名號功德不可思議"
+  },
+  "next": {
+    "title": "遠離虛偽顛倒 是真實功德",
+    "permalink": "/docs/amtb/開示與問答/節錄/遠離虛偽顛倒-是真實功德"
+  }
+}

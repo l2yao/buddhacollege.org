@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/傳統文化/傳統文化對新世紀之關鍵影響力",
+  "id": "amtb/社會教育/傳統文化/傳統文化對新世紀之關鍵影響力",
+  "isDocsHomePage": false,
+  "title": "傳統文化對新世紀之關鍵影響力",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/傳統文化/傳統文化對新世紀之關鍵影響力.mdx",
+  "sourceDirName": "amtb/社會教育/傳統文化",
+  "slug": "/amtb/社會教育/傳統文化/傳統文化對新世紀之關鍵影響力",
+  "permalink": "/docs/amtb/社會教育/傳統文化/傳統文化對新世紀之關鍵影響力",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/傳統文化/傳統文化對新世紀之關鍵影響力.mdx",
+  "version": "current",
+  "sidebarPosition": 2252,
+  "frontMatter": {
+    "sidebar_position": 2252
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "中華民族萬姓先祖紀念堂開示",
+    "permalink": "/docs/amtb/社會教育/傳統文化/中華民族萬姓先祖紀念堂開示"
+  },
+  "next": {
+    "title": "傳統文化教育學會開幕典禮",
+    "permalink": "/docs/amtb/社會教育/傳統文化/傳統文化教育學會開幕典禮"
+  }
+}

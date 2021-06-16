@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/十大願王",
+  "id": "amtb/開示與問答/節錄/十大願王",
+  "isDocsHomePage": false,
+  "title": "十大願王",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/十大願王.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/十大願王",
+  "permalink": "/docs/amtb/開示與問答/節錄/十大願王",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/十大願王.mdx",
+  "version": "current",
+  "sidebarPosition": 3531,
+  "frontMatter": {
+    "sidebar_position": 3531
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "十六正士",
+    "permalink": "/docs/amtb/開示與問答/節錄/十六正士"
+  },
+  "next": {
+    "title": "八相表法的啓示",
+    "permalink": "/docs/amtb/開示與問答/節錄/八相表法的啓示"
+  }
+}

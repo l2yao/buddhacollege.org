@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/學佛答問/學佛答問答香港參學同修之七十",
+  "id": "amtb/開示與問答/學佛答問/學佛答問答香港參學同修之七十",
+  "isDocsHomePage": false,
+  "title": "學佛答問（答香港參學同修之七十）",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之七十.mdx",
+  "sourceDirName": "amtb/開示與問答/學佛答問",
+  "slug": "/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之七十",
+  "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之七十",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之七十.mdx",
+  "version": "current",
+  "sidebarPosition": 729,
+  "frontMatter": {
+    "sidebar_position": 729
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學佛答問（答香港參學同修之六十九）",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之六十九"
+  },
+  "next": {
+    "title": "學佛答問（答香港參學同修之七十一）",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之七十一"
+  }
+}

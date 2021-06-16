@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/二零一四賀年談話",
+  "id": "amtb/開示與問答/地區開示/二零一四賀年談話",
+  "isDocsHomePage": false,
+  "title": "二零一四賀年談話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/二零一四賀年談話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/二零一四賀年談話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/二零一四賀年談話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/二零一四賀年談話.mdx",
+  "version": "current",
+  "sidebarPosition": 3780,
+  "frontMatter": {
+    "sidebar_position": 3780
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2014年華藏衞星電視新春祝賀詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2014年華藏衞星電視新春祝賀詞"
+  },
+  "next": {
+    "title": "臺北靈巖山寺雙溪小築第三屆護國息災百七繫念法事淨空老法師開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/臺北靈巖山寺雙溪小築第三屆護國息災百七繫念法事淨空老法師開示"
+  }
+}

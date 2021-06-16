@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/和諧天下以孝為本",
+  "id": "amtb/開示與問答/地區開示/和諧天下以孝為本",
+  "isDocsHomePage": false,
+  "title": "和諧天下，以孝為本",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/和諧天下以孝為本.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/和諧天下以孝為本",
+  "permalink": "/docs/amtb/開示與問答/地區開示/和諧天下以孝為本",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/和諧天下以孝為本.mdx",
+  "version": "current",
+  "sidebarPosition": 4253,
+  "frontMatter": {
+    "sidebar_position": 4253
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2015 年臺灣清明中華民族萬姓先祖祭祀大典暨護世息災萬人念佛法會淨空老法師開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/年臺灣清明中華民族萬姓先祖祭祀大典暨護世息災萬人念佛法會淨空老法師開示"
+  },
+  "next": {
+    "title": "落實六大 化解衝突 促進和平",
+    "permalink": "/docs/amtb/開示與問答/地區開示/落實六大-化解衝突-促進和平"
+  }
+}

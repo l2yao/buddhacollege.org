@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/普賢行願品/普賢行願品別行疏鈔",
+  "id": "amtb/淨土五經一論/普賢行願品/普賢行願品別行疏鈔",
+  "isDocsHomePage": false,
+  "title": "普賢行願品別行疏鈔",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/普賢行願品/普賢行願品別行疏鈔.mdx",
+  "sourceDirName": "amtb/淨土五經一論/普賢行願品",
+  "slug": "/amtb/淨土五經一論/普賢行願品/普賢行願品別行疏鈔",
+  "permalink": "/docs/amtb/淨土五經一論/普賢行願品/普賢行願品別行疏鈔",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/普賢行願品/普賢行願品別行疏鈔.mdx",
+  "version": "current",
+  "sidebarPosition": 67,
+  "frontMatter": {
+    "sidebar_position": 67
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "普賢行願品十大願",
+    "permalink": "/docs/amtb/淨土五經一論/普賢行願品/普賢行願品十大願"
+  },
+  "next": {
+    "title": "普賢行願品大意",
+    "permalink": "/docs/amtb/淨土五經一論/普賢行願品/普賢行願品大意"
+  }
+}

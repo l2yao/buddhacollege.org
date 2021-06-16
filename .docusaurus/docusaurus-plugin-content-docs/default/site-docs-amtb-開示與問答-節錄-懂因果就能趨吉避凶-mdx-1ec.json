@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/懂因果就能趨吉避凶",
+  "id": "amtb/開示與問答/節錄/懂因果就能趨吉避凶",
+  "isDocsHomePage": false,
+  "title": "懂因果就能趨吉避凶",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/懂因果就能趨吉避凶.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/懂因果就能趨吉避凶",
+  "permalink": "/docs/amtb/開示與問答/節錄/懂因果就能趨吉避凶",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/懂因果就能趨吉避凶.mdx",
+  "version": "current",
+  "sidebarPosition": 5140,
+  "frontMatter": {
+    "sidebar_position": 5140
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "金剛經的智言慧語",
+    "permalink": "/docs/amtb/開示與問答/節錄/金剛經的智言慧語"
+  },
+  "next": {
+    "title": "淨修法要",
+    "permalink": "/docs/amtb/開示與問答/節錄/淨修法要"
+  }
+}

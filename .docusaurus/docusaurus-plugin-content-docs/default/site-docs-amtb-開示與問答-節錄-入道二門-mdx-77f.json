@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/入道二門",
+  "id": "amtb/開示與問答/節錄/入道二門",
+  "isDocsHomePage": false,
+  "title": "入道二門",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/入道二門.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/入道二門",
+  "permalink": "/docs/amtb/開示與問答/節錄/入道二門",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/入道二門.mdx",
+  "version": "current",
+  "sidebarPosition": 3743,
+  "frontMatter": {
+    "sidebar_position": 3743
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "無縛無脫  無諸分別",
+    "permalink": "/docs/amtb/開示與問答/節錄/無縛無脫-無諸分別"
+  },
+  "next": {
+    "title": "證無所得 不由他悟",
+    "permalink": "/docs/amtb/開示與問答/節錄/證無所得-不由他悟"
+  }
+}

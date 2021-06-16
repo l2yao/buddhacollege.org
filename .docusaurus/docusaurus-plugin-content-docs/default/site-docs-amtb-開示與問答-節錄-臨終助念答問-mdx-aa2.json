@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/臨終助念答問",
+  "id": "amtb/開示與問答/節錄/臨終助念答問",
+  "isDocsHomePage": false,
+  "title": "臨終助念答問",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/臨終助念答問.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/臨終助念答問",
+  "permalink": "/docs/amtb/開示與問答/節錄/臨終助念答問",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/臨終助念答問.mdx",
+  "version": "current",
+  "sidebarPosition": 2516,
+  "frontMatter": {
+    "sidebar_position": 2516
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "中峰三時繫念法事全集節要",
+    "permalink": "/docs/amtb/開示與問答/節錄/中峰三時繫念法事全集節要"
+  },
+  "next": {
+    "title": "如何才能使自己功夫得力",
+    "permalink": "/docs/amtb/開示與問答/節錄/如何才能使自己功夫得力"
+  }
+}

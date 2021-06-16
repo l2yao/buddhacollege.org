@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/忍力成就",
+  "id": "amtb/開示與問答/節錄/忍力成就",
+  "isDocsHomePage": false,
+  "title": "忍力成就",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/忍力成就.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/忍力成就",
+  "permalink": "/docs/amtb/開示與問答/節錄/忍力成就",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/忍力成就.mdx",
+  "version": "current",
+  "sidebarPosition": 2836,
+  "frontMatter": {
+    "sidebar_position": 2836
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "不計眾苦,少欲知足:從初發心到如來地",
+    "permalink": "/docs/amtb/開示與問答/節錄/不計眾苦少欲知足從初發心到如來地"
+  },
+  "next": {
+    "title": "莊嚴眾行 軌範具足 觀法如化 三昧常寂",
+    "permalink": "/docs/amtb/開示與問答/節錄/莊嚴眾行-軌範具足-觀法如化-三昧常寂"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/設得一分出世道果",
+  "id": "amtb/開示與問答/節錄/設得一分出世道果",
+  "isDocsHomePage": false,
+  "title": "設得一分出世道果",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/設得一分出世道果.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/設得一分出世道果",
+  "permalink": "/docs/amtb/開示與問答/節錄/設得一分出世道果",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/設得一分出世道果.mdx",
+  "version": "current",
+  "sidebarPosition": 1079,
+  "frontMatter": {
+    "sidebar_position": 1079
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "隨眾生業自在",
+    "permalink": "/docs/amtb/開示與問答/節錄/隨眾生業自在"
+  },
+  "next": {
+    "title": "退一步才是真正的向前",
+    "permalink": "/docs/amtb/開示與問答/節錄/退一步才是真正的向前"
+  }
+}

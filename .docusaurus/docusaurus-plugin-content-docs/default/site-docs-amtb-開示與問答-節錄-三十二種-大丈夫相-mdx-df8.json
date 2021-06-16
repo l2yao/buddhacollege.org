@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/三十二種-大丈夫相",
+  "id": "amtb/開示與問答/節錄/三十二種-大丈夫相",
+  "isDocsHomePage": false,
+  "title": "三十二種 大丈夫相",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/三十二種-大丈夫相.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/三十二種-大丈夫相",
+  "permalink": "/docs/amtb/開示與問答/節錄/三十二種-大丈夫相",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/三十二種-大丈夫相.mdx",
+  "version": "current",
+  "sidebarPosition": 3196,
+  "frontMatter": {
+    "sidebar_position": 3196
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "願聲同佛",
+    "permalink": "/docs/amtb/開示與問答/節錄/願聲同佛"
+  },
+  "next": {
+    "title": "定成正覺",
+    "permalink": "/docs/amtb/開示與問答/節錄/定成正覺"
+  }
+}

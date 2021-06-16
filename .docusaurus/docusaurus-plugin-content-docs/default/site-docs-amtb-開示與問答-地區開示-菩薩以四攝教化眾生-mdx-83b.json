@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/菩薩以四攝教化眾生",
+  "id": "amtb/開示與問答/地區開示/菩薩以四攝教化眾生",
+  "isDocsHomePage": false,
+  "title": "菩薩以四攝教化眾生",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/菩薩以四攝教化眾生.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/菩薩以四攝教化眾生",
+  "permalink": "/docs/amtb/開示與問答/地區開示/菩薩以四攝教化眾生",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/菩薩以四攝教化眾生.mdx",
+  "version": "current",
+  "sidebarPosition": 736,
+  "frontMatter": {
+    "sidebar_position": 736
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學者教授與淨空老教授對話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/學者教授與淨空老教授對話"
+  },
+  "next": {
+    "title": "學者教授與淨空老教授對話－如何以教育達致人類永續世界和諧",
+    "permalink": "/docs/amtb/開示與問答/地區開示/學者教授與淨空老教授對話-如何以教育達致人類永續世界和諧"
+  }
+}

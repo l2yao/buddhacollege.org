@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/我法如是-作如是說",
+  "id": "amtb/開示與問答/節錄/我法如是-作如是說",
+  "isDocsHomePage": false,
+  "title": "我法如是 作如是說",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/我法如是-作如是說.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/我法如是-作如是說",
+  "permalink": "/docs/amtb/開示與問答/節錄/我法如是-作如是說",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/我法如是-作如是說.mdx",
+  "version": "current",
+  "sidebarPosition": 3443,
+  "frontMatter": {
+    "sidebar_position": 3443
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "當令是法 久住不滅",
+    "permalink": "/docs/amtb/開示與問答/節錄/當令是法-久住不滅"
+  },
+  "next": {
+    "title": "淨業三福",
+    "permalink": "/docs/amtb/開示與問答/節錄/淨業三福"
+  }
+}

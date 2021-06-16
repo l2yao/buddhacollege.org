@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/馬來西亞弘法大會歡送晚宴開示",
+  "id": "amtb/開示與問答/地區開示/馬來西亞弘法大會歡送晚宴開示",
+  "isDocsHomePage": false,
+  "title": "馬來西亞弘法大會歡送晚宴開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/馬來西亞弘法大會歡送晚宴開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/馬來西亞弘法大會歡送晚宴開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/馬來西亞弘法大會歡送晚宴開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/馬來西亞弘法大會歡送晚宴開示.mdx",
+  "version": "current",
+  "sidebarPosition": 425,
+  "frontMatter": {
+    "sidebar_position": 425
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學佛的終極目標",
+    "permalink": "/docs/amtb/開示與問答/地區開示/學佛的終極目標"
+  },
+  "next": {
+    "title": "淨空法師在新加坡弘法報告",
+    "permalink": "/docs/amtb/開示與問答/地區開示/淨空法師在新加坡弘法報告"
+  }
+}

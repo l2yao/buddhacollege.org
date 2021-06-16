@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/惠以真實之利-南無阿彌陀佛之一",
+  "id": "amtb/開示與問答/節錄/惠以真實之利-南無阿彌陀佛之一",
+  "isDocsHomePage": false,
+  "title": "惠以真實之利－南無阿彌陀佛之一",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/惠以真實之利-南無阿彌陀佛之一.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/惠以真實之利-南無阿彌陀佛之一",
+  "permalink": "/docs/amtb/開示與問答/節錄/惠以真實之利-南無阿彌陀佛之一",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/惠以真實之利-南無阿彌陀佛之一.mdx",
+  "version": "current",
+  "sidebarPosition": 2694,
+  "frontMatter": {
+    "sidebar_position": 2694
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "住奇特法",
+    "permalink": "/docs/amtb/開示與問答/節錄/住奇特法"
+  },
+  "next": {
+    "title": "如來正覺　其智難量",
+    "permalink": "/docs/amtb/開示與問答/節錄/如來正覺-其智難量"
+  }
+}

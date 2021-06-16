@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/講經培訓/內典研學/內典講座之研學",
+  "id": "amtb/講經培訓/內典研學/內典講座之研學",
+  "isDocsHomePage": false,
+  "title": "內典講座之研學",
+  "description": "",
+  "source": "@site/docs/amtb/講經培訓/內典研學/內典講座之研學.mdx",
+  "sourceDirName": "amtb/講經培訓/內典研學",
+  "slug": "/amtb/講經培訓/內典研學/內典講座之研學",
+  "permalink": "/docs/amtb/講經培訓/內典研學/內典講座之研學",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/講經培訓/內典研學/內典講座之研學.mdx",
+  "version": "current",
+  "sidebarPosition": 892,
+  "frontMatter": {
+    "sidebar_position": 892
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "無住生心",
+    "permalink": "/docs/amtb/講經培訓/內典研學/無住生心"
+  },
+  "next": {
+    "title": "無量壽經科判 (可對外流通)",
+    "permalink": "/docs/amtb/講經培訓/內典研學/無量壽經科判-可對外流通"
+  }
+}

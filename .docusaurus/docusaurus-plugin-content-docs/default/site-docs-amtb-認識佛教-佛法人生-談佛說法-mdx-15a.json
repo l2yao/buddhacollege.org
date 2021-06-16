@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/認識佛教/佛法人生/談佛說法",
+  "id": "amtb/認識佛教/佛法人生/談佛說法",
+  "isDocsHomePage": false,
+  "title": "談佛說法",
+  "description": "",
+  "source": "@site/docs/amtb/認識佛教/佛法人生/談佛說法.mdx",
+  "sourceDirName": "amtb/認識佛教/佛法人生",
+  "slug": "/amtb/認識佛教/佛法人生/談佛說法",
+  "permalink": "/docs/amtb/認識佛教/佛法人生/談佛說法",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/認識佛教/佛法人生/談佛說法.mdx",
+  "version": "current",
+  "sidebarPosition": 272,
+  "frontMatter": {
+    "sidebar_position": 272
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "怎樣入佛法之門",
+    "permalink": "/docs/amtb/認識佛教/佛法人生/怎樣入佛法之門"
+  },
+  "next": {
+    "title": "佛法與日常生活",
+    "permalink": "/docs/amtb/認識佛教/佛法人生/佛法與日常生活"
+  }
+}

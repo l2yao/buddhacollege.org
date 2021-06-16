@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/講經培訓/培訓班開示/第五屆弘法培訓班開學開示",
+  "id": "amtb/講經培訓/培訓班開示/第五屆弘法培訓班開學開示",
+  "isDocsHomePage": false,
+  "title": "第五屆弘法培訓班開學開示",
+  "description": "",
+  "source": "@site/docs/amtb/講經培訓/培訓班開示/第五屆弘法培訓班開學開示.mdx",
+  "sourceDirName": "amtb/講經培訓/培訓班開示",
+  "slug": "/amtb/講經培訓/培訓班開示/第五屆弘法培訓班開學開示",
+  "permalink": "/docs/amtb/講經培訓/培訓班開示/第五屆弘法培訓班開學開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/講經培訓/培訓班開示/第五屆弘法培訓班開學開示.mdx",
+  "version": "current",
+  "sidebarPosition": 554,
+  "frontMatter": {
+    "sidebar_position": 554
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第三屆弘法培訓班開學開示",
+    "permalink": "/docs/amtb/講經培訓/培訓班開示/第三屆弘法培訓班開學開示"
+  },
+  "next": {
+    "title": "馬來西亞弘法大會實錄",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/馬來西亞弘法大會實錄"
+  }
+}

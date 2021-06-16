@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/電台弘法/如何挽救社會人心系列九消災免難之道",
+  "id": "amtb/開示與問答/電台弘法/如何挽救社會人心系列九消災免難之道",
+  "isDocsHomePage": false,
+  "title": "如何挽救社會人心系列(九)消災免難之道",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列九消災免難之道.mdx",
+  "sourceDirName": "amtb/開示與問答/電台弘法",
+  "slug": "/amtb/開示與問答/電台弘法/如何挽救社會人心系列九消災免難之道",
+  "permalink": "/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列九消災免難之道",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列九消災免難之道.mdx",
+  "version": "current",
+  "sidebarPosition": 920,
+  "frontMatter": {
+    "sidebar_position": 920
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何挽救社會人心系列(八)防非止惡",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列八防非止惡"
+  },
+  "next": {
+    "title": "如何挽救社會人心系列(十)教育、風水、命運",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列十教育風水命運"
+  }
+}

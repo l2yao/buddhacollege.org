@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/念佛十種心",
+  "id": "amtb/開示與問答/節錄/念佛十種心",
+  "isDocsHomePage": false,
+  "title": "念佛十種心",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/念佛十種心.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/念佛十種心",
+  "permalink": "/docs/amtb/開示與問答/節錄/念佛十種心",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/念佛十種心.mdx",
+  "version": "current",
+  "sidebarPosition": 3526,
+  "frontMatter": {
+    "sidebar_position": 3526
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "歎德標名",
+    "permalink": "/docs/amtb/開示與問答/節錄/歎德標名"
+  },
+  "next": {
+    "title": "十六正士",
+    "permalink": "/docs/amtb/開示與問答/節錄/十六正士"
+  }
+}

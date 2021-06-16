@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/2001年淨空法師回台中敘舊會",
+  "id": "amtb/開示與問答/地區開示/2001年淨空法師回台中敘舊會",
+  "isDocsHomePage": false,
+  "title": "2001年淨空法師回台中敘舊會",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/2001年淨空法師回台中敘舊會.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/2001年淨空法師回台中敘舊會",
+  "permalink": "/docs/amtb/開示與問答/地區開示/2001年淨空法師回台中敘舊會",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/2001年淨空法師回台中敘舊會.mdx",
+  "version": "current",
+  "sidebarPosition": 455,
+  "frontMatter": {
+    "sidebar_position": 455
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "淨宗學院培訓目標",
+    "permalink": "/docs/amtb/開示與問答/地區開示/淨宗學院培訓目標"
+  },
+  "next": {
+    "title": "末法時期如何修學與弘護",
+    "permalink": "/docs/amtb/開示與問答/地區開示/末法時期如何修學與弘護"
+  }
+}

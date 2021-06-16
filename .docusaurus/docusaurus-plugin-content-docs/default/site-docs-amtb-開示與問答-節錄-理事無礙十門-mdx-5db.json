@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/理事無礙十門",
+  "id": "amtb/開示與問答/節錄/理事無礙十門",
+  "isDocsHomePage": false,
+  "title": "理事無礙十門",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/理事無礙十門.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/理事無礙十門",
+  "permalink": "/docs/amtb/開示與問答/節錄/理事無礙十門",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/理事無礙十門.mdx",
+  "version": "current",
+  "sidebarPosition": 1209,
+  "frontMatter": {
+    "sidebar_position": 1209
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "事能隱理 真理即事",
+    "permalink": "/docs/amtb/開示與問答/節錄/事能隱理-真理即事"
+  },
+  "next": {
+    "title": "禮敬諸佛",
+    "permalink": "/docs/amtb/開示與問答/節錄/禮敬諸佛"
+  }
+}

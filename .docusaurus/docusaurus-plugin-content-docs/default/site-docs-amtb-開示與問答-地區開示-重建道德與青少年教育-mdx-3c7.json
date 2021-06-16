@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/重建道德與青少年教育",
+  "id": "amtb/開示與問答/地區開示/重建道德與青少年教育",
+  "isDocsHomePage": false,
+  "title": "重建道德與青少年教育",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/重建道德與青少年教育.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/重建道德與青少年教育",
+  "permalink": "/docs/amtb/開示與問答/地區開示/重建道德與青少年教育",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/重建道德與青少年教育.mdx",
+  "version": "current",
+  "sidebarPosition": 538,
+  "frontMatter": {
+    "sidebar_position": 538
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "現前階段學佛的心態",
+    "permalink": "/docs/amtb/開示與問答/地區開示/現前階段學佛的心態"
+  },
+  "next": {
+    "title": "弘法與往生",
+    "permalink": "/docs/amtb/開示與問答/地區開示/弘法與往生"
+  }
+}

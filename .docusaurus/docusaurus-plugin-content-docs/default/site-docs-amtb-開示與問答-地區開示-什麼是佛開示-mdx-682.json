@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/什麼是佛開示",
+  "id": "amtb/開示與問答/地區開示/什麼是佛開示",
+  "isDocsHomePage": false,
+  "title": "「什麼是佛」開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/什麼是佛開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/什麼是佛開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/什麼是佛開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/什麼是佛開示.mdx",
+  "version": "current",
+  "sidebarPosition": 4323,
+  "frontMatter": {
+    "sidebar_position": 4323
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "「如何化解災難」開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/如何化解災難開示"
+  },
+  "next": {
+    "title": "澳洲淨宗學院緣起",
+    "permalink": "/docs/amtb/開示與問答/地區開示/澳洲淨宗學院緣起"
+  }
+}

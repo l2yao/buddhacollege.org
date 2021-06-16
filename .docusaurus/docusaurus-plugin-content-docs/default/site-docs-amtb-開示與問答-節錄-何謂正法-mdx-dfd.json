@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/何謂正法",
+  "id": "amtb/開示與問答/節錄/何謂正法",
+  "isDocsHomePage": false,
+  "title": "何謂正法",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/何謂正法.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/何謂正法",
+  "permalink": "/docs/amtb/開示與問答/節錄/何謂正法",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/何謂正法.mdx",
+  "version": "current",
+  "sidebarPosition": 2945,
+  "frontMatter": {
+    "sidebar_position": 2945
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "擇法覺支",
+    "permalink": "/docs/amtb/開示與問答/節錄/擇法覺支"
+  },
+  "next": {
+    "title": "不斷之無",
+    "permalink": "/docs/amtb/開示與問答/節錄/不斷之無"
+  }
+}

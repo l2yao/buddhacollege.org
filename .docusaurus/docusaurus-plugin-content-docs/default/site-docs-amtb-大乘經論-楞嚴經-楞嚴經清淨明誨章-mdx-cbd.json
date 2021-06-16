@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/大乘經論/楞嚴經/楞嚴經清淨明誨章",
+  "id": "amtb/大乘經論/楞嚴經/楞嚴經清淨明誨章",
+  "isDocsHomePage": false,
+  "title": "楞嚴經清淨明誨章",
+  "description": "",
+  "source": "@site/docs/amtb/大乘經論/楞嚴經/楞嚴經清淨明誨章.mdx",
+  "sourceDirName": "amtb/大乘經論/楞嚴經",
+  "slug": "/amtb/大乘經論/楞嚴經/楞嚴經清淨明誨章",
+  "permalink": "/docs/amtb/大乘經論/楞嚴經/楞嚴經清淨明誨章",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/大乘經論/楞嚴經/楞嚴經清淨明誨章.mdx",
+  "version": "current",
+  "sidebarPosition": 87,
+  "frontMatter": {
+    "sidebar_position": 87
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "楞嚴經",
+    "permalink": "/docs/amtb/大乘經論/楞嚴經/楞嚴經"
+  },
+  "next": {
+    "title": "大佛頂首楞嚴經清淨明誨章",
+    "permalink": "/docs/amtb/大乘經論/楞嚴經/大佛頂首楞嚴經清淨明誨章"
+  }
+}

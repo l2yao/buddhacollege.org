@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/大乘經論/四十華嚴/四十華嚴觀自在章",
+  "id": "amtb/大乘經論/四十華嚴/四十華嚴觀自在章",
+  "isDocsHomePage": false,
+  "title": "四十華嚴觀自在章",
+  "description": "",
+  "source": "@site/docs/amtb/大乘經論/四十華嚴/四十華嚴觀自在章.mdx",
+  "sourceDirName": "amtb/大乘經論/四十華嚴",
+  "slug": "/amtb/大乘經論/四十華嚴/四十華嚴觀自在章",
+  "permalink": "/docs/amtb/大乘經論/四十華嚴/四十華嚴觀自在章",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/大乘經論/四十華嚴/四十華嚴觀自在章.mdx",
+  "version": "current",
+  "sidebarPosition": 136,
+  "frontMatter": {
+    "sidebar_position": 136
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "華嚴經講述菁華",
+    "permalink": "/docs/amtb/大乘經論/八十華嚴/華嚴經講述菁華"
+  },
+  "next": {
+    "title": "妙德圓滿愛敬林神章",
+    "permalink": "/docs/amtb/大乘經論/四十華嚴/妙德圓滿愛敬林神章"
+  }
+}

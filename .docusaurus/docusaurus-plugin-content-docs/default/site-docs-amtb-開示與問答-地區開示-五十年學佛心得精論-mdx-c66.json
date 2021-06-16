@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/五十年學佛心得精論",
+  "id": "amtb/開示與問答/地區開示/五十年學佛心得精論",
+  "isDocsHomePage": false,
+  "title": "五十年學佛心得精論",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/五十年學佛心得精論.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/五十年學佛心得精論",
+  "permalink": "/docs/amtb/開示與問答/地區開示/五十年學佛心得精論",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/五十年學佛心得精論.mdx",
+  "version": "current",
+  "sidebarPosition": 496,
+  "frontMatter": {
+    "sidebar_position": 496
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "淨空法師七十七歲壽辰紀念",
+    "permalink": "/docs/amtb/開示與問答/地區開示/淨空法師七十七歲壽辰紀念"
+  },
+  "next": {
+    "title": "澳洲佛七開示-消除劫難祈求世界和平之方法",
+    "permalink": "/docs/amtb/開示與問答/地區開示/澳洲佛七開示-消除劫難祈求世界和平之方法"
+  }
+}

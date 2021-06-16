@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/改造命運-心想事成",
+  "id": "amtb/開示與問答/地區開示/改造命運-心想事成",
+  "isDocsHomePage": false,
+  "title": "改造命運 心想事成",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/改造命運-心想事成.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/改造命運-心想事成",
+  "permalink": "/docs/amtb/開示與問答/地區開示/改造命運-心想事成",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/改造命運-心想事成.mdx",
+  "version": "current",
+  "sidebarPosition": 513,
+  "frontMatter": {
+    "sidebar_position": 513
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "虛空法界 國土眾生",
+    "permalink": "/docs/amtb/開示與問答/地區開示/虛空法界-國土眾生"
+  },
+  "next": {
+    "title": "念佛的好處",
+    "permalink": "/docs/amtb/開示與問答/地區開示/念佛的好處"
+  }
+}

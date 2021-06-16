@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/傳統文化/表揚好爸爸-好兒女大會講話",
+  "id": "amtb/社會教育/傳統文化/表揚好爸爸-好兒女大會講話",
+  "isDocsHomePage": false,
+  "title": "表揚好爸爸 好兒女大會講話",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/傳統文化/表揚好爸爸-好兒女大會講話.mdx",
+  "sourceDirName": "amtb/社會教育/傳統文化",
+  "slug": "/amtb/社會教育/傳統文化/表揚好爸爸-好兒女大會講話",
+  "permalink": "/docs/amtb/社會教育/傳統文化/表揚好爸爸-好兒女大會講話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/傳統文化/表揚好爸爸-好兒女大會講話.mdx",
+  "version": "current",
+  "sidebarPosition": 652,
+  "frontMatter": {
+    "sidebar_position": 652
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "婦女節的祝福",
+    "permalink": "/docs/amtb/社會教育/傳統文化/婦女節的祝福"
+  },
+  "next": {
+    "title": "對江陰江南彌陀村萬姓先祖紀念堂開幕的講話",
+    "permalink": "/docs/amtb/社會教育/傳統文化/對江陰江南彌陀村萬姓先祖紀念堂開幕的講話"
+  }
+}

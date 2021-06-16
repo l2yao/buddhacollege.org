@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/阿彌陀經/阿彌陀經要解大意",
+  "id": "amtb/淨土五經一論/阿彌陀經/阿彌陀經要解大意",
+  "isDocsHomePage": false,
+  "title": "阿彌陀經要解大意",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/阿彌陀經/阿彌陀經要解大意.mdx",
+  "sourceDirName": "amtb/淨土五經一論/阿彌陀經",
+  "slug": "/amtb/淨土五經一論/阿彌陀經/阿彌陀經要解大意",
+  "permalink": "/docs/amtb/淨土五經一論/阿彌陀經/阿彌陀經要解大意",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/阿彌陀經/阿彌陀經要解大意.mdx",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "阿彌陀經要解",
+    "permalink": "/docs/amtb/淨土五經一論/阿彌陀經/阿彌陀經要解"
+  },
+  "next": {
+    "title": "彌陀要解",
+    "permalink": "/docs/amtb/淨土五經一論/阿彌陀經/彌陀要解"
+  }
+}

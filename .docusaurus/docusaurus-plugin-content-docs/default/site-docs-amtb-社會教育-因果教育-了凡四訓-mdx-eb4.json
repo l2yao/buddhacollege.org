@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/因果教育/了凡四訓",
+  "id": "amtb/社會教育/因果教育/了凡四訓",
+  "isDocsHomePage": false,
+  "title": "了凡四訓",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/因果教育/了凡四訓.mdx",
+  "sourceDirName": "amtb/社會教育/因果教育",
+  "slug": "/amtb/社會教育/因果教育/了凡四訓",
+  "permalink": "/docs/amtb/社會教育/因果教育/了凡四訓",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/因果教育/了凡四訓.mdx",
+  "version": "current",
+  "sidebarPosition": 297,
+  "frontMatter": {
+    "sidebar_position": 297
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "企業做典範 商道行天下",
+    "permalink": "/docs/amtb/社會教育/傳統文化/企業做典範-商道行天下"
+  },
+  "next": {
+    "title": "了凡四訓大意",
+    "permalink": "/docs/amtb/社會教育/因果教育/了凡四訓大意"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/學者教授與淨空老教授對話",
+  "id": "amtb/開示與問答/地區開示/學者教授與淨空老教授對話",
+  "isDocsHomePage": false,
+  "title": "學者教授與淨空老教授對話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/學者教授與淨空老教授對話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/學者教授與淨空老教授對話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/學者教授與淨空老教授對話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/學者教授與淨空老教授對話.mdx",
+  "version": "current",
+  "sidebarPosition": 731,
+  "frontMatter": {
+    "sidebar_position": 731
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "觀音慈悲與和諧世界",
+    "permalink": "/docs/amtb/開示與問答/地區開示/觀音慈悲與和諧世界"
+  },
+  "next": {
+    "title": "菩薩以四攝教化眾生",
+    "permalink": "/docs/amtb/開示與問答/地區開示/菩薩以四攝教化眾生"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/學佛應求善知識",
+  "id": "amtb/開示與問答/節錄/學佛應求善知識",
+  "isDocsHomePage": false,
+  "title": "學佛應求善知識",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/學佛應求善知識.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/學佛應求善知識",
+  "permalink": "/docs/amtb/開示與問答/節錄/學佛應求善知識",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/學佛應求善知識.mdx",
+  "version": "current",
+  "sidebarPosition": 3002,
+  "frontMatter": {
+    "sidebar_position": 3002
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "以持名善根福德同佛故",
+    "permalink": "/docs/amtb/開示與問答/節錄/以持名善根福德同佛故"
+  },
+  "next": {
+    "title": "彌勒十心",
+    "permalink": "/docs/amtb/開示與問答/節錄/彌勒十心"
+  }
+}

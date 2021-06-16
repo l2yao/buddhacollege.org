@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/修學六和敬-答四眾同修提問",
+  "id": "amtb/開示與問答/地區開示/修學六和敬-答四眾同修提問",
+  "isDocsHomePage": false,
+  "title": "修學六和敬－答四眾同修提問",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/修學六和敬-答四眾同修提問.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/修學六和敬-答四眾同修提問",
+  "permalink": "/docs/amtb/開示與問答/地區開示/修學六和敬-答四眾同修提問",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/修學六和敬-答四眾同修提問.mdx",
+  "version": "current",
+  "sidebarPosition": 2632,
+  "frontMatter": {
+    "sidebar_position": 2632
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "修學六和敬—老法師開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/修學六和敬老法師開示"
+  },
+  "next": {
+    "title": "2010年中元護國息災三時繫念佛事－淨空老法師開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2010年中元護國息災三時繫念佛事-淨空老法師開示"
+  }
+}

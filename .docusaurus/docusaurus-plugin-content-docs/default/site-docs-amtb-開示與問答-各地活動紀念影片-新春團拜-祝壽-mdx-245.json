@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/各地活動紀念影片/新春團拜-祝壽",
+  "id": "amtb/開示與問答/各地活動紀念影片/新春團拜-祝壽",
+  "isDocsHomePage": false,
+  "title": "新春團拜 祝壽",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/各地活動紀念影片/新春團拜-祝壽.mdx",
+  "sourceDirName": "amtb/開示與問答/各地活動紀念影片",
+  "slug": "/amtb/開示與問答/各地活動紀念影片/新春團拜-祝壽",
+  "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/新春團拜-祝壽",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/各地活動紀念影片/新春團拜-祝壽.mdx",
+  "version": "current",
+  "sidebarPosition": 996,
+  "frontMatter": {
+    "sidebar_position": 996
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "除夕感恩祈福活動",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/除夕感恩祈福活動"
+  },
+  "next": {
+    "title": "除夕 初一團拜",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/除夕-初一團拜"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/傳統文化如何學習",
+  "id": "amtb/開示與問答/地區開示/傳統文化如何學習",
+  "isDocsHomePage": false,
+  "title": "傳統文化如何學習",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/傳統文化如何學習.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/傳統文化如何學習",
+  "permalink": "/docs/amtb/開示與問答/地區開示/傳統文化如何學習",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/傳統文化如何學習.mdx",
+  "version": "current",
+  "sidebarPosition": 4149,
+  "frontMatter": {
+    "sidebar_position": 4149
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "為什麼要學習中華傳統文化",
+    "permalink": "/docs/amtb/開示與問答/地區開示/為什麼要學習中華傳統文化"
+  },
+  "next": {
+    "title": "傳統文化如何落實與傳承",
+    "permalink": "/docs/amtb/開示與問答/地區開示/傳統文化如何落實與傳承"
+  }
+}

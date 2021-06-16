@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/香港佛陀教育協會大眾開示",
+  "id": "amtb/開示與問答/地區開示/香港佛陀教育協會大眾開示",
+  "isDocsHomePage": false,
+  "title": "香港佛陀教育協會大眾開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/香港佛陀教育協會大眾開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/香港佛陀教育協會大眾開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/香港佛陀教育協會大眾開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/香港佛陀教育協會大眾開示.mdx",
+  "version": "current",
+  "sidebarPosition": 5084,
+  "frontMatter": {
+    "sidebar_position": 5084
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "建國君民 教學為先 ——澳洲圖文巴一條龍學校和童蒙養正教學開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/建國君民-教學為先-澳洲圖文巴一條龍學校和童蒙養正教學開示"
+  },
+  "next": {
+    "title": "台南極樂寺對大眾開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/台南極樂寺對大眾開示"
+  }
+}

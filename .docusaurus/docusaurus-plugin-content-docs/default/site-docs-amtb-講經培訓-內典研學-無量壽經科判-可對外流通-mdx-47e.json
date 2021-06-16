@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/講經培訓/內典研學/無量壽經科判-可對外流通",
+  "id": "amtb/講經培訓/內典研學/無量壽經科判-可對外流通",
+  "isDocsHomePage": false,
+  "title": "無量壽經科判 (可對外流通)",
+  "description": "",
+  "source": "@site/docs/amtb/講經培訓/內典研學/無量壽經科判-可對外流通.mdx",
+  "sourceDirName": "amtb/講經培訓/內典研學",
+  "slug": "/amtb/講經培訓/內典研學/無量壽經科判-可對外流通",
+  "permalink": "/docs/amtb/講經培訓/內典研學/無量壽經科判-可對外流通",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/講經培訓/內典研學/無量壽經科判-可對外流通.mdx",
+  "version": "current",
+  "sidebarPosition": 894,
+  "frontMatter": {
+    "sidebar_position": 894
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "內典講座之研學",
+    "permalink": "/docs/amtb/講經培訓/內典研學/內典講座之研學"
+  },
+  "next": {
+    "title": "淨空老和尚對培訓班學僧開示",
+    "permalink": "/docs/amtb/講經培訓/內典研學/淨空老和尚對培訓班學僧開示"
+  }
+}

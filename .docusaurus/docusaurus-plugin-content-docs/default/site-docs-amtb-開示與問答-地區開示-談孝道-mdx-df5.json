@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/談孝道",
+  "id": "amtb/開示與問答/地區開示/談孝道",
+  "isDocsHomePage": false,
+  "title": "談孝道",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/談孝道.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/談孝道",
+  "permalink": "/docs/amtb/開示與問答/地區開示/談孝道",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/談孝道.mdx",
+  "version": "current",
+  "sidebarPosition": 509,
+  "frontMatter": {
+    "sidebar_position": 509
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "化敵為友、化怨為親、化恨為愛-胡母黃太夫人追思往生會致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/化敵為友化怨為親化恨為愛-胡母黃太夫人追思往生會致詞"
+  },
+  "next": {
+    "title": "虛空法界 國土眾生",
+    "permalink": "/docs/amtb/開示與問答/地區開示/虛空法界-國土眾生"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/淺談淨土宗",
+  "id": "amtb/開示與問答/地區開示/淺談淨土宗",
+  "isDocsHomePage": false,
+  "title": "淺談淨土宗",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/淺談淨土宗.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/淺談淨土宗",
+  "permalink": "/docs/amtb/開示與問答/地區開示/淺談淨土宗",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/淺談淨土宗.mdx",
+  "version": "current",
+  "sidebarPosition": 690,
+  "frontMatter": {
+    "sidebar_position": 690
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "二五五0年歡慶衛塞節致感謝詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/二五五0年歡慶衛塞節致感謝詞"
+  },
+  "next": {
+    "title": "佛陀教育與淨土宗",
+    "permalink": "/docs/amtb/開示與問答/地區開示/佛陀教育與淨土宗"
+  }
+}

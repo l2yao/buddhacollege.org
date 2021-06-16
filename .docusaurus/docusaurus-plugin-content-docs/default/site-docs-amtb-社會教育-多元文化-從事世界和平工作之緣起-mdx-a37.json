@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/從事世界和平工作之緣起",
+  "id": "amtb/社會教育/多元文化/從事世界和平工作之緣起",
+  "isDocsHomePage": false,
+  "title": "從事世界和平工作之緣起",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/從事世界和平工作之緣起.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/從事世界和平工作之緣起",
+  "permalink": "/docs/amtb/社會教育/多元文化/從事世界和平工作之緣起",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/從事世界和平工作之緣起.mdx",
+  "version": "current",
+  "sidebarPosition": 2364,
+  "frontMatter": {
+    "sidebar_position": 2364
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2004年淨空法師多元文化之旅與印尼宗教代表團訪問中國",
+    "permalink": "/docs/amtb/社會教育/多元文化/2004年淨空法師多元文化之旅與印尼宗教代表團訪問中國"
+  },
+  "next": {
+    "title": "宗教教育於今世之大用",
+    "permalink": "/docs/amtb/社會教育/多元文化/宗教教育於今世之大用"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/電台弘法/敦睦倫常-盡己本份",
+  "id": "amtb/開示與問答/電台弘法/敦睦倫常-盡己本份",
+  "isDocsHomePage": false,
+  "title": "敦睦倫常  盡己本份",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/電台弘法/敦睦倫常-盡己本份.mdx",
+  "sourceDirName": "amtb/開示與問答/電台弘法",
+  "slug": "/amtb/開示與問答/電台弘法/敦睦倫常-盡己本份",
+  "permalink": "/docs/amtb/開示與問答/電台弘法/敦睦倫常-盡己本份",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/電台弘法/敦睦倫常-盡己本份.mdx",
+  "version": "current",
+  "sidebarPosition": 907,
+  "frontMatter": {
+    "sidebar_position": 907
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "超度的理論與事實",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/超度的理論與事實"
+  },
+  "next": {
+    "title": "答問學佛",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/答問學佛"
+  }
+}

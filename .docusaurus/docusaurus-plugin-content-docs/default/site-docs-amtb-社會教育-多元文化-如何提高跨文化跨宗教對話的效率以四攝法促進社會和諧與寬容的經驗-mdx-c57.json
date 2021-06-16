@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/如何提高跨文化跨宗教對話的效率以四攝法促進社會和諧與寬容的經驗",
+  "id": "amtb/社會教育/多元文化/如何提高跨文化跨宗教對話的效率以四攝法促進社會和諧與寬容的經驗",
+  "isDocsHomePage": false,
+  "title": "如何提高跨文化、跨宗教對話的效率——以「四攝法」促進社會和諧與寬容的經驗",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/如何提高跨文化跨宗教對話的效率以四攝法促進社會和諧與寬容的經驗.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/如何提高跨文化跨宗教對話的效率以四攝法促進社會和諧與寬容的經驗",
+  "permalink": "/docs/amtb/社會教育/多元文化/如何提高跨文化跨宗教對話的效率以四攝法促進社會和諧與寬容的經驗",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/如何提高跨文化跨宗教對話的效率以四攝法促進社會和諧與寬容的經驗.mdx",
+  "version": "current",
+  "sidebarPosition": 4988,
+  "frontMatter": {
+    "sidebar_position": 4988
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "愛的教育成就持久和平",
+    "permalink": "/docs/amtb/社會教育/多元文化/愛的教育成就持久和平"
+  },
+  "next": {
+    "title": "落實愛的教育促進世界和平——二〇一八年威爾士穆斯林委員會跨宗教研討會",
+    "permalink": "/docs/amtb/社會教育/多元文化/落實愛的教育促進世界和平二〇一八年威爾士穆斯林委員會跨宗教研討會"
+  }
+}

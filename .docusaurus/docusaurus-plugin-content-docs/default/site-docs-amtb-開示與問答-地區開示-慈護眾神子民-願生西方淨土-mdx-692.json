@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/慈護眾神子民-願生西方淨土",
+  "id": "amtb/開示與問答/地區開示/慈護眾神子民-願生西方淨土",
+  "isDocsHomePage": false,
+  "title": "慈護眾神子民 願生西方淨土",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/慈護眾神子民-願生西方淨土.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/慈護眾神子民-願生西方淨土",
+  "permalink": "/docs/amtb/開示與問答/地區開示/慈護眾神子民-願生西方淨土",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/慈護眾神子民-願生西方淨土.mdx",
+  "version": "current",
+  "sidebarPosition": 4856,
+  "frontMatter": {
+    "sidebar_position": 4856
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "解行並進 信願念佛 ——佛陀教育網路學院 歲末談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/解行並進-信願念佛-佛陀教育網路學院-歲末談話"
+  },
+  "next": {
+    "title": "活出菩薩之道 ——華藏衛視十五週年暨慶祝新春談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/活出菩薩之道-華藏衛視十五週年暨慶祝新春談話"
+  }
+}

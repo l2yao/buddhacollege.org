@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/電台弘法/談因果",
+  "id": "amtb/開示與問答/電台弘法/談因果",
+  "isDocsHomePage": false,
+  "title": "談因果",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/電台弘法/談因果.mdx",
+  "sourceDirName": "amtb/開示與問答/電台弘法",
+  "slug": "/amtb/開示與問答/電台弘法/談因果",
+  "permalink": "/docs/amtb/開示與問答/電台弘法/談因果",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/電台弘法/談因果.mdx",
+  "version": "current",
+  "sidebarPosition": 905,
+  "frontMatter": {
+    "sidebar_position": 905
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學為人師  行為世範",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/學為人師-行為世範"
+  },
+  "next": {
+    "title": "超度的理論與事實",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/超度的理論與事實"
+  }
+}

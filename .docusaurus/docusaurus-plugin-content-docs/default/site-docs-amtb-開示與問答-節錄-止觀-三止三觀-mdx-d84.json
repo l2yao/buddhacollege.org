@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/止觀-三止三觀",
+  "id": "amtb/開示與問答/節錄/止觀-三止三觀",
+  "isDocsHomePage": false,
+  "title": "止觀－三止三觀",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/止觀-三止三觀.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/止觀-三止三觀",
+  "permalink": "/docs/amtb/開示與問答/節錄/止觀-三止三觀",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/止觀-三止三觀.mdx",
+  "version": "current",
+  "sidebarPosition": 1102,
+  "frontMatter": {
+    "sidebar_position": 1102
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "十發心 十淨願",
+    "permalink": "/docs/amtb/開示與問答/節錄/十發心-十淨願"
+  },
+  "next": {
+    "title": "超度的理論與事實",
+    "permalink": "/docs/amtb/開示與問答/節錄/超度的理論與事實"
+  }
+}

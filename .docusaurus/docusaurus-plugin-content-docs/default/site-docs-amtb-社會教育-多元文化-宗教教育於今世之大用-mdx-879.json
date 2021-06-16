@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/宗教教育於今世之大用",
+  "id": "amtb/社會教育/多元文化/宗教教育於今世之大用",
+  "isDocsHomePage": false,
+  "title": "宗教教育於今世之大用",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/宗教教育於今世之大用.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/宗教教育於今世之大用",
+  "permalink": "/docs/amtb/社會教育/多元文化/宗教教育於今世之大用",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/宗教教育於今世之大用.mdx",
+  "version": "current",
+  "sidebarPosition": 2365,
+  "frontMatter": {
+    "sidebar_position": 2365
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "從事世界和平工作之緣起",
+    "permalink": "/docs/amtb/社會教育/多元文化/從事世界和平工作之緣起"
+  },
+  "next": {
+    "title": "團結宗教恢復世界和平",
+    "permalink": "/docs/amtb/社會教育/多元文化/團結宗教恢復世界和平"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/商道精神啟示論壇",
+  "id": "amtb/開示與問答/地區開示/商道精神啟示論壇",
+  "isDocsHomePage": false,
+  "title": "商道．精神啟示論壇",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/商道精神啟示論壇.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/商道精神啟示論壇",
+  "permalink": "/docs/amtb/開示與問答/地區開示/商道精神啟示論壇",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/商道精神啟示論壇.mdx",
+  "version": "current",
+  "sidebarPosition": 2211,
+  "frontMatter": {
+    "sidebar_position": 2211
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "孝恩信義之旅開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/孝恩信義之旅開示"
+  },
+  "next": {
+    "title": "答四眾同修提問",
+    "permalink": "/docs/amtb/開示與問答/地區開示/答四眾同修提問"
+  }
+}

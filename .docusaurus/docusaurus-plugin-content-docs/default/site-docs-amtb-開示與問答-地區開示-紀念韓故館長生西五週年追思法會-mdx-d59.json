@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/紀念韓故館長生西五週年追思法會",
+  "id": "amtb/開示與問答/地區開示/紀念韓故館長生西五週年追思法會",
+  "isDocsHomePage": false,
+  "title": "紀念韓故館長生西五週年追思法會",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/紀念韓故館長生西五週年追思法會.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/紀念韓故館長生西五週年追思法會",
+  "permalink": "/docs/amtb/開示與問答/地區開示/紀念韓故館長生西五週年追思法會",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/紀念韓故館長生西五週年追思法會.mdx",
+  "version": "current",
+  "sidebarPosition": 463,
+  "frontMatter": {
+    "sidebar_position": 463
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "吃虧是福",
+    "permalink": "/docs/amtb/開示與問答/地區開示/吃虧是福"
+  },
+  "next": {
+    "title": "一九九八年美國達拉斯春季佛七講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/一九九八年美國達拉斯春季佛七講話"
+  }
+}

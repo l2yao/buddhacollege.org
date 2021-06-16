@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/阿彌陀經/彌陀要解菁華",
+  "id": "amtb/淨土五經一論/阿彌陀經/彌陀要解菁華",
+  "isDocsHomePage": false,
+  "title": "彌陀要解菁華",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/阿彌陀經/彌陀要解菁華.mdx",
+  "sourceDirName": "amtb/淨土五經一論/阿彌陀經",
+  "slug": "/amtb/淨土五經一論/阿彌陀經/彌陀要解菁華",
+  "permalink": "/docs/amtb/淨土五經一論/阿彌陀經/彌陀要解菁華",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/阿彌陀經/彌陀要解菁華.mdx",
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "佛說阿彌陀經要解",
+    "permalink": "/docs/amtb/淨土五經一論/阿彌陀經/佛說阿彌陀經要解"
+  },
+  "next": {
+    "title": "往生咒",
+    "permalink": "/docs/amtb/淨土五經一論/阿彌陀經/往生咒"
+  }
+}

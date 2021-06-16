@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/弘護正法續佛慧命",
+  "id": "amtb/開示與問答/地區開示/弘護正法續佛慧命",
+  "isDocsHomePage": false,
+  "title": "弘護正法續佛慧命",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/弘護正法續佛慧命.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/弘護正法續佛慧命",
+  "permalink": "/docs/amtb/開示與問答/地區開示/弘護正法續佛慧命",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/弘護正法續佛慧命.mdx",
+  "version": "current",
+  "sidebarPosition": 378,
+  "frontMatter": {
+    "sidebar_position": 378
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "97春季佛七講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/97春季佛七講話"
+  },
+  "next": {
+    "title": "館長往生的啟示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/館長往生的啟示"
+  }
+}

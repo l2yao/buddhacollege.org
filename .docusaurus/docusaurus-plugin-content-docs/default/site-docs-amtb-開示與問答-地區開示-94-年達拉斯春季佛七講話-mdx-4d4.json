@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/94年達拉斯春季佛七講話",
+  "id": "amtb/開示與問答/地區開示/94年達拉斯春季佛七講話",
+  "isDocsHomePage": false,
+  "title": "94年達拉斯春季佛七講話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/94年達拉斯春季佛七講話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/94年達拉斯春季佛七講話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/94年達拉斯春季佛七講話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/94年達拉斯春季佛七講話.mdx",
+  "version": "current",
+  "sidebarPosition": 350,
+  "frontMatter": {
+    "sidebar_position": 350
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "93年達拉斯佛七講話(中英)",
+    "permalink": "/docs/amtb/開示與問答/地區開示/93年達拉斯佛七講話中英"
+  },
+  "next": {
+    "title": "94年達拉斯春季佛七答問",
+    "permalink": "/docs/amtb/開示與問答/地區開示/94年達拉斯春季佛七答問"
+  }
+}

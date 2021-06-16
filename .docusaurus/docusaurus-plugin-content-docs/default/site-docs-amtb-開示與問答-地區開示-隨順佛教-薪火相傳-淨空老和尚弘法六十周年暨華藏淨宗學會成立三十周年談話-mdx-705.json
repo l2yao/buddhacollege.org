@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/隨順佛教-薪火相傳-淨空老和尚弘法六十周年暨華藏淨宗學會成立三十周年談話",
+  "id": "amtb/開示與問答/地區開示/隨順佛教-薪火相傳-淨空老和尚弘法六十周年暨華藏淨宗學會成立三十周年談話",
+  "isDocsHomePage": false,
+  "title": "《隨順佛教 薪火相傳》  ——「淨空老和尚弘法六十周年暨華藏淨宗學會成立三十周年」談話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/隨順佛教-薪火相傳-淨空老和尚弘法六十周年暨華藏淨宗學會成立三十周年談話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/隨順佛教-薪火相傳-淨空老和尚弘法六十周年暨華藏淨宗學會成立三十周年談話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/隨順佛教-薪火相傳-淨空老和尚弘法六十周年暨華藏淨宗學會成立三十周年談話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/隨順佛教-薪火相傳-淨空老和尚弘法六十周年暨華藏淨宗學會成立三十周年談話.mdx",
+  "version": "current",
+  "sidebarPosition": 5128,
+  "frontMatter": {
+    "sidebar_position": 5128
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "澳洲淨宗學院餐後開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/澳洲淨宗學院餐後開示"
+  },
+  "next": {
+    "title": "一切眾生皆成佛",
+    "permalink": "/docs/amtb/開示與問答/地區開示/一切眾生皆成佛"
+  }
+}

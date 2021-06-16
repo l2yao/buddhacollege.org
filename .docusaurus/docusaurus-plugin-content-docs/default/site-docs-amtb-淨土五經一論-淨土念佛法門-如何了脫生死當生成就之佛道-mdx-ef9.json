@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/淨土念佛法門/如何了脫生死當生成就之佛道",
+  "id": "amtb/淨土五經一論/淨土念佛法門/如何了脫生死當生成就之佛道",
+  "isDocsHomePage": false,
+  "title": "如何了脫生死─當生成就之佛道",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/淨土念佛法門/如何了脫生死當生成就之佛道.mdx",
+  "sourceDirName": "amtb/淨土五經一論/淨土念佛法門",
+  "slug": "/amtb/淨土五經一論/淨土念佛法門/如何了脫生死當生成就之佛道",
+  "permalink": "/docs/amtb/淨土五經一論/淨土念佛法門/如何了脫生死當生成就之佛道",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/淨土念佛法門/如何了脫生死當生成就之佛道.mdx",
+  "version": "current",
+  "sidebarPosition": 182,
+  "frontMatter": {
+    "sidebar_position": 182
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "普賢菩薩十大願王－請轉法輪 請佛住世",
+    "permalink": "/docs/amtb/淨土五經一論/普賢行願品/普賢菩薩十大願王-請轉法輪-請佛住世"
+  },
+  "next": {
+    "title": "如何離苦得樂",
+    "permalink": "/docs/amtb/淨土五經一論/淨土念佛法門/如何離苦得樂"
+  }
+}

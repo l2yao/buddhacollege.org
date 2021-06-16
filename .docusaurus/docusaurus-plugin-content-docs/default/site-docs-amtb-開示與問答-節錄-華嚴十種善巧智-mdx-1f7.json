@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/華嚴十種善巧智",
+  "id": "amtb/開示與問答/節錄/華嚴十種善巧智",
+  "isDocsHomePage": false,
+  "title": "華嚴十種善巧智",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/華嚴十種善巧智.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/華嚴十種善巧智",
+  "permalink": "/docs/amtb/開示與問答/節錄/華嚴十種善巧智",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/華嚴十種善巧智.mdx",
+  "version": "current",
+  "sidebarPosition": 3747,
+  "frontMatter": {
+    "sidebar_position": 3747
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "證無所得 不由他悟",
+    "permalink": "/docs/amtb/開示與問答/節錄/證無所得-不由他悟"
+  },
+  "next": {
+    "title": "持戒淨潔  寂定明察",
+    "permalink": "/docs/amtb/開示與問答/節錄/持戒淨潔-寂定明察"
+  }
+}

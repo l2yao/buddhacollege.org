@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/宗教典籍/玫瑰經學習報告-歡喜心的來源-i",
+  "id": "amtb/社會教育/宗教典籍/玫瑰經學習報告-歡喜心的來源-i",
+  "isDocsHomePage": false,
+  "title": "玫瑰經學習報告－歡喜心的來源 I",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/宗教典籍/玫瑰經學習報告-歡喜心的來源-i.mdx",
+  "sourceDirName": "amtb/社會教育/宗教典籍",
+  "slug": "/amtb/社會教育/宗教典籍/玫瑰經學習報告-歡喜心的來源-i",
+  "permalink": "/docs/amtb/社會教育/宗教典籍/玫瑰經學習報告-歡喜心的來源-i",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/宗教典籍/玫瑰經學習報告-歡喜心的來源-i.mdx",
+  "version": "current",
+  "sidebarPosition": 1013,
+  "frontMatter": {
+    "sidebar_position": 1013
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "立愛自親始 ——二〇一九年聯合國教科文組織全球祭祖大典致辭 Praying for World Peace and Blessing Ceremony for the Conference",
+    "permalink": "/docs/amtb/社會教育/多元文化/立愛自親始-二〇一九年聯合國教科文組織全球祭祖大典致辭-praying-for-world-peace-and-blessing-ceremony-for-the-conference"
+  },
+  "next": {
+    "title": "玫瑰經學習報告－歡喜心的來源 II",
+    "permalink": "/docs/amtb/社會教育/宗教典籍/玫瑰經學習報告-歡喜心的來源-ii"
+  }
+}

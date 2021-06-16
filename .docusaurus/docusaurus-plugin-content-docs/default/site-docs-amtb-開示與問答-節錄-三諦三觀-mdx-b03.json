@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/三諦三觀",
+  "id": "amtb/開示與問答/節錄/三諦三觀",
+  "isDocsHomePage": false,
+  "title": "三諦三觀",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/三諦三觀.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/三諦三觀",
+  "permalink": "/docs/amtb/開示與問答/節錄/三諦三觀",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/三諦三觀.mdx",
+  "version": "current",
+  "sidebarPosition": 3233,
+  "frontMatter": {
+    "sidebar_position": 3233
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "一切法得成於忍（二）",
+    "permalink": "/docs/amtb/開示與問答/節錄/一切法得成於忍二"
+  },
+  "next": {
+    "title": "善護三業",
+    "permalink": "/docs/amtb/開示與問答/節錄/善護三業"
+  }
+}

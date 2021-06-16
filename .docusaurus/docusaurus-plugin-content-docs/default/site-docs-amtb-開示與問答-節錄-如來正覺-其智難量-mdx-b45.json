@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/如來正覺-其智難量",
+  "id": "amtb/開示與問答/節錄/如來正覺-其智難量",
+  "isDocsHomePage": false,
+  "title": "如來正覺　其智難量",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/如來正覺-其智難量.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/如來正覺-其智難量",
+  "permalink": "/docs/amtb/開示與問答/節錄/如來正覺-其智難量",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/如來正覺-其智難量.mdx",
+  "version": "current",
+  "sidebarPosition": 2695,
+  "frontMatter": {
+    "sidebar_position": 2695
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "惠以真實之利－南無阿彌陀佛之一",
+    "permalink": "/docs/amtb/開示與問答/節錄/惠以真實之利-南無阿彌陀佛之一"
+  },
+  "next": {
+    "title": "經序－五重證信",
+    "permalink": "/docs/amtb/開示與問答/節錄/經序-五重證信"
+  }
+}

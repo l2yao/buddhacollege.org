@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/在麗晶酒店的新春談話",
+  "id": "amtb/開示與問答/地區開示/在麗晶酒店的新春談話",
+  "isDocsHomePage": false,
+  "title": "在麗晶酒店的新春談話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/在麗晶酒店的新春談話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/在麗晶酒店的新春談話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/在麗晶酒店的新春談話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/在麗晶酒店的新春談話.mdx",
+  "version": "current",
+  "sidebarPosition": 2467,
+  "frontMatter": {
+    "sidebar_position": 2467
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "對澳洲淨宗學會同修的開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對澳洲淨宗學會同修的開示"
+  },
+  "next": {
+    "title": "雪梨淨宗學會開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/雪梨淨宗學會開示"
+  }
+}

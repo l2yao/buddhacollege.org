@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/拔諸勤苦生死根本",
+  "id": "amtb/開示與問答/節錄/拔諸勤苦生死根本",
+  "isDocsHomePage": false,
+  "title": "拔諸勤苦生死根本",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/拔諸勤苦生死根本.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/拔諸勤苦生死根本",
+  "permalink": "/docs/amtb/開示與問答/節錄/拔諸勤苦生死根本",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/拔諸勤苦生死根本.mdx",
+  "version": "current",
+  "sidebarPosition": 3562,
+  "frontMatter": {
+    "sidebar_position": 3562
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "真心念佛",
+    "permalink": "/docs/amtb/開示與問答/節錄/真心念佛"
+  },
+  "next": {
+    "title": "戒是無上菩提本",
+    "permalink": "/docs/amtb/開示與問答/節錄/戒是無上菩提本"
+  }
+}

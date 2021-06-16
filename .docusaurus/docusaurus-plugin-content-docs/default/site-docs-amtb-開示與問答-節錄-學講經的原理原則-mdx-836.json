@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/學講經的原理原則",
+  "id": "amtb/開示與問答/節錄/學講經的原理原則",
+  "isDocsHomePage": false,
+  "title": "學講經的原理原則",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/學講經的原理原則.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/學講經的原理原則",
+  "permalink": "/docs/amtb/開示與問答/節錄/學講經的原理原則",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/學講經的原理原則.mdx",
+  "version": "current",
+  "sidebarPosition": 1149,
+  "frontMatter": {
+    "sidebar_position": 1149
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "認識信願行三資糧遠離諸難恐怖",
+    "permalink": "/docs/amtb/開示與問答/節錄/認識信願行三資糧遠離諸難恐怖"
+  },
+  "next": {
+    "title": "泉池功德(下)",
+    "permalink": "/docs/amtb/開示與問答/節錄/泉池功德下"
+  }
+}

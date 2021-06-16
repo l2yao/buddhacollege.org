@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/日本東京法會開示與佛學問答開示和平之道-承認別人都是對的我都是錯的",
+  "id": "amtb/社會教育/多元文化/日本東京法會開示與佛學問答開示和平之道-承認別人都是對的我都是錯的",
+  "isDocsHomePage": false,
+  "title": "日本東京法會開示與佛學問答【開示：和平之道-承認別人都是對的，我都是錯的】",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/日本東京法會開示與佛學問答開示和平之道-承認別人都是對的我都是錯的.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/日本東京法會開示與佛學問答開示和平之道-承認別人都是對的我都是錯的",
+  "permalink": "/docs/amtb/社會教育/多元文化/日本東京法會開示與佛學問答開示和平之道-承認別人都是對的我都是錯的",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/日本東京法會開示與佛學問答開示和平之道-承認別人都是對的我都是錯的.mdx",
+  "version": "current",
+  "sidebarPosition": 561,
+  "frontMatter": {
+    "sidebar_position": 561
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "信守和睦相處 即是拯救世界",
+    "permalink": "/docs/amtb/社會教育/多元文化/信守和睦相處-即是拯救世界"
+  },
+  "next": {
+    "title": "雍正皇帝與多元文化教育",
+    "permalink": "/docs/amtb/社會教育/多元文化/雍正皇帝與多元文化教育"
+  }
+}

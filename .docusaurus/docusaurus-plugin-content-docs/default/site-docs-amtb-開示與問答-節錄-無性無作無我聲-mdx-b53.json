@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/無性無作無我聲",
+  "id": "amtb/開示與問答/節錄/無性無作無我聲",
+  "isDocsHomePage": false,
+  "title": "無性無作無我聲",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/無性無作無我聲.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/無性無作無我聲",
+  "permalink": "/docs/amtb/開示與問答/節錄/無性無作無我聲",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/無性無作無我聲.mdx",
+  "version": "current",
+  "sidebarPosition": 3285,
+  "frontMatter": {
+    "sidebar_position": 3285
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "三忍",
+    "permalink": "/docs/amtb/開示與問答/節錄/三忍"
+  },
+  "next": {
+    "title": "大慈大悲喜捨聲",
+    "permalink": "/docs/amtb/開示與問答/節錄/大慈大悲喜捨聲"
+  }
+}

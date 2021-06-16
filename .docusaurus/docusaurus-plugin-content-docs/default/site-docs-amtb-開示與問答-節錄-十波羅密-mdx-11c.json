@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/十波羅密",
+  "id": "amtb/開示與問答/節錄/十波羅密",
+  "isDocsHomePage": false,
+  "title": "十波羅密",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/十波羅密.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/十波羅密",
+  "permalink": "/docs/amtb/開示與問答/節錄/十波羅密",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/十波羅密.mdx",
+  "version": "current",
+  "sidebarPosition": 1135,
+  "frontMatter": {
+    "sidebar_position": 1135
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "因果圖說十王圖",
+    "permalink": "/docs/amtb/開示與問答/節錄/因果圖說十王圖"
+  },
+  "next": {
+    "title": "花是行因 嚴是勝果",
+    "permalink": "/docs/amtb/開示與問答/節錄/花是行因-嚴是勝果"
+  }
+}

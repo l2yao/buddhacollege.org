@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/人類智慧的瑰寶孔孟學說與大乘佛法",
+  "id": "amtb/開示與問答/地區開示/人類智慧的瑰寶孔孟學說與大乘佛法",
+  "isDocsHomePage": false,
+  "title": "人類智慧的瑰寶—孔孟學說與大乘佛法",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/人類智慧的瑰寶孔孟學說與大乘佛法.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/人類智慧的瑰寶孔孟學說與大乘佛法",
+  "permalink": "/docs/amtb/開示與問答/地區開示/人類智慧的瑰寶孔孟學說與大乘佛法",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/人類智慧的瑰寶孔孟學說與大乘佛法.mdx",
+  "version": "current",
+  "sidebarPosition": 3940,
+  "frontMatter": {
+    "sidebar_position": 3940
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "香港佛陀教育協會念佛共修開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/香港佛陀教育協會念佛共修開示"
+  },
+  "next": {
+    "title": "2014年新加坡護國息災超薦三時繫念法會開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2014年新加坡護國息災超薦三時繫念法會開示"
+  }
+}

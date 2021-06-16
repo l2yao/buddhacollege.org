@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/四無礙智",
+  "id": "amtb/開示與問答/節錄/四無礙智",
+  "isDocsHomePage": false,
+  "title": "四無礙智",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/四無礙智.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/四無礙智",
+  "permalink": "/docs/amtb/開示與問答/節錄/四無礙智",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/四無礙智.mdx",
+  "version": "current",
+  "sidebarPosition": 1138,
+  "frontMatter": {
+    "sidebar_position": 1138
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學習印光大師教誨",
+    "permalink": "/docs/amtb/開示與問答/節錄/學習印光大師教誨"
+  },
+  "next": {
+    "title": "七辯",
+    "permalink": "/docs/amtb/開示與問答/節錄/七辯"
+  }
+}

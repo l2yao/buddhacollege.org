@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/二00七年新年談話",
+  "id": "amtb/開示與問答/地區開示/二00七年新年談話",
+  "isDocsHomePage": false,
+  "title": "二００七年新年談話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/二00七年新年談話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/二00七年新年談話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/二00七年新年談話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/二00七年新年談話.mdx",
+  "version": "current",
+  "sidebarPosition": 701,
+  "frontMatter": {
+    "sidebar_position": 701
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "華嚴經對現代人的啟示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/華嚴經對現代人的啟示"
+  },
+  "next": {
+    "title": "2007年淨空老和尚新春開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2007年淨空老和尚新春開示"
+  }
+}

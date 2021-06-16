@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/傳統文化/澳洲萬姓先祖紀念堂安位典禮",
+  "id": "amtb/社會教育/傳統文化/澳洲萬姓先祖紀念堂安位典禮",
+  "isDocsHomePage": false,
+  "title": "澳洲萬姓先祖紀念堂安位典禮",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/傳統文化/澳洲萬姓先祖紀念堂安位典禮.mdx",
+  "sourceDirName": "amtb/社會教育/傳統文化",
+  "slug": "/amtb/社會教育/傳統文化/澳洲萬姓先祖紀念堂安位典禮",
+  "permalink": "/docs/amtb/社會教育/傳統文化/澳洲萬姓先祖紀念堂安位典禮",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/傳統文化/澳洲萬姓先祖紀念堂安位典禮.mdx",
+  "version": "current",
+  "sidebarPosition": 521,
+  "frontMatter": {
+    "sidebar_position": 521
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "倫理道德與宗教對談",
+    "permalink": "/docs/amtb/社會教育/傳統文化/倫理道德與宗教對談"
+  },
+  "next": {
+    "title": "中國人的遠祖(4500年前)是怎樣教導他的後裔",
+    "permalink": "/docs/amtb/社會教育/傳統文化/中國人的遠祖4500年前是怎樣教導他的後裔"
+  }
+}

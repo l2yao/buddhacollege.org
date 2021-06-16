@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/小城多福",
+  "id": "amtb/開示與問答/地區開示/小城多福",
+  "isDocsHomePage": false,
+  "title": "小城多福",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/小城多福.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/小城多福",
+  "permalink": "/docs/amtb/開示與問答/地區開示/小城多福",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/小城多福.mdx",
+  "version": "current",
+  "sidebarPosition": 391,
+  "frontMatter": {
+    "sidebar_position": 391
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何息滅貪、瞋、癡",
+    "permalink": "/docs/amtb/開示與問答/地區開示/如何息滅貪瞋癡"
+  },
+  "next": {
+    "title": "眾生無邊誓願度",
+    "permalink": "/docs/amtb/開示與問答/地區開示/眾生無邊誓願度"
+  }
+}

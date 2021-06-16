@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/日本座談會",
+  "id": "amtb/開示與問答/地區開示/日本座談會",
+  "isDocsHomePage": false,
+  "title": "日本座談會",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/日本座談會.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/日本座談會",
+  "permalink": "/docs/amtb/開示與問答/地區開示/日本座談會",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/日本座談會.mdx",
+  "version": "current",
+  "sidebarPosition": 549,
+  "frontMatter": {
+    "sidebar_position": 549
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "逆境-試鍊最好的道場",
+    "permalink": "/docs/amtb/開示與問答/地區開示/逆境-試鍊最好的道場"
+  },
+  "next": {
+    "title": "淨宗修學理念",
+    "permalink": "/docs/amtb/開示與問答/地區開示/淨宗修學理念"
+  }
+}

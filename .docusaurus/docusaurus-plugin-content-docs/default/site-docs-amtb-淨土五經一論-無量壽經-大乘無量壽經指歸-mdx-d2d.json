@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/無量壽經/大乘無量壽經指歸",
+  "id": "amtb/淨土五經一論/無量壽經/大乘無量壽經指歸",
+  "isDocsHomePage": false,
+  "title": "大乘無量壽經指歸",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/無量壽經/大乘無量壽經指歸.mdx",
+  "sourceDirName": "amtb/淨土五經一論/無量壽經",
+  "slug": "/amtb/淨土五經一論/無量壽經/大乘無量壽經指歸",
+  "permalink": "/docs/amtb/淨土五經一論/無量壽經/大乘無量壽經指歸",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/無量壽經/大乘無量壽經指歸.mdx",
+  "version": "current",
+  "sidebarPosition": 47,
+  "frontMatter": {
+    "sidebar_position": 47
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "勸諭策進",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/勸諭策進"
+  },
+  "next": {
+    "title": "無量壽經菁華",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/無量壽經菁華"
+  }
+}

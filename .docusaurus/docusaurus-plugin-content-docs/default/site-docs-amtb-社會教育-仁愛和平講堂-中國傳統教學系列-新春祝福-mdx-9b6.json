@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/中國傳統教學系列-新春祝福",
+  "id": "amtb/社會教育/仁愛和平講堂/中國傳統教學系列-新春祝福",
+  "isDocsHomePage": false,
+  "title": "中國傳統教學系列-新春祝福",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-新春祝福.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-新春祝福",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-新春祝福",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-新春祝福.mdx",
+  "version": "current",
+  "sidebarPosition": 1040,
+  "frontMatter": {
+    "sidebar_position": 1040
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "中國傳統教學系列-振興佛教",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-振興佛教"
+  },
+  "next": {
+    "title": "和諧世界，從心開始—心淨國土淨，心安眾生安，心平天下平",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/和諧世界從心開始心淨國土淨心安眾生安心平天下平"
+  }
+}

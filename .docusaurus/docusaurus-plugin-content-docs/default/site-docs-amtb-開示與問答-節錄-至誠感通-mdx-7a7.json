@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/至誠感通",
+  "id": "amtb/開示與問答/節錄/至誠感通",
+  "isDocsHomePage": false,
+  "title": "至誠感通",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/至誠感通.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/至誠感通",
+  "permalink": "/docs/amtb/開示與問答/節錄/至誠感通",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/至誠感通.mdx",
+  "version": "current",
+  "sidebarPosition": 3342,
+  "frontMatter": {
+    "sidebar_position": 3342
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "修行證果的正因",
+    "permalink": "/docs/amtb/開示與問答/節錄/修行證果的正因"
+  },
+  "next": {
+    "title": "無相無為。無縛無脫。無諸分別。遠離顛倒。",
+    "permalink": "/docs/amtb/開示與問答/節錄/無相無為無縛無脫無諸分別遠離顛倒"
+  }
+}

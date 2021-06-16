@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/各地活動紀念影片/憶恩師-恩師早年弘法掠影",
+  "id": "amtb/開示與問答/各地活動紀念影片/憶恩師-恩師早年弘法掠影",
+  "isDocsHomePage": false,
+  "title": "憶恩師－恩師早年弘法掠影",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/各地活動紀念影片/憶恩師-恩師早年弘法掠影.mdx",
+  "sourceDirName": "amtb/開示與問答/各地活動紀念影片",
+  "slug": "/amtb/開示與問答/各地活動紀念影片/憶恩師-恩師早年弘法掠影",
+  "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/憶恩師-恩師早年弘法掠影",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/各地活動紀念影片/憶恩師-恩師早年弘法掠影.mdx",
+  "version": "current",
+  "sidebarPosition": 3796,
+  "frontMatter": {
+    "sidebar_position": 3796
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "斯里蘭卡參學之旅",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/斯里蘭卡參學之旅"
+  },
+  "next": {
+    "title": "2015年5～6月法英弘法回顧",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/2015年5~6月法英弘法回顧"
+  }
+}

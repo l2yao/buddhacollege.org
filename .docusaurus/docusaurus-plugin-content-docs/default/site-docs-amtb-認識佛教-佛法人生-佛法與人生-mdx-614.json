@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/認識佛教/佛法人生/佛法與人生",
+  "id": "amtb/認識佛教/佛法人生/佛法與人生",
+  "isDocsHomePage": false,
+  "title": "佛法與人生",
+  "description": "",
+  "source": "@site/docs/amtb/認識佛教/佛法人生/佛法與人生.mdx",
+  "sourceDirName": "amtb/認識佛教/佛法人生",
+  "slug": "/amtb/認識佛教/佛法人生/佛法與人生",
+  "permalink": "/docs/amtb/認識佛教/佛法人生/佛法與人生",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/認識佛教/佛法人生/佛法與人生.mdx",
+  "version": "current",
+  "sidebarPosition": 266,
+  "frontMatter": {
+    "sidebar_position": 266
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "紀念佛陀聖誕談佛陀現代教育",
+    "permalink": "/docs/amtb/認識佛教/佛教使命/紀念佛陀聖誕談佛陀現代教育"
+  },
+  "next": {
+    "title": "人生哲學講座",
+    "permalink": "/docs/amtb/認識佛教/佛法人生/人生哲學講座"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/不斷之無",
+  "id": "amtb/開示與問答/節錄/不斷之無",
+  "isDocsHomePage": false,
+  "title": "不斷之無",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/不斷之無.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/不斷之無",
+  "permalink": "/docs/amtb/開示與問答/節錄/不斷之無",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/不斷之無.mdx",
+  "version": "current",
+  "sidebarPosition": 2946,
+  "frontMatter": {
+    "sidebar_position": 2946
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "何謂正法",
+    "permalink": "/docs/amtb/開示與問答/節錄/何謂正法"
+  },
+  "next": {
+    "title": "金剛杵之表法",
+    "permalink": "/docs/amtb/開示與問答/節錄/金剛杵之表法"
+  }
+}

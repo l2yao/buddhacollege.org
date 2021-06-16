@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/重新認識淨土法門",
+  "id": "amtb/開示與問答/節錄/重新認識淨土法門",
+  "isDocsHomePage": false,
+  "title": "重新認識淨土法門",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/重新認識淨土法門.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/重新認識淨土法門",
+  "permalink": "/docs/amtb/開示與問答/節錄/重新認識淨土法門",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/重新認識淨土法門.mdx",
+  "version": "current",
+  "sidebarPosition": 4159,
+  "frontMatter": {
+    "sidebar_position": 4159
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "華嚴經十自在",
+    "permalink": "/docs/amtb/開示與問答/節錄/華嚴經十自在"
+  },
+  "next": {
+    "title": "如來光明無量 音身普度",
+    "permalink": "/docs/amtb/開示與問答/節錄/如來光明無量-音身普度"
+  }
+}

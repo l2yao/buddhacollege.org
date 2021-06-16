@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/佛法不離生活",
+  "id": "amtb/開示與問答/地區開示/佛法不離生活",
+  "isDocsHomePage": false,
+  "title": "佛法不離生活",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/佛法不離生活.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/佛法不離生活",
+  "permalink": "/docs/amtb/開示與問答/地區開示/佛法不離生活",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/佛法不離生活.mdx",
+  "version": "current",
+  "sidebarPosition": 423,
+  "frontMatter": {
+    "sidebar_position": 423
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "成佛之道",
+    "permalink": "/docs/amtb/開示與問答/地區開示/成佛之道"
+  },
+  "next": {
+    "title": "學佛的終極目標",
+    "permalink": "/docs/amtb/開示與問答/地區開示/學佛的終極目標"
+  }
+}

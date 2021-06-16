@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/電台弘法/如何挽救社會人心系列四現代人學佛應有的認識",
+  "id": "amtb/開示與問答/電台弘法/如何挽救社會人心系列四現代人學佛應有的認識",
+  "isDocsHomePage": false,
+  "title": "如何挽救社會人心系列(四)現代人學佛應有的認識",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列四現代人學佛應有的認識.mdx",
+  "sourceDirName": "amtb/開示與問答/電台弘法",
+  "slug": "/amtb/開示與問答/電台弘法/如何挽救社會人心系列四現代人學佛應有的認識",
+  "permalink": "/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列四現代人學佛應有的認識",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列四現代人學佛應有的認識.mdx",
+  "version": "current",
+  "sidebarPosition": 915,
+  "frontMatter": {
+    "sidebar_position": 915
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何挽救社會人心系列(三)提倡因果教育挽救社會風氣",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列三提倡因果教育挽救社會風氣"
+  },
+  "next": {
+    "title": "如何挽救社會人心系列(五)怎樣講經",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列五怎樣講經"
+  }
+}

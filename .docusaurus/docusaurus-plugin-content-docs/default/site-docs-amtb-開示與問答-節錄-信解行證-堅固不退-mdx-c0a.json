@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/信解行證-堅固不退",
+  "id": "amtb/開示與問答/節錄/信解行證-堅固不退",
+  "isDocsHomePage": false,
+  "title": "信解行證 堅固不退",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/信解行證-堅固不退.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/信解行證-堅固不退",
+  "permalink": "/docs/amtb/開示與問答/節錄/信解行證-堅固不退",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/信解行證-堅固不退.mdx",
+  "version": "current",
+  "sidebarPosition": 3556,
+  "frontMatter": {
+    "sidebar_position": 3556
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如來十號",
+    "permalink": "/docs/amtb/開示與問答/節錄/如來十號"
+  },
+  "next": {
+    "title": "真心念佛",
+    "permalink": "/docs/amtb/開示與問答/節錄/真心念佛"
+  }
+}

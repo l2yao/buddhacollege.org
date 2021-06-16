@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/住持法藏-功德無量",
+  "id": "amtb/開示與問答/地區開示/住持法藏-功德無量",
+  "isDocsHomePage": false,
+  "title": "住持法藏 功德無量",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/住持法藏-功德無量.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/住持法藏-功德無量",
+  "permalink": "/docs/amtb/開示與問答/地區開示/住持法藏-功德無量",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/住持法藏-功德無量.mdx",
+  "version": "current",
+  "sidebarPosition": 4416,
+  "frontMatter": {
+    "sidebar_position": 4416
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "二Ｏ一六年元旦談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/二o一六年元旦談話"
+  },
+  "next": {
+    "title": "法音宣流 普天同慶 —祝賀「二○一六年海峽兩岸萬人祈福佛樂大合唱」",
+    "permalink": "/docs/amtb/開示與問答/地區開示/法音宣流-普天同慶-祝賀二一六年海峽兩岸萬人祈福佛樂大合唱"
+  }
+}

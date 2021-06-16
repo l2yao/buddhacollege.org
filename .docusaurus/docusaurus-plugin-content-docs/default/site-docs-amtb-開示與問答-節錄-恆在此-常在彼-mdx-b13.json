@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/恆在此-常在彼",
+  "id": "amtb/開示與問答/節錄/恆在此-常在彼",
+  "isDocsHomePage": false,
+  "title": "恆在此 常在彼",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/恆在此-常在彼.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/恆在此-常在彼",
+  "permalink": "/docs/amtb/開示與問答/節錄/恆在此-常在彼",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/恆在此-常在彼.mdx",
+  "version": "current",
+  "sidebarPosition": 1077,
+  "frontMatter": {
+    "sidebar_position": 1077
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "微細自在",
+    "permalink": "/docs/amtb/開示與問答/節錄/微細自在"
+  },
+  "next": {
+    "title": "隨眾生業自在",
+    "permalink": "/docs/amtb/開示與問答/節錄/隨眾生業自在"
+  }
+}

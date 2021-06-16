@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/電台弘法/佛教是什麼-what-exactly-is-buddhism",
+  "id": "amtb/開示與問答/電台弘法/佛教是什麼-what-exactly-is-buddhism",
+  "isDocsHomePage": false,
+  "title": "佛教是什麼? What Exactly is Buddhism?",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/電台弘法/佛教是什麼-what-exactly-is-buddhism.mdx",
+  "sourceDirName": "amtb/開示與問答/電台弘法",
+  "slug": "/amtb/開示與問答/電台弘法/佛教是什麼-what-exactly-is-buddhism",
+  "permalink": "/docs/amtb/開示與問答/電台弘法/佛教是什麼-what-exactly-is-buddhism",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/電台弘法/佛教是什麼-what-exactly-is-buddhism.mdx",
+  "version": "current",
+  "sidebarPosition": 902,
+  "frontMatter": {
+    "sidebar_position": 902
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "淨修法要",
+    "permalink": "/docs/amtb/開示與問答/節錄/淨修法要"
+  },
+  "next": {
+    "title": "佛教是什麼?《續篇》",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/佛教是什麼續篇"
+  }
+}

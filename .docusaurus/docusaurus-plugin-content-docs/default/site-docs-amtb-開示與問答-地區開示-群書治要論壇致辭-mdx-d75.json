@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/群書治要論壇致辭",
+  "id": "amtb/開示與問答/地區開示/群書治要論壇致辭",
+  "isDocsHomePage": false,
+  "title": "群書治要論壇致辭",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/群書治要論壇致辭.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/群書治要論壇致辭",
+  "permalink": "/docs/amtb/開示與問答/地區開示/群書治要論壇致辭",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/群書治要論壇致辭.mdx",
+  "version": "current",
+  "sidebarPosition": 3613,
+  "frontMatter": {
+    "sidebar_position": 3613
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "對正覺精舍常住法師開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對正覺精舍常住法師開示"
+  },
+  "next": {
+    "title": "建國君民 教學為先",
+    "permalink": "/docs/amtb/開示與問答/地區開示/建國君民-教學為先"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/答四眾同修提問",
+  "id": "amtb/開示與問答/地區開示/答四眾同修提問",
+  "isDocsHomePage": false,
+  "title": "答四眾同修提問",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/答四眾同修提問.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/答四眾同修提問",
+  "permalink": "/docs/amtb/開示與問答/地區開示/答四眾同修提問",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/答四眾同修提問.mdx",
+  "version": "current",
+  "sidebarPosition": 2212,
+  "frontMatter": {
+    "sidebar_position": 2212
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "商道．精神啟示論壇",
+    "permalink": "/docs/amtb/開示與問答/地區開示/商道精神啟示論壇"
+  },
+  "next": {
+    "title": "馬來西亞廬江文化教育中心啟用典禮致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/馬來西亞廬江文化教育中心啟用典禮致詞"
+  }
+}

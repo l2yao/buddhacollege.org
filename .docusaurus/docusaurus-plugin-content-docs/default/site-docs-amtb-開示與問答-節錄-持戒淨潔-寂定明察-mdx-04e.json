@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/持戒淨潔-寂定明察",
+  "id": "amtb/開示與問答/節錄/持戒淨潔-寂定明察",
+  "isDocsHomePage": false,
+  "title": "持戒淨潔  寂定明察",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/持戒淨潔-寂定明察.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/持戒淨潔-寂定明察",
+  "permalink": "/docs/amtb/開示與問答/節錄/持戒淨潔-寂定明察",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/持戒淨潔-寂定明察.mdx",
+  "version": "current",
+  "sidebarPosition": 3748,
+  "frontMatter": {
+    "sidebar_position": 3748
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "華嚴十種善巧智",
+    "permalink": "/docs/amtb/開示與問答/節錄/華嚴十種善巧智"
+  },
+  "next": {
+    "title": "究竟菩薩諸波羅蜜",
+    "permalink": "/docs/amtb/開示與問答/節錄/究竟菩薩諸波羅蜜"
+  }
+}

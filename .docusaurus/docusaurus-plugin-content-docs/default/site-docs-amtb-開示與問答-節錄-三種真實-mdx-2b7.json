@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/三種真實",
+  "id": "amtb/開示與問答/節錄/三種真實",
+  "isDocsHomePage": false,
+  "title": "三種真實",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/三種真實.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/三種真實",
+  "permalink": "/docs/amtb/開示與問答/節錄/三種真實",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/三種真實.mdx",
+  "version": "current",
+  "sidebarPosition": 3540,
+  "frontMatter": {
+    "sidebar_position": 3540
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學習的次第",
+    "permalink": "/docs/amtb/開示與問答/節錄/學習的次第"
+  },
+  "next": {
+    "title": "有為法 無為法",
+    "permalink": "/docs/amtb/開示與問答/節錄/有為法-無為法"
+  }
+}

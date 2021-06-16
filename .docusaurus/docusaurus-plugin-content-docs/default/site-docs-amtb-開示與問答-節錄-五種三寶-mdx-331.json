@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/五種三寶",
+  "id": "amtb/開示與問答/節錄/五種三寶",
+  "isDocsHomePage": false,
+  "title": "五種三寶",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/五種三寶.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/五種三寶",
+  "permalink": "/docs/amtb/開示與問答/節錄/五種三寶",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/五種三寶.mdx",
+  "version": "current",
+  "sidebarPosition": 3231,
+  "frontMatter": {
+    "sidebar_position": 3231
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "一句彌陀 離苦得樂",
+    "permalink": "/docs/amtb/開示與問答/節錄/一句彌陀-離苦得樂"
+  },
+  "next": {
+    "title": "一切法得成於忍（二）",
+    "permalink": "/docs/amtb/開示與問答/節錄/一切法得成於忍二"
+  }
+}

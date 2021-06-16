@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/對馬來西亞同修開示",
+  "id": "amtb/開示與問答/地區開示/對馬來西亞同修開示",
+  "isDocsHomePage": false,
+  "title": "對馬來西亞同修開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/對馬來西亞同修開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/對馬來西亞同修開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/對馬來西亞同修開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/對馬來西亞同修開示.mdx",
+  "version": "current",
+  "sidebarPosition": 2582,
+  "frontMatter": {
+    "sidebar_position": 2582
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "護國息災的方法",
+    "permalink": "/docs/amtb/開示與問答/地區開示/護國息災的方法"
+  },
+  "next": {
+    "title": "2010年印尼之行－感恩晚宴開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2010年印尼之行-感恩晚宴開示"
+  }
+}

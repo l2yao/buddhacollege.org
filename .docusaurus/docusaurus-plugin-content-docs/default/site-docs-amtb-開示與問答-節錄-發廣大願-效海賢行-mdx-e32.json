@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/發廣大願-效海賢行",
+  "id": "amtb/開示與問答/節錄/發廣大願-效海賢行",
+  "isDocsHomePage": false,
+  "title": "發廣大願 效海賢行",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/發廣大願-效海賢行.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/發廣大願-效海賢行",
+  "permalink": "/docs/amtb/開示與問答/節錄/發廣大願-效海賢行",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/發廣大願-效海賢行.mdx",
+  "version": "current",
+  "sidebarPosition": 4190,
+  "frontMatter": {
+    "sidebar_position": 4190
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如來光明無量 音身普度",
+    "permalink": "/docs/amtb/開示與問答/節錄/如來光明無量-音身普度"
+  },
+  "next": {
+    "title": "廣修供養──堅求正覺",
+    "permalink": "/docs/amtb/開示與問答/節錄/廣修供養堅求正覺"
+  }
+}

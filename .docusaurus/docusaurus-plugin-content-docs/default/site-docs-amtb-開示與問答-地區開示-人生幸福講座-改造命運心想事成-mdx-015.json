@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/人生幸福講座-改造命運心想事成",
+  "id": "amtb/開示與問答/地區開示/人生幸福講座-改造命運心想事成",
+  "isDocsHomePage": false,
+  "title": "人生幸福講座－改造命運心想事成",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/人生幸福講座-改造命運心想事成.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/人生幸福講座-改造命運心想事成",
+  "permalink": "/docs/amtb/開示與問答/地區開示/人生幸福講座-改造命運心想事成",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/人生幸福講座-改造命運心想事成.mdx",
+  "version": "current",
+  "sidebarPosition": 522,
+  "frontMatter": {
+    "sidebar_position": 522
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "和敬晚宴",
+    "permalink": "/docs/amtb/開示與問答/地區開示/和敬晚宴"
+  },
+  "next": {
+    "title": "內部講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/內部講話"
+  }
+}

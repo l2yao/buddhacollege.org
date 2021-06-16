@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/學習神愛世人",
+  "id": "amtb/開示與問答/地區開示/學習神愛世人",
+  "isDocsHomePage": false,
+  "title": "學習《神愛世人》",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/學習神愛世人.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/學習神愛世人",
+  "permalink": "/docs/amtb/開示與問答/地區開示/學習神愛世人",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/學習神愛世人.mdx",
+  "version": "current",
+  "sidebarPosition": 4962,
+  "frontMatter": {
+    "sidebar_position": 4962
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "法國巴黎會客談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/法國巴黎會客談話"
+  },
+  "next": {
+    "title": "聽師父說",
+    "permalink": "/docs/amtb/開示與問答/地區開示/聽師父說"
+  }
+}

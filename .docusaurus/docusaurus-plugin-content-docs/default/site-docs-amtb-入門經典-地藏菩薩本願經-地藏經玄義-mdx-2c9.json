@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/入門經典/地藏菩薩本願經/地藏經玄義",
+  "id": "amtb/入門經典/地藏菩薩本願經/地藏經玄義",
+  "isDocsHomePage": false,
+  "title": "地藏經玄義",
+  "description": "",
+  "source": "@site/docs/amtb/入門經典/地藏菩薩本願經/地藏經玄義.mdx",
+  "sourceDirName": "amtb/入門經典/地藏菩薩本願經",
+  "slug": "/amtb/入門經典/地藏菩薩本願經/地藏經玄義",
+  "permalink": "/docs/amtb/入門經典/地藏菩薩本願經/地藏經玄義",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/入門經典/地藏菩薩本願經/地藏經玄義.mdx",
+  "version": "current",
+  "sidebarPosition": 208,
+  "frontMatter": {
+    "sidebar_position": 208
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "地藏經科註菁華",
+    "permalink": "/docs/amtb/入門經典/地藏菩薩本願經/地藏經科註菁華"
+  },
+  "next": {
+    "title": "太上感應篇大意",
+    "permalink": "/docs/amtb/入門經典/太上感應篇/太上感應篇大意"
+  }
+}

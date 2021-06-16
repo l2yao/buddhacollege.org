@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/大乘經論/楞嚴經/楞嚴經",
+  "id": "amtb/大乘經論/楞嚴經/楞嚴經",
+  "isDocsHomePage": false,
+  "title": "楞嚴經",
+  "description": "",
+  "source": "@site/docs/amtb/大乘經論/楞嚴經/楞嚴經.mdx",
+  "sourceDirName": "amtb/大乘經論/楞嚴經",
+  "slug": "/amtb/大乘經論/楞嚴經/楞嚴經",
+  "permalink": "/docs/amtb/大乘經論/楞嚴經/楞嚴經",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/大乘經論/楞嚴經/楞嚴經.mdx",
+  "version": "current",
+  "sidebarPosition": 86,
+  "frontMatter": {
+    "sidebar_position": 86
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "華嚴經法界品簡介",
+    "permalink": "/docs/amtb/大乘經論/四十華嚴/華嚴經法界品簡介"
+  },
+  "next": {
+    "title": "楞嚴經清淨明誨章",
+    "permalink": "/docs/amtb/大乘經論/楞嚴經/楞嚴經清淨明誨章"
+  }
+}

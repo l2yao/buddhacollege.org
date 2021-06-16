@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/無量壽經/淨土大經科註第五回",
+  "id": "amtb/淨土五經一論/無量壽經/淨土大經科註第五回",
+  "isDocsHomePage": false,
+  "title": "淨土大經科註（第五回）",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/無量壽經/淨土大經科註第五回.mdx",
+  "sourceDirName": "amtb/淨土五經一論/無量壽經",
+  "slug": "/amtb/淨土五經一論/無量壽經/淨土大經科註第五回",
+  "permalink": "/docs/amtb/淨土五經一論/無量壽經/淨土大經科註第五回",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/無量壽經/淨土大經科註第五回.mdx",
+  "version": "current",
+  "sidebarPosition": 4847,
+  "frontMatter": {
+    "sidebar_position": 4847
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "念佛往生我能做得到嗎？ ——彌陀大願略說(第二回)",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/念佛往生我能做得到嗎-彌陀大願略說第二回"
+  },
+  "next": {
+    "title": "觀無量壽佛經講記",
+    "permalink": "/docs/amtb/淨土五經一論/觀無量壽佛經/觀無量壽佛經講記"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/山頂科學",
+  "id": "amtb/開示與問答/節錄/山頂科學",
+  "isDocsHomePage": false,
+  "title": "山頂科學",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/山頂科學.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/山頂科學",
+  "permalink": "/docs/amtb/開示與問答/節錄/山頂科學",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/山頂科學.mdx",
+  "version": "current",
+  "sidebarPosition": 1095,
+  "frontMatter": {
+    "sidebar_position": 1095
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "智慧莊嚴住不退故－生活在感恩的世界",
+    "permalink": "/docs/amtb/開示與問答/節錄/智慧莊嚴住不退故-生活在感恩的世界"
+  },
+  "next": {
+    "title": "福田甚深",
+    "permalink": "/docs/amtb/開示與問答/節錄/福田甚深"
+  }
+}

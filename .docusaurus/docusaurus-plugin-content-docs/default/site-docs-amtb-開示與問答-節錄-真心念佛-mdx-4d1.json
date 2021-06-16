@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/真心念佛",
+  "id": "amtb/開示與問答/節錄/真心念佛",
+  "isDocsHomePage": false,
+  "title": "真心念佛",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/真心念佛.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/真心念佛",
+  "permalink": "/docs/amtb/開示與問答/節錄/真心念佛",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/真心念佛.mdx",
+  "version": "current",
+  "sidebarPosition": 3557,
+  "frontMatter": {
+    "sidebar_position": 3557
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "信解行證 堅固不退",
+    "permalink": "/docs/amtb/開示與問答/節錄/信解行證-堅固不退"
+  },
+  "next": {
+    "title": "拔諸勤苦生死根本",
+    "permalink": "/docs/amtb/開示與問答/節錄/拔諸勤苦生死根本"
+  }
+}

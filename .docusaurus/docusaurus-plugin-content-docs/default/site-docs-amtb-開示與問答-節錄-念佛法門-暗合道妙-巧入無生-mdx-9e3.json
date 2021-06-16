@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/念佛法門-暗合道妙-巧入無生",
+  "id": "amtb/開示與問答/節錄/念佛法門-暗合道妙-巧入無生",
+  "isDocsHomePage": false,
+  "title": "念佛法門 暗合道妙 巧入無生",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/念佛法門-暗合道妙-巧入無生.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/念佛法門-暗合道妙-巧入無生",
+  "permalink": "/docs/amtb/開示與問答/節錄/念佛法門-暗合道妙-巧入無生",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/念佛法門-暗合道妙-巧入無生.mdx",
+  "version": "current",
+  "sidebarPosition": 3928,
+  "frontMatter": {
+    "sidebar_position": 3928
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "真念佛  魔不能侵",
+    "permalink": "/docs/amtb/開示與問答/節錄/真念佛-魔不能侵"
+  },
+  "next": {
+    "title": "垢除明現  離妄即真",
+    "permalink": "/docs/amtb/開示與問答/節錄/垢除明現-離妄即真"
+  }
+}

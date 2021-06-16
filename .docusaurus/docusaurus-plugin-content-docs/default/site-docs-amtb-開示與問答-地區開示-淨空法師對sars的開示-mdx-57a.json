@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/淨空法師對sars的開示",
+  "id": "amtb/開示與問答/地區開示/淨空法師對sars的開示",
+  "isDocsHomePage": false,
+  "title": "淨空法師對SARS的開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/淨空法師對sars的開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/淨空法師對sars的開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/淨空法師對sars的開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/淨空法師對sars的開示.mdx",
+  "version": "current",
+  "sidebarPosition": 618,
+  "frontMatter": {
+    "sidebar_position": 618
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第一屆淨宗聯誼會開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/第一屆淨宗聯誼會開示"
+  },
+  "next": {
+    "title": "2006年新春開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2006年新春開示"
+  }
+}

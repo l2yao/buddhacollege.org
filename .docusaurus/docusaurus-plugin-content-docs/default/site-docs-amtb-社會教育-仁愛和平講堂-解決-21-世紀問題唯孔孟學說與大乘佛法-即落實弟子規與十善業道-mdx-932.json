@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/解決21世紀問題唯孔孟學說與大乘佛法-即落實弟子規與十善業道",
+  "id": "amtb/社會教育/仁愛和平講堂/解決21世紀問題唯孔孟學說與大乘佛法-即落實弟子規與十善業道",
+  "isDocsHomePage": false,
+  "title": "解決21世紀問題唯孔孟學說與大乘佛法-即落實弟子規與十善業道",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/解決21世紀問題唯孔孟學說與大乘佛法-即落實弟子規與十善業道.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/解決21世紀問題唯孔孟學說與大乘佛法-即落實弟子規與十善業道",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/解決21世紀問題唯孔孟學說與大乘佛法-即落實弟子規與十善業道",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/解決21世紀問題唯孔孟學說與大乘佛法-即落實弟子規與十善業道.mdx",
+  "version": "current",
+  "sidebarPosition": 1029,
+  "frontMatter": {
+    "sidebar_position": 1029
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仁愛和平講堂-惠能大師說修禪入門",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-惠能大師說修禪入門"
+  },
+  "next": {
+    "title": "仁愛和平講堂-多元文化教育與人類和諧社會之路（南風窗雜誌專訪）",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-多元文化教育與人類和諧社會之路南風窗雜誌專訪"
+  }
+}

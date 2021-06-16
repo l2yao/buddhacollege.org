@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/花是行因-嚴是勝果",
+  "id": "amtb/開示與問答/節錄/花是行因-嚴是勝果",
+  "isDocsHomePage": false,
+  "title": "花是行因 嚴是勝果",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/花是行因-嚴是勝果.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/花是行因-嚴是勝果",
+  "permalink": "/docs/amtb/開示與問答/節錄/花是行因-嚴是勝果",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/花是行因-嚴是勝果.mdx",
+  "version": "current",
+  "sidebarPosition": 1136,
+  "frontMatter": {
+    "sidebar_position": 1136
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "十波羅密",
+    "permalink": "/docs/amtb/開示與問答/節錄/十波羅密"
+  },
+  "next": {
+    "title": "學習印光大師教誨",
+    "permalink": "/docs/amtb/開示與問答/節錄/學習印光大師教誨"
+  }
+}

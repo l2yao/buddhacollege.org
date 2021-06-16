@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/為人弟子之所以不能成就關鍵在哪裡",
+  "id": "amtb/開示與問答/節錄/為人弟子之所以不能成就關鍵在哪裡",
+  "isDocsHomePage": false,
+  "title": "為人弟子之所以不能成就關鍵在哪裡",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/為人弟子之所以不能成就關鍵在哪裡.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/為人弟子之所以不能成就關鍵在哪裡",
+  "permalink": "/docs/amtb/開示與問答/節錄/為人弟子之所以不能成就關鍵在哪裡",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/為人弟子之所以不能成就關鍵在哪裡.mdx",
+  "version": "current",
+  "sidebarPosition": 2531,
+  "frontMatter": {
+    "sidebar_position": 2531
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學習的秘訣是不斷的重複",
+    "permalink": "/docs/amtb/開示與問答/節錄/學習的秘訣是不斷的重複"
+  },
+  "next": {
+    "title": "怎樣才是真正好學",
+    "permalink": "/docs/amtb/開示與問答/節錄/怎樣才是真正好學"
+  }
+}

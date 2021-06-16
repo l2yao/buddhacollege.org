@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-智慧篇",
+  "id": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-智慧篇",
+  "isDocsHomePage": false,
+  "title": "仁愛和平講堂－智慧篇",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-智慧篇.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-智慧篇",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-智慧篇",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-智慧篇.mdx",
+  "version": "current",
+  "sidebarPosition": 1051,
+  "frontMatter": {
+    "sidebar_position": 1051
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仁愛和平講堂－台灣未來展望篇",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-台灣未來展望篇"
+  },
+  "next": {
+    "title": "仁愛和平講堂－慈悲篇",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-慈悲篇"
+  }
+}

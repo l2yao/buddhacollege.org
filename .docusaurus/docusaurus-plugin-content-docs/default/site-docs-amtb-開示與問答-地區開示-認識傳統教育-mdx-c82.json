@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/認識傳統教育",
+  "id": "amtb/開示與問答/地區開示/認識傳統教育",
+  "isDocsHomePage": false,
+  "title": "認識傳統教育",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/認識傳統教育.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/認識傳統教育",
+  "permalink": "/docs/amtb/開示與問答/地區開示/認識傳統教育",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/認識傳統教育.mdx",
+  "version": "current",
+  "sidebarPosition": 3013,
+  "frontMatter": {
+    "sidebar_position": 3013
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "談國學",
+    "permalink": "/docs/amtb/開示與問答/地區開示/談國學"
+  },
+  "next": {
+    "title": "漢學院動土典禮開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/漢學院動土典禮開示"
+  }
+}

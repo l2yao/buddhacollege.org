@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/佛十無礙",
+  "id": "amtb/開示與問答/節錄/佛十無礙",
+  "isDocsHomePage": false,
+  "title": "佛十無礙",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/佛十無礙.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/佛十無礙",
+  "permalink": "/docs/amtb/開示與問答/節錄/佛十無礙",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/佛十無礙.mdx",
+  "version": "current",
+  "sidebarPosition": 1122,
+  "frontMatter": {
+    "sidebar_position": 1122
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "講經四益",
+    "permalink": "/docs/amtb/開示與問答/節錄/講經四益"
+  },
+  "next": {
+    "title": "三細相六粗相",
+    "permalink": "/docs/amtb/開示與問答/節錄/三細相六粗相"
+  }
+}

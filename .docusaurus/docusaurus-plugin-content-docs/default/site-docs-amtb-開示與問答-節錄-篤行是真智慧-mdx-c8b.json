@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/篤行是真智慧",
+  "id": "amtb/開示與問答/節錄/篤行是真智慧",
+  "isDocsHomePage": false,
+  "title": "篤行是真智慧",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/篤行是真智慧.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/篤行是真智慧",
+  "permalink": "/docs/amtb/開示與問答/節錄/篤行是真智慧",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/篤行是真智慧.mdx",
+  "version": "current",
+  "sidebarPosition": 1204,
+  "frontMatter": {
+    "sidebar_position": 1204
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "徹了真相 身心安樂",
+    "permalink": "/docs/amtb/開示與問答/節錄/徹了真相-身心安樂"
+  },
+  "next": {
+    "title": "根淨境清",
+    "permalink": "/docs/amtb/開示與問答/節錄/根淨境清"
+  }
+}

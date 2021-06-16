@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/英國漢學院感恩茶會-致辭",
+  "id": "amtb/開示與問答/地區開示/英國漢學院感恩茶會-致辭",
+  "isDocsHomePage": false,
+  "title": "英國漢學院感恩茶會 致辭",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/英國漢學院感恩茶會-致辭.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/英國漢學院感恩茶會-致辭",
+  "permalink": "/docs/amtb/開示與問答/地區開示/英國漢學院感恩茶會-致辭",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/英國漢學院感恩茶會-致辭.mdx",
+  "version": "current",
+  "sidebarPosition": 5460,
+  "frontMatter": {
+    "sidebar_position": 5460
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "祝福大會使者祈求世界和諧",
+    "permalink": "/docs/amtb/開示與問答/地區開示/祝福大會使者祈求世界和諧"
+  },
+  "next": {
+    "title": "承先啟後 繼往開來——二〇一七年英國倫敦祭祖大典談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/承先啟後-繼往開來二〇一七年英國倫敦祭祖大典談話"
+  }
+}

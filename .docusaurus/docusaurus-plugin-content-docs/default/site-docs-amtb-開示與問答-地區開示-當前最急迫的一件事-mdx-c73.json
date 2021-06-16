@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/當前最急迫的一件事",
+  "id": "amtb/開示與問答/地區開示/當前最急迫的一件事",
+  "isDocsHomePage": false,
+  "title": "當前最急迫的一件事",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/當前最急迫的一件事.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/當前最急迫的一件事",
+  "permalink": "/docs/amtb/開示與問答/地區開示/當前最急迫的一件事",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/當前最急迫的一件事.mdx",
+  "version": "current",
+  "sidebarPosition": 2828,
+  "frontMatter": {
+    "sidebar_position": 2828
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "應以恩德化仇恨－紐約911事件座談會",
+    "permalink": "/docs/amtb/開示與問答/地區開示/應以恩德化仇恨-紐約911事件座談會"
+  },
+  "next": {
+    "title": "真聽老人言 幸福在眼前",
+    "permalink": "/docs/amtb/開示與問答/地區開示/真聽老人言-幸福在眼前"
+  }
+}

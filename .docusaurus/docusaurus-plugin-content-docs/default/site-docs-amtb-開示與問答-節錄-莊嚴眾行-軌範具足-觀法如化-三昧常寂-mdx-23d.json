@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/莊嚴眾行-軌範具足-觀法如化-三昧常寂",
+  "id": "amtb/開示與問答/節錄/莊嚴眾行-軌範具足-觀法如化-三昧常寂",
+  "isDocsHomePage": false,
+  "title": "莊嚴眾行 軌範具足 觀法如化 三昧常寂",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/莊嚴眾行-軌範具足-觀法如化-三昧常寂.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/莊嚴眾行-軌範具足-觀法如化-三昧常寂",
+  "permalink": "/docs/amtb/開示與問答/節錄/莊嚴眾行-軌範具足-觀法如化-三昧常寂",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/莊嚴眾行-軌範具足-觀法如化-三昧常寂.mdx",
+  "version": "current",
+  "sidebarPosition": 2837,
+  "frontMatter": {
+    "sidebar_position": 2837
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "忍力成就",
+    "permalink": "/docs/amtb/開示與問答/節錄/忍力成就"
+  },
+  "next": {
+    "title": "法藏成佛 號阿彌陀",
+    "permalink": "/docs/amtb/開示與問答/節錄/法藏成佛-號阿彌陀"
+  }
+}

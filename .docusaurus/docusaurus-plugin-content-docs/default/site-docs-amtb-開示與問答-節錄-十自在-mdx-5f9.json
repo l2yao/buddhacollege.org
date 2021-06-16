@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/十自在",
+  "id": "amtb/開示與問答/節錄/十自在",
+  "isDocsHomePage": false,
+  "title": "十自在",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/十自在.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/十自在",
+  "permalink": "/docs/amtb/開示與問答/節錄/十自在",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/十自在.mdx",
+  "version": "current",
+  "sidebarPosition": 1175,
+  "frontMatter": {
+    "sidebar_position": 1175
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "涅槃八味（一）",
+    "permalink": "/docs/amtb/開示與問答/節錄/涅槃八味一"
+  },
+  "next": {
+    "title": "普賢德-恆順眾生",
+    "permalink": "/docs/amtb/開示與問答/節錄/普賢德-恆順眾生"
+  }
+}

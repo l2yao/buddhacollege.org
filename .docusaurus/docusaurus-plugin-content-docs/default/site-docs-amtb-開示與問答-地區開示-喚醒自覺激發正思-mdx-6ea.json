@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/喚醒自覺激發正思",
+  "id": "amtb/開示與問答/地區開示/喚醒自覺激發正思",
+  "isDocsHomePage": false,
+  "title": "喚醒自覺、激發正思",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/喚醒自覺激發正思.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/喚醒自覺激發正思",
+  "permalink": "/docs/amtb/開示與問答/地區開示/喚醒自覺激發正思",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/喚醒自覺激發正思.mdx",
+  "version": "current",
+  "sidebarPosition": 406,
+  "frontMatter": {
+    "sidebar_position": 406
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "館長往生週年開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/館長往生週年開示"
+  },
+  "next": {
+    "title": "1999年澳洲布里斯本新春開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/1999年澳洲布里斯本新春開示"
+  }
+}

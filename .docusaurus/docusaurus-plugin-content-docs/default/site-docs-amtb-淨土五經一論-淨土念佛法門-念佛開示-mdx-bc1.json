@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/淨土念佛法門/念佛開示",
+  "id": "amtb/淨土五經一論/淨土念佛法門/念佛開示",
+  "isDocsHomePage": false,
+  "title": "念佛開示",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/淨土念佛法門/念佛開示.mdx",
+  "sourceDirName": "amtb/淨土五經一論/淨土念佛法門",
+  "slug": "/amtb/淨土五經一論/淨土念佛法門/念佛開示",
+  "permalink": "/docs/amtb/淨土五經一論/淨土念佛法門/念佛開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/淨土念佛法門/念佛開示.mdx",
+  "version": "current",
+  "sidebarPosition": 186,
+  "frontMatter": {
+    "sidebar_position": 186
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "念佛法要",
+    "permalink": "/docs/amtb/淨土五經一論/淨土念佛法門/念佛法要"
+  },
+  "next": {
+    "title": "淨宗法門修學要領",
+    "permalink": "/docs/amtb/淨土五經一論/淨土念佛法門/淨宗法門修學要領"
+  }
+}

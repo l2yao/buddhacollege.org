@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/關於和平教育的對話",
+  "id": "amtb/社會教育/多元文化/關於和平教育的對話",
+  "isDocsHomePage": false,
+  "title": "關於和平教育的對話",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/關於和平教育的對話.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/關於和平教育的對話",
+  "permalink": "/docs/amtb/社會教育/多元文化/關於和平教育的對話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/關於和平教育的對話.mdx",
+  "version": "current",
+  "sidebarPosition": 596,
+  "frontMatter": {
+    "sidebar_position": 596
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "環宇和諧，天下一家宗教對話與世界和平的反思與建議",
+    "permalink": "/docs/amtb/社會教育/多元文化/環宇和諧天下一家宗教對話與世界和平的反思與建議"
+  },
+  "next": {
+    "title": "世界宗教5000年攝制委員會禮訪淨空老法師訪談錄",
+    "permalink": "/docs/amtb/社會教育/多元文化/世界宗教5000年攝制委員會禮訪淨空老法師訪談錄"
+  }
+}

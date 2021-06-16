@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/三時繫念解疑",
+  "id": "amtb/開示與問答/節錄/三時繫念解疑",
+  "isDocsHomePage": false,
+  "title": "三時繫念解疑",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/三時繫念解疑.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/三時繫念解疑",
+  "permalink": "/docs/amtb/開示與問答/節錄/三時繫念解疑",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/三時繫念解疑.mdx",
+  "version": "current",
+  "sidebarPosition": 3414,
+  "frontMatter": {
+    "sidebar_position": 3414
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "四悉檀",
+    "permalink": "/docs/amtb/開示與問答/節錄/四悉檀"
+  },
+  "next": {
+    "title": "六信",
+    "permalink": "/docs/amtb/開示與問答/節錄/六信"
+  }
+}

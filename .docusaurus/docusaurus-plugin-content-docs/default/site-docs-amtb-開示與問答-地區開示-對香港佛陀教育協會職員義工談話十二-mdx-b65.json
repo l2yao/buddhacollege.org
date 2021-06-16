@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話十二",
+  "id": "amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話十二",
+  "isDocsHomePage": false,
+  "title": "對香港佛陀教育協會職員義工談話十二",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話十二.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話十二",
+  "permalink": "/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話十二",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話十二.mdx",
+  "version": "current",
+  "sidebarPosition": 719,
+  "frontMatter": {
+    "sidebar_position": 719
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "一切萬法不離自性",
+    "permalink": "/docs/amtb/開示與問答/地區開示/一切萬法不離自性"
+  },
+  "next": {
+    "title": "二五五0年歡慶衛塞節主題講演",
+    "permalink": "/docs/amtb/開示與問答/地區開示/二五五0年歡慶衛塞節主題講演"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/證無所得-不由他悟",
+  "id": "amtb/開示與問答/節錄/證無所得-不由他悟",
+  "isDocsHomePage": false,
+  "title": "證無所得 不由他悟",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/證無所得-不由他悟.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/證無所得-不由他悟",
+  "permalink": "/docs/amtb/開示與問答/節錄/證無所得-不由他悟",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/證無所得-不由他悟.mdx",
+  "version": "current",
+  "sidebarPosition": 3746,
+  "frontMatter": {
+    "sidebar_position": 3746
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "入道二門",
+    "permalink": "/docs/amtb/開示與問答/節錄/入道二門"
+  },
+  "next": {
+    "title": "華嚴十種善巧智",
+    "permalink": "/docs/amtb/開示與問答/節錄/華嚴十種善巧智"
+  }
+}

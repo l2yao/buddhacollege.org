@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/四攝-四悉檀",
+  "id": "amtb/開示與問答/節錄/四攝-四悉檀",
+  "isDocsHomePage": false,
+  "title": "四攝 四悉檀",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/四攝-四悉檀.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/四攝-四悉檀",
+  "permalink": "/docs/amtb/開示與問答/節錄/四攝-四悉檀",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/四攝-四悉檀.mdx",
+  "version": "current",
+  "sidebarPosition": 1190,
+  "frontMatter": {
+    "sidebar_position": 1190
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "寶蓮表法  因果同時",
+    "permalink": "/docs/amtb/開示與問答/節錄/寶蓮表法-因果同時"
+  },
+  "next": {
+    "title": "四種四諦",
+    "permalink": "/docs/amtb/開示與問答/節錄/四種四諦"
+  }
+}

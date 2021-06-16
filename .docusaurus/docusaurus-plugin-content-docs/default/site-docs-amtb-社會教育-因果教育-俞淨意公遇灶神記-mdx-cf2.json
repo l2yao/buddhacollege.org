@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/因果教育/俞淨意公遇灶神記",
+  "id": "amtb/社會教育/因果教育/俞淨意公遇灶神記",
+  "isDocsHomePage": false,
+  "title": "俞淨意公遇灶神記",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/因果教育/俞淨意公遇灶神記.mdx",
+  "sourceDirName": "amtb/社會教育/因果教育",
+  "slug": "/amtb/社會教育/因果教育/俞淨意公遇灶神記",
+  "permalink": "/docs/amtb/社會教育/因果教育/俞淨意公遇灶神記",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/因果教育/俞淨意公遇灶神記.mdx",
+  "version": "current",
+  "sidebarPosition": 303,
+  "frontMatter": {
+    "sidebar_position": 303
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "陰騭文大意",
+    "permalink": "/docs/amtb/社會教育/因果教育/陰騭文大意"
+  },
+  "next": {
+    "title": "改造命運的原理與方法",
+    "permalink": "/docs/amtb/社會教育/因果教育/改造命運的原理與方法"
+  }
+}

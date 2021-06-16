@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/永無眾苦諸難惡趣魔惱",
+  "id": "amtb/開示與問答/節錄/永無眾苦諸難惡趣魔惱",
+  "isDocsHomePage": false,
+  "title": "永無眾苦。諸難。惡趣。魔惱。",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/永無眾苦諸難惡趣魔惱.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/永無眾苦諸難惡趣魔惱",
+  "permalink": "/docs/amtb/開示與問答/節錄/永無眾苦諸難惡趣魔惱",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/永無眾苦諸難惡趣魔惱.mdx",
+  "version": "current",
+  "sidebarPosition": 3268,
+  "frontMatter": {
+    "sidebar_position": 3268
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "今現在說法—聖賢教育是拯救今日世界動亂之最佳良方",
+    "permalink": "/docs/amtb/開示與問答/節錄/今現在說法聖賢教育是拯救今日世界動亂之最佳良方"
+  },
+  "next": {
+    "title": "十乘理觀",
+    "permalink": "/docs/amtb/開示與問答/節錄/十乘理觀"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/晚宴-淨土宗水谷樣御一行宴請知恩院一行師父上人致詞",
+  "id": "amtb/開示與問答/地區開示/晚宴-淨土宗水谷樣御一行宴請知恩院一行師父上人致詞",
+  "isDocsHomePage": false,
+  "title": "晚宴-淨土宗水谷樣御一行(宴請知恩院一行師父上人致詞)",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/晚宴-淨土宗水谷樣御一行宴請知恩院一行師父上人致詞.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/晚宴-淨土宗水谷樣御一行宴請知恩院一行師父上人致詞",
+  "permalink": "/docs/amtb/開示與問答/地區開示/晚宴-淨土宗水谷樣御一行宴請知恩院一行師父上人致詞",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/晚宴-淨土宗水谷樣御一行宴請知恩院一行師父上人致詞.mdx",
+  "version": "current",
+  "sidebarPosition": 484,
+  "frontMatter": {
+    "sidebar_position": 484
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "日本中外日報記者山田繁夫訪問淨空法師",
+    "permalink": "/docs/amtb/開示與問答/地區開示/日本中外日報記者山田繁夫訪問淨空法師"
+  },
+  "next": {
+    "title": "與朝日新聞小也公久及NHK記者晤談",
+    "permalink": "/docs/amtb/開示與問答/地區開示/與朝日新聞小也公久及nhk記者晤談"
+  }
+}

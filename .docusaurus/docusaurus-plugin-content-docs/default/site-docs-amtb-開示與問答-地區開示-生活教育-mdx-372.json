@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/生活教育",
+  "id": "amtb/開示與問答/地區開示/生活教育",
+  "isDocsHomePage": false,
+  "title": "生活教育",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/生活教育.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/生活教育",
+  "permalink": "/docs/amtb/開示與問答/地區開示/生活教育",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/生活教育.mdx",
+  "version": "current",
+  "sidebarPosition": 541,
+  "frontMatter": {
+    "sidebar_position": 541
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "養生之道",
+    "permalink": "/docs/amtb/開示與問答/地區開示/養生之道"
+  },
+  "next": {
+    "title": "一九九四年達拉斯秋季佛七講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/一九九四年達拉斯秋季佛七講話"
+  }
+}

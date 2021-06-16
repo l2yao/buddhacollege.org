@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/構建人與人之凝聚力宗教教育是和諧世界所必需",
+  "id": "amtb/社會教育/多元文化/構建人與人之凝聚力宗教教育是和諧世界所必需",
+  "isDocsHomePage": false,
+  "title": "構建人與人之凝聚力—宗教教育是和諧世界所必需",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/構建人與人之凝聚力宗教教育是和諧世界所必需.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/構建人與人之凝聚力宗教教育是和諧世界所必需",
+  "permalink": "/docs/amtb/社會教育/多元文化/構建人與人之凝聚力宗教教育是和諧世界所必需",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/構建人與人之凝聚力宗教教育是和諧世界所必需.mdx",
+  "version": "current",
+  "sidebarPosition": 5437,
+  "frontMatter": {
+    "sidebar_position": 5437
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "對參加多元宗教朋友的談話",
+    "permalink": "/docs/amtb/社會教育/多元文化/對參加多元宗教朋友的談話"
+  },
+  "next": {
+    "title": "「世界宗教是一家」開示",
+    "permalink": "/docs/amtb/社會教育/多元文化/世界宗教是一家開示"
+  }
+}

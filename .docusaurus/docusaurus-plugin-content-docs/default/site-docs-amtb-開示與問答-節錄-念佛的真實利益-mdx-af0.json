@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/念佛的真實利益",
+  "id": "amtb/開示與問答/節錄/念佛的真實利益",
+  "isDocsHomePage": false,
+  "title": "念佛的真實利益",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/念佛的真實利益.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/念佛的真實利益",
+  "permalink": "/docs/amtb/開示與問答/節錄/念佛的真實利益",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/念佛的真實利益.mdx",
+  "version": "current",
+  "sidebarPosition": 4678,
+  "frontMatter": {
+    "sidebar_position": 4678
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "發菩提心 一向專念",
+    "permalink": "/docs/amtb/開示與問答/節錄/發菩提心-一向專念"
+  },
+  "next": {
+    "title": "楞嚴經觀世音菩薩耳根圓通章",
+    "permalink": "/docs/amtb/開示與問答/節錄/楞嚴經觀世音菩薩耳根圓通章"
+  }
+}

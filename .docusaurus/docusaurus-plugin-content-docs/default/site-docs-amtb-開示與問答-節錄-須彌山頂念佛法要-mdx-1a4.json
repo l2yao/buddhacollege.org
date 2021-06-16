@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/須彌山頂念佛法要",
+  "id": "amtb/開示與問答/節錄/須彌山頂念佛法要",
+  "isDocsHomePage": false,
+  "title": "須彌山頂念佛法要",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/須彌山頂念佛法要.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/須彌山頂念佛法要",
+  "permalink": "/docs/amtb/開示與問答/節錄/須彌山頂念佛法要",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/須彌山頂念佛法要.mdx",
+  "version": "current",
+  "sidebarPosition": 1093,
+  "frontMatter": {
+    "sidebar_position": 1093
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "知足天王",
+    "permalink": "/docs/amtb/開示與問答/節錄/知足天王"
+  },
+  "next": {
+    "title": "智慧莊嚴住不退故－生活在感恩的世界",
+    "permalink": "/docs/amtb/開示與問答/節錄/智慧莊嚴住不退故-生活在感恩的世界"
+  }
+}

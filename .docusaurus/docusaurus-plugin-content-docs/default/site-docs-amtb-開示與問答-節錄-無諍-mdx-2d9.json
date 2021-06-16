@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/無諍",
+  "id": "amtb/開示與問答/節錄/無諍",
+  "isDocsHomePage": false,
+  "title": "無諍",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/無諍.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/無諍",
+  "permalink": "/docs/amtb/開示與問答/節錄/無諍",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/無諍.mdx",
+  "version": "current",
+  "sidebarPosition": 1132,
+  "frontMatter": {
+    "sidebar_position": 1132
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "泉池功德(上)",
+    "permalink": "/docs/amtb/開示與問答/節錄/泉池功德上"
+  },
+  "next": {
+    "title": "離言",
+    "permalink": "/docs/amtb/開示與問答/節錄/離言"
+  }
+}

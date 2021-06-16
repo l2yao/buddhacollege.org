@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/落實六大-化解衝突-促進和平",
+  "id": "amtb/開示與問答/地區開示/落實六大-化解衝突-促進和平",
+  "isDocsHomePage": false,
+  "title": "落實六大 化解衝突 促進和平",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/落實六大-化解衝突-促進和平.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/落實六大-化解衝突-促進和平",
+  "permalink": "/docs/amtb/開示與問答/地區開示/落實六大-化解衝突-促進和平",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/落實六大-化解衝突-促進和平.mdx",
+  "version": "current",
+  "sidebarPosition": 4274,
+  "frontMatter": {
+    "sidebar_position": 4274
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "和諧天下，以孝為本",
+    "permalink": "/docs/amtb/開示與問答/地區開示/和諧天下以孝為本"
+  },
+  "next": {
+    "title": "母親節開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/母親節開示"
+  }
+}

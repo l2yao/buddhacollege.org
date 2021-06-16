@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/妙法難遇-作大守護",
+  "id": "amtb/開示與問答/節錄/妙法難遇-作大守護",
+  "isDocsHomePage": false,
+  "title": "妙法難遇 作大守護",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/妙法難遇-作大守護.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/妙法難遇-作大守護",
+  "permalink": "/docs/amtb/開示與問答/節錄/妙法難遇-作大守護",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/妙法難遇-作大守護.mdx",
+  "version": "current",
+  "sidebarPosition": 3441,
+  "frontMatter": {
+    "sidebar_position": 3441
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "法界釋義",
+    "permalink": "/docs/amtb/開示與問答/節錄/法界釋義"
+  },
+  "next": {
+    "title": "當令是法 久住不滅",
+    "permalink": "/docs/amtb/開示與問答/節錄/當令是法-久住不滅"
+  }
+}

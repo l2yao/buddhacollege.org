@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/五住地惑",
+  "id": "amtb/開示與問答/節錄/五住地惑",
+  "isDocsHomePage": false,
+  "title": "五住地惑",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/五住地惑.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/五住地惑",
+  "permalink": "/docs/amtb/開示與問答/節錄/五住地惑",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/五住地惑.mdx",
+  "version": "current",
+  "sidebarPosition": 2263,
+  "frontMatter": {
+    "sidebar_position": 2263
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "懺除業障－逆流十心",
+    "permalink": "/docs/amtb/開示與問答/節錄/懺除業障-逆流十心"
+  },
+  "next": {
+    "title": "涅槃四樂",
+    "permalink": "/docs/amtb/開示與問答/節錄/涅槃四樂"
+  }
+}

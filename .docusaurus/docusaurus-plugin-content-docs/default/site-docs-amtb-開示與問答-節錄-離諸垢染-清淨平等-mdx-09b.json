@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/離諸垢染-清淨平等",
+  "id": "amtb/開示與問答/節錄/離諸垢染-清淨平等",
+  "isDocsHomePage": false,
+  "title": "離諸垢染 清淨平等",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/離諸垢染-清淨平等.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/離諸垢染-清淨平等",
+  "permalink": "/docs/amtb/開示與問答/節錄/離諸垢染-清淨平等",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/離諸垢染-清淨平等.mdx",
+  "version": "current",
+  "sidebarPosition": 3681,
+  "frontMatter": {
+    "sidebar_position": 3681
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "慈悲喜捨 甘露灌頂",
+    "permalink": "/docs/amtb/開示與問答/節錄/慈悲喜捨-甘露灌頂"
+  },
+  "next": {
+    "title": "往生勝樂",
+    "permalink": "/docs/amtb/開示與問答/節錄/往生勝樂"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/六和敬的修學",
+  "id": "amtb/開示與問答/節錄/六和敬的修學",
+  "isDocsHomePage": false,
+  "title": "六和敬的修學",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/六和敬的修學.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/六和敬的修學",
+  "permalink": "/docs/amtb/開示與問答/節錄/六和敬的修學",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/六和敬的修學.mdx",
+  "version": "current",
+  "sidebarPosition": 2574,
+  "frontMatter": {
+    "sidebar_position": 2574
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "大悲為根  菩提為因  方便為究竟",
+    "permalink": "/docs/amtb/開示與問答/節錄/大悲為根-菩提為因-方便為究竟"
+  },
+  "next": {
+    "title": "家庭主婦怎樣修菩薩道",
+    "permalink": "/docs/amtb/開示與問答/節錄/家庭主婦怎樣修菩薩道"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/度眾生要先度自己",
+  "id": "amtb/開示與問答/地區開示/度眾生要先度自己",
+  "isDocsHomePage": false,
+  "title": "度眾生要先度自己",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/度眾生要先度自己.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/度眾生要先度自己",
+  "permalink": "/docs/amtb/開示與問答/地區開示/度眾生要先度自己",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/度眾生要先度自己.mdx",
+  "version": "current",
+  "sidebarPosition": 488,
+  "frontMatter": {
+    "sidebar_position": 488
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "幸福美滿的晚年",
+    "permalink": "/docs/amtb/開示與問答/地區開示/幸福美滿的晚年"
+  },
+  "next": {
+    "title": "杭州東天目山開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/杭州東天目山開示"
+  }
+}

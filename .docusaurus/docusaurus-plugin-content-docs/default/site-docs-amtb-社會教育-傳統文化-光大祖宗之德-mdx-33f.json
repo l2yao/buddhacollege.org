@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/傳統文化/光大祖宗之德",
+  "id": "amtb/社會教育/傳統文化/光大祖宗之德",
+  "isDocsHomePage": false,
+  "title": "光大祖宗之德",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/傳統文化/光大祖宗之德.mdx",
+  "sourceDirName": "amtb/社會教育/傳統文化",
+  "slug": "/amtb/社會教育/傳統文化/光大祖宗之德",
+  "permalink": "/docs/amtb/社會教育/傳統文化/光大祖宗之德",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/傳統文化/光大祖宗之德.mdx",
+  "version": "current",
+  "sidebarPosition": 852,
+  "frontMatter": {
+    "sidebar_position": 852
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2008年馬來西亞弘法行－中國傳統文化與世界和平",
+    "permalink": "/docs/amtb/社會教育/傳統文化/2008年馬來西亞弘法行-中國傳統文化與世界和平"
+  },
+  "next": {
+    "title": "中華民族萬姓先祖紀念堂開示",
+    "permalink": "/docs/amtb/社會教育/傳統文化/中華民族萬姓先祖紀念堂開示"
+  }
+}

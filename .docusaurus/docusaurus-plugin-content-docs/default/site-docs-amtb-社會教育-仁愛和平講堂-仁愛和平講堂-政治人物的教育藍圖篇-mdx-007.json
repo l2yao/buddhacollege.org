@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-政治人物的教育藍圖篇",
+  "id": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-政治人物的教育藍圖篇",
+  "isDocsHomePage": false,
+  "title": "仁愛和平講堂－政治人物的教育藍圖篇",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-政治人物的教育藍圖篇.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-政治人物的教育藍圖篇",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-政治人物的教育藍圖篇",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-政治人物的教育藍圖篇.mdx",
+  "version": "current",
+  "sidebarPosition": 1059,
+  "frontMatter": {
+    "sidebar_position": 1059
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仁愛和平講堂－政治人物對社會的道德責任與影響",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-政治人物對社會的道德責任與影響"
+  },
+  "next": {
+    "title": "仁愛和平講堂－如何推動地方文化落實品德教育",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何推動地方文化落實品德教育"
+  }
+}

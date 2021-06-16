@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/其他經律論/法相唯識/唯識研究",
+  "id": "amtb/其他經律論/法相唯識/唯識研究",
+  "isDocsHomePage": false,
+  "title": "唯識研究",
+  "description": "",
+  "source": "@site/docs/amtb/其他經律論/法相唯識/唯識研究.mdx",
+  "sourceDirName": "amtb/其他經律論/法相唯識",
+  "slug": "/amtb/其他經律論/法相唯識/唯識研究",
+  "permalink": "/docs/amtb/其他經律論/法相唯識/唯識研究",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/其他經律論/法相唯識/唯識研究.mdx",
+  "version": "current",
+  "sidebarPosition": 124,
+  "frontMatter": {
+    "sidebar_position": 124
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "梵網經",
+    "permalink": "/docs/amtb/其他經律論/律宗/梵網經"
+  },
+  "next": {
+    "title": "八識規矩頌",
+    "permalink": "/docs/amtb/其他經律論/法相唯識/八識規矩頌"
+  }
+}

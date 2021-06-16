@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/各地活動紀念影片/二o一九己亥年全球弘法重點開示",
+  "id": "amtb/開示與問答/各地活動紀念影片/二o一九己亥年全球弘法重點開示",
+  "isDocsHomePage": false,
+  "title": "二Ｏ一九己亥年全球弘法重點開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/各地活動紀念影片/二o一九己亥年全球弘法重點開示.mdx",
+  "sourceDirName": "amtb/開示與問答/各地活動紀念影片",
+  "slug": "/amtb/開示與問答/各地活動紀念影片/二o一九己亥年全球弘法重點開示",
+  "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/二o一九己亥年全球弘法重點開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/各地活動紀念影片/二o一九己亥年全球弘法重點開示.mdx",
+  "version": "current",
+  "sidebarPosition": 5684,
+  "frontMatter": {
+    "sidebar_position": 5684
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2011年除夕賀歲影片",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/2011年除夕賀歲影片"
+  },
+  "next": {
+    "title": "《大愛無疆》",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/大愛無疆"
+  }
+}

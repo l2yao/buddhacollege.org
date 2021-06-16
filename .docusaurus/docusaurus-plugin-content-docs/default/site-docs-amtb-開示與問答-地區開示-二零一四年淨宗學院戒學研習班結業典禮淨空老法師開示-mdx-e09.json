@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/二零一四年淨宗學院戒學研習班結業典禮淨空老法師開示",
+  "id": "amtb/開示與問答/地區開示/二零一四年淨宗學院戒學研習班結業典禮淨空老法師開示",
+  "isDocsHomePage": false,
+  "title": "二零一四年淨宗學院戒學研習班結業典禮—淨空老法師開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/二零一四年淨宗學院戒學研習班結業典禮淨空老法師開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/二零一四年淨宗學院戒學研習班結業典禮淨空老法師開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/二零一四年淨宗學院戒學研習班結業典禮淨空老法師開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/二零一四年淨宗學院戒學研習班結業典禮淨空老法師開示.mdx",
+  "version": "current",
+  "sidebarPosition": 4126,
+  "frontMatter": {
+    "sidebar_position": 4126
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "澳洲淨宗學院溫馨晚宴談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/澳洲淨宗學院溫馨晚宴談話"
+  },
+  "next": {
+    "title": "什麼是真正的高等教育",
+    "permalink": "/docs/amtb/開示與問答/地區開示/什麼是真正的高等教育"
+  }
+}

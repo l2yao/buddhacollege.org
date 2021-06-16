@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/泉池功德上",
+  "id": "amtb/開示與問答/節錄/泉池功德上",
+  "isDocsHomePage": false,
+  "title": "泉池功德(上)",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/泉池功德上.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/泉池功德上",
+  "permalink": "/docs/amtb/開示與問答/節錄/泉池功德上",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/泉池功德上.mdx",
+  "version": "current",
+  "sidebarPosition": 1131,
+  "frontMatter": {
+    "sidebar_position": 1131
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "念一句阿彌陀佛就是住真實慧",
+    "permalink": "/docs/amtb/開示與問答/節錄/念一句阿彌陀佛就是住真實慧"
+  },
+  "next": {
+    "title": "無諍",
+    "permalink": "/docs/amtb/開示與問答/節錄/無諍"
+  }
+}

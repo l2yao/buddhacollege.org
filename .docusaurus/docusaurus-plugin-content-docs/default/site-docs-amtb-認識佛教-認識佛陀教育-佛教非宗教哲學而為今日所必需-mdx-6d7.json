@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/認識佛教/認識佛陀教育/佛教非宗教哲學而為今日所必需",
+  "id": "amtb/認識佛教/認識佛陀教育/佛教非宗教哲學而為今日所必需",
+  "isDocsHomePage": false,
+  "title": "佛教非宗教哲學而為今日所必需",
+  "description": "",
+  "source": "@site/docs/amtb/認識佛教/認識佛陀教育/佛教非宗教哲學而為今日所必需.mdx",
+  "sourceDirName": "amtb/認識佛教/認識佛陀教育",
+  "slug": "/amtb/認識佛教/認識佛陀教育/佛教非宗教哲學而為今日所必需",
+  "permalink": "/docs/amtb/認識佛教/認識佛陀教育/佛教非宗教哲學而為今日所必需",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/認識佛教/認識佛陀教育/佛教非宗教哲學而為今日所必需.mdx",
+  "version": "current",
+  "sidebarPosition": 281,
+  "frontMatter": {
+    "sidebar_position": 281
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "佛教是宗教？哲學？教育？",
+    "permalink": "/docs/amtb/認識佛教/認識佛陀教育/佛教是宗教哲學教育"
+  },
+  "next": {
+    "title": "佛陀教育：至善圓滿的宗教教育",
+    "permalink": "/docs/amtb/認識佛教/認識佛陀教育/佛陀教育至善圓滿的宗教教育"
+  }
+}

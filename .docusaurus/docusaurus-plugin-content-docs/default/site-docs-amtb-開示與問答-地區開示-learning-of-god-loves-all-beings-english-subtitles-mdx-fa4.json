@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/learning-of-god-loves-all-beings-english-subtitles",
+  "id": "amtb/開示與問答/地區開示/learning-of-god-loves-all-beings-english-subtitles",
+  "isDocsHomePage": false,
+  "title": "Learning of God Loves All Beings (English Subtitles)",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/learning-of-god-loves-all-beings-english-subtitles.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/learning-of-god-loves-all-beings-english-subtitles",
+  "permalink": "/docs/amtb/開示與問答/地區開示/learning-of-god-loves-all-beings-english-subtitles",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/learning-of-god-loves-all-beings-english-subtitles.mdx",
+  "version": "current",
+  "sidebarPosition": 5021,
+  "frontMatter": {
+    "sidebar_position": 5021
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "非常時代  非常擔當 ——二〇一八年英國漢學院開學典禮 致辭",
+    "permalink": "/docs/amtb/開示與問答/地區開示/非常時代-非常擔當-二〇一八年英國漢學院開學典禮-致辭"
+  },
+  "next": {
+    "title": "對英國漢學院師生談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對英國漢學院師生談話"
+  }
+}

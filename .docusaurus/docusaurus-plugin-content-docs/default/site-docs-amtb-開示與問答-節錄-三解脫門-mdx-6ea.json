@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/三解脫門",
+  "id": "amtb/開示與問答/節錄/三解脫門",
+  "isDocsHomePage": false,
+  "title": "三解脫門",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/三解脫門.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/三解脫門",
+  "permalink": "/docs/amtb/開示與問答/節錄/三解脫門",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/三解脫門.mdx",
+  "version": "current",
+  "sidebarPosition": 3427,
+  "frontMatter": {
+    "sidebar_position": 3427
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "不入一切種類珍寶成就牢獄",
+    "permalink": "/docs/amtb/開示與問答/節錄/不入一切種類珍寶成就牢獄"
+  },
+  "next": {
+    "title": "求善知識之道",
+    "permalink": "/docs/amtb/開示與問答/節錄/求善知識之道"
+  }
+}

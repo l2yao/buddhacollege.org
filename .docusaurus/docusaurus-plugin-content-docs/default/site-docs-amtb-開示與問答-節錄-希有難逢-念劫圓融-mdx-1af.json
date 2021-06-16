@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/希有難逢-念劫圓融",
+  "id": "amtb/開示與問答/節錄/希有難逢-念劫圓融",
+  "isDocsHomePage": false,
+  "title": "希有難逢 念劫圓融",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/希有難逢-念劫圓融.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/希有難逢-念劫圓融",
+  "permalink": "/docs/amtb/開示與問答/節錄/希有難逢-念劫圓融",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/希有難逢-念劫圓融.mdx",
+  "version": "current",
+  "sidebarPosition": 3552,
+  "frontMatter": {
+    "sidebar_position": 3552
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "惠以真實之利",
+    "permalink": "/docs/amtb/開示與問答/節錄/惠以真實之利"
+  },
+  "next": {
+    "title": "一念越三祇 片言齊諸聖",
+    "permalink": "/docs/amtb/開示與問答/節錄/一念越三祇-片言齊諸聖"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/念佛圓通章/大勢至念佛圓通章大意",
+  "id": "amtb/淨土五經一論/念佛圓通章/大勢至念佛圓通章大意",
+  "isDocsHomePage": false,
+  "title": "大勢至念佛圓通章大意",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/念佛圓通章/大勢至念佛圓通章大意.mdx",
+  "sourceDirName": "amtb/淨土五經一論/念佛圓通章",
+  "slug": "/amtb/淨土五經一論/念佛圓通章/大勢至念佛圓通章大意",
+  "permalink": "/docs/amtb/淨土五經一論/念佛圓通章/大勢至念佛圓通章大意",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/念佛圓通章/大勢至念佛圓通章大意.mdx",
+  "version": "current",
+  "sidebarPosition": 78,
+  "frontMatter": {
+    "sidebar_position": 78
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "大勢至菩薩念佛圓通章疏鈔",
+    "permalink": "/docs/amtb/淨土五經一論/念佛圓通章/大勢至菩薩念佛圓通章疏鈔"
+  },
+  "next": {
+    "title": "大勢至念佛圓通章",
+    "permalink": "/docs/amtb/淨土五經一論/念佛圓通章/大勢至念佛圓通章"
+  }
+}

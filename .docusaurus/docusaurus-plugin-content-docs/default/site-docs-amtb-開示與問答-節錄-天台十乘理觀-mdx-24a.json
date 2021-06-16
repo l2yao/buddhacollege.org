@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/天台十乘理觀",
+  "id": "amtb/開示與問答/節錄/天台十乘理觀",
+  "isDocsHomePage": false,
+  "title": "天台十乘理觀",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/天台十乘理觀.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/天台十乘理觀",
+  "permalink": "/docs/amtb/開示與問答/節錄/天台十乘理觀",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/天台十乘理觀.mdx",
+  "version": "current",
+  "sidebarPosition": 3675,
+  "frontMatter": {
+    "sidebar_position": 3675
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "身即無有  一心何來",
+    "permalink": "/docs/amtb/開示與問答/節錄/身即無有-一心何來"
+  },
+  "next": {
+    "title": "諸佛境界 不可思議",
+    "permalink": "/docs/amtb/開示與問答/節錄/諸佛境界-不可思議"
+  }
+}

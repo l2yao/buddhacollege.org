@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/如來十力四無畏",
+  "id": "amtb/開示與問答/節錄/如來十力四無畏",
+  "isDocsHomePage": false,
+  "title": "如來十力、四無畏",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/如來十力四無畏.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/如來十力四無畏",
+  "permalink": "/docs/amtb/開示與問答/節錄/如來十力四無畏",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/如來十力四無畏.mdx",
+  "version": "current",
+  "sidebarPosition": 3805,
+  "frontMatter": {
+    "sidebar_position": 3805
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "信疑得失",
+    "permalink": "/docs/amtb/開示與問答/節錄/信疑得失"
+  },
+  "next": {
+    "title": "無礙無著  甚深之法",
+    "permalink": "/docs/amtb/開示與問答/節錄/無礙無著-甚深之法"
+  }
+}

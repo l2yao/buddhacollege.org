@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/光益念佛往生",
+  "id": "amtb/開示與問答/節錄/光益念佛往生",
+  "isDocsHomePage": false,
+  "title": "光益念佛往生",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/光益念佛往生.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/光益念佛往生",
+  "permalink": "/docs/amtb/開示與問答/節錄/光益念佛往生",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/光益念佛往生.mdx",
+  "version": "current",
+  "sidebarPosition": 2845,
+  "frontMatter": {
+    "sidebar_position": 2845
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "但樂憶念過去諸佛所修善根",
+    "permalink": "/docs/amtb/開示與問答/節錄/但樂憶念過去諸佛所修善根"
+  },
+  "next": {
+    "title": "開示悟入佛之知見",
+    "permalink": "/docs/amtb/開示與問答/節錄/開示悟入佛之知見"
+  }
+}

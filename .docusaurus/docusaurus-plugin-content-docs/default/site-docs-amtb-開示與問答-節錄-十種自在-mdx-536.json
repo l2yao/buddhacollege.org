@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/十種自在",
+  "id": "amtb/開示與問答/節錄/十種自在",
+  "isDocsHomePage": false,
+  "title": "十種自在",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/十種自在.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/十種自在",
+  "permalink": "/docs/amtb/開示與問答/節錄/十種自在",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/十種自在.mdx",
+  "version": "current",
+  "sidebarPosition": 1084,
+  "frontMatter": {
+    "sidebar_position": 1084
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "普應悅機－讓一切眾生生歡喜心",
+    "permalink": "/docs/amtb/開示與問答/節錄/普應悅機-讓一切眾生生歡喜心"
+  },
+  "next": {
+    "title": "遇逆境?隨惡緣?無嗔恚?業障盡消；遇順境?隨善緣?無貪癡?福慧全現",
+    "permalink": "/docs/amtb/開示與問答/節錄/遇逆境隨惡緣無嗔恚業障盡消遇順境隨善緣無貪癡福慧全現"
+  }
+}

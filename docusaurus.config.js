@@ -19,15 +19,9 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: '课程',
-        },
-        {
-          type: 'doc',
           docId: '谷歌教室',
           position: 'left',
-          label: '谷歌教室',
+          label: '课程',
         },
         {to: '/blog', label: '新闻', position: 'left'},
         {

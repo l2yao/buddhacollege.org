@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/高科技弘法",
+  "id": "amtb/開示與問答/地區開示/高科技弘法",
+  "isDocsHomePage": false,
+  "title": "高科技弘法",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/高科技弘法.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/高科技弘法",
+  "permalink": "/docs/amtb/開示與問答/地區開示/高科技弘法",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/高科技弘法.mdx",
+  "version": "current",
+  "sidebarPosition": 434,
+  "frontMatter": {
+    "sidebar_position": 434
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "接受「名人面對面」專訪",
+    "permalink": "/docs/amtb/開示與問答/地區開示/接受名人面對面專訪"
+  },
+  "next": {
+    "title": "慈愛之光遍照寰宇",
+    "permalink": "/docs/amtb/開示與問答/地區開示/慈愛之光遍照寰宇"
+  }
+}

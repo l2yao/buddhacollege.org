@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/台南極樂寺會客談話",
+  "id": "amtb/開示與問答/地區開示/台南極樂寺會客談話",
+  "isDocsHomePage": false,
+  "title": "台南極樂寺會客談話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/台南極樂寺會客談話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/台南極樂寺會客談話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/台南極樂寺會客談話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/台南極樂寺會客談話.mdx",
+  "version": "current",
+  "sidebarPosition": 4852,
+  "frontMatter": {
+    "sidebar_position": 4852
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "和諧社會 孝敬為本 教學為先 ——新加坡護持祭祖大典護法與義工新春談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/和諧社會-孝敬為本-教學為先-新加坡護持祭祖大典護法與義工新春談話"
+  },
+  "next": {
+    "title": "不忘初心 共同承傳優秀傳統文化",
+    "permalink": "/docs/amtb/開示與問答/地區開示/不忘初心-共同承傳優秀傳統文化"
+  }
+}

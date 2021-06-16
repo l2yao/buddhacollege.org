@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/家庭主婦怎樣修菩薩道",
+  "id": "amtb/開示與問答/節錄/家庭主婦怎樣修菩薩道",
+  "isDocsHomePage": false,
+  "title": "家庭主婦怎樣修菩薩道",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/家庭主婦怎樣修菩薩道.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/家庭主婦怎樣修菩薩道",
+  "permalink": "/docs/amtb/開示與問答/節錄/家庭主婦怎樣修菩薩道",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/家庭主婦怎樣修菩薩道.mdx",
+  "version": "current",
+  "sidebarPosition": 2585,
+  "frontMatter": {
+    "sidebar_position": 2585
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "六和敬的修學",
+    "permalink": "/docs/amtb/開示與問答/節錄/六和敬的修學"
+  },
+  "next": {
+    "title": "十玄門（一）",
+    "permalink": "/docs/amtb/開示與問答/節錄/十玄門一"
+  }
+}

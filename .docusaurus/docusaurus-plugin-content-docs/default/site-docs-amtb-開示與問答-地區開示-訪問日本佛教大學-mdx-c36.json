@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/訪問日本佛教大學",
+  "id": "amtb/開示與問答/地區開示/訪問日本佛教大學",
+  "isDocsHomePage": false,
+  "title": "訪問日本佛教大學",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/訪問日本佛教大學.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/訪問日本佛教大學",
+  "permalink": "/docs/amtb/開示與問答/地區開示/訪問日本佛教大學",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/訪問日本佛教大學.mdx",
+  "version": "current",
+  "sidebarPosition": 473,
+  "frontMatter": {
+    "sidebar_position": 473
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "訪問知恩院",
+    "permalink": "/docs/amtb/開示與問答/地區開示/訪問知恩院"
+  },
+  "next": {
+    "title": "佛教大學晚宴致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/佛教大學晚宴致詞"
+  }
+}

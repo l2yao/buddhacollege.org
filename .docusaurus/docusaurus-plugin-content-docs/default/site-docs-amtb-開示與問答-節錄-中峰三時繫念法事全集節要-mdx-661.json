@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/中峰三時繫念法事全集節要",
+  "id": "amtb/開示與問答/節錄/中峰三時繫念法事全集節要",
+  "isDocsHomePage": false,
+  "title": "中峰三時繫念法事全集節要",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/中峰三時繫念法事全集節要.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/中峰三時繫念法事全集節要",
+  "permalink": "/docs/amtb/開示與問答/節錄/中峰三時繫念法事全集節要",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/中峰三時繫念法事全集節要.mdx",
+  "version": "current",
+  "sidebarPosition": 2482,
+  "frontMatter": {
+    "sidebar_position": 2482
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "總觀無常  深信因果",
+    "permalink": "/docs/amtb/開示與問答/節錄/總觀無常-深信因果"
+  },
+  "next": {
+    "title": "臨終助念答問",
+    "permalink": "/docs/amtb/開示與問答/節錄/臨終助念答問"
+  }
+}

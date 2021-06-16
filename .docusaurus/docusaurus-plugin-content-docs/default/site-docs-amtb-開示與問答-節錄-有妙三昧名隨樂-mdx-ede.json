@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/有妙三昧名隨樂",
+  "id": "amtb/開示與問答/節錄/有妙三昧名隨樂",
+  "isDocsHomePage": false,
+  "title": "有妙三昧名隨樂",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/有妙三昧名隨樂.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/有妙三昧名隨樂",
+  "permalink": "/docs/amtb/開示與問答/節錄/有妙三昧名隨樂",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/有妙三昧名隨樂.mdx",
+  "version": "current",
+  "sidebarPosition": 1193,
+  "frontMatter": {
+    "sidebar_position": 1193
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "用法喜提昇自己的能量",
+    "permalink": "/docs/amtb/開示與問答/節錄/用法喜提昇自己的能量"
+  },
+  "next": {
+    "title": "定慧化解災難",
+    "permalink": "/docs/amtb/開示與問答/節錄/定慧化解災難"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/基礎佛學/十二因緣",
+  "id": "amtb/開示與問答/基礎佛學/十二因緣",
+  "isDocsHomePage": false,
+  "title": "十二因緣",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/基礎佛學/十二因緣.mdx",
+  "sourceDirName": "amtb/開示與問答/基礎佛學",
+  "slug": "/amtb/開示與問答/基礎佛學/十二因緣",
+  "permalink": "/docs/amtb/開示與問答/基礎佛學/十二因緣",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/基礎佛學/十二因緣.mdx",
+  "version": "current",
+  "sidebarPosition": 869,
+  "frontMatter": {
+    "sidebar_position": 869
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學佛開示",
+    "permalink": "/docs/amtb/開示與問答/基礎佛學/學佛開示"
+  },
+  "next": {
+    "title": "入佛因緣",
+    "permalink": "/docs/amtb/開示與問答/基礎佛學/入佛因緣"
+  }
+}

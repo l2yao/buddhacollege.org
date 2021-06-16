@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/往生勝樂",
+  "id": "amtb/開示與問答/節錄/往生勝樂",
+  "isDocsHomePage": false,
+  "title": "往生勝樂",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/往生勝樂.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/往生勝樂",
+  "permalink": "/docs/amtb/開示與問答/節錄/往生勝樂",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/往生勝樂.mdx",
+  "version": "current",
+  "sidebarPosition": 3682,
+  "frontMatter": {
+    "sidebar_position": 3682
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "離諸垢染 清淨平等",
+    "permalink": "/docs/amtb/開示與問答/節錄/離諸垢染-清淨平等"
+  },
+  "next": {
+    "title": "智慧明了 神通自在",
+    "permalink": "/docs/amtb/開示與問答/節錄/智慧明了-神通自在"
+  }
+}

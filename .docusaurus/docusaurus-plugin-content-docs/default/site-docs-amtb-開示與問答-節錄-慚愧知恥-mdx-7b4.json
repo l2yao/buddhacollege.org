@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/慚愧知恥",
+  "id": "amtb/開示與問答/節錄/慚愧知恥",
+  "isDocsHomePage": false,
+  "title": "慚愧知恥",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/慚愧知恥.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/慚愧知恥",
+  "permalink": "/docs/amtb/開示與問答/節錄/慚愧知恥",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/慚愧知恥.mdx",
+  "version": "current",
+  "sidebarPosition": 1160,
+  "frontMatter": {
+    "sidebar_position": 1160
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "堅持志行",
+    "permalink": "/docs/amtb/開示與問答/節錄/堅持志行"
+  },
+  "next": {
+    "title": "生活在感恩的世界",
+    "permalink": "/docs/amtb/開示與問答/節錄/生活在感恩的世界"
+  }
+}

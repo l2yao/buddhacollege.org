@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/善護三業修習無邊行門",
+  "id": "amtb/開示與問答/節錄/善護三業修習無邊行門",
+  "isDocsHomePage": false,
+  "title": "善護三業修習無邊行門",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/善護三業修習無邊行門.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/善護三業修習無邊行門",
+  "permalink": "/docs/amtb/開示與問答/節錄/善護三業修習無邊行門",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/善護三業修習無邊行門.mdx",
+  "version": "current",
+  "sidebarPosition": 2854,
+  "frontMatter": {
+    "sidebar_position": 2854
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何化解自己的冤親債主",
+    "permalink": "/docs/amtb/開示與問答/節錄/如何化解自己的冤親債主"
+  },
+  "next": {
+    "title": "一切法得成於忍（一）",
+    "permalink": "/docs/amtb/開示與問答/節錄/一切法得成於忍一"
+  }
+}

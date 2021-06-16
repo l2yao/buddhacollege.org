@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/館長往生週年開示",
+  "id": "amtb/開示與問答/地區開示/館長往生週年開示",
+  "isDocsHomePage": false,
+  "title": "館長往生週年開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/館長往生週年開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/館長往生週年開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/館長往生週年開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/館長往生週年開示.mdx",
+  "version": "current",
+  "sidebarPosition": 397,
+  "frontMatter": {
+    "sidebar_position": 397
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "知恩報恩",
+    "permalink": "/docs/amtb/開示與問答/地區開示/知恩報恩"
+  },
+  "next": {
+    "title": "喚醒自覺、激發正思",
+    "permalink": "/docs/amtb/開示與問答/地區開示/喚醒自覺激發正思"
+  }
+}

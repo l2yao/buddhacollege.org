@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/皆願作佛",
+  "id": "amtb/開示與問答/節錄/皆願作佛",
+  "isDocsHomePage": false,
+  "title": "皆願作佛",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/皆願作佛.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/皆願作佛",
+  "permalink": "/docs/amtb/開示與問答/節錄/皆願作佛",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/皆願作佛.mdx",
+  "version": "current",
+  "sidebarPosition": 2848,
+  "frontMatter": {
+    "sidebar_position": 2848
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "有世界名曰極樂",
+    "permalink": "/docs/amtb/開示與問答/節錄/有世界名曰極樂"
+  },
+  "next": {
+    "title": "超情離見",
+    "permalink": "/docs/amtb/開示與問答/節錄/超情離見"
+  }
+}

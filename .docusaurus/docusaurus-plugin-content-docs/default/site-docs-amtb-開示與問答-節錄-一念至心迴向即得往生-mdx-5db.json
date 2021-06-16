@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/一念至心迴向即得往生",
+  "id": "amtb/開示與問答/節錄/一念至心迴向即得往生",
+  "isDocsHomePage": false,
+  "title": "一念至心迴向，即得往生",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/一念至心迴向即得往生.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/一念至心迴向即得往生",
+  "permalink": "/docs/amtb/開示與問答/節錄/一念至心迴向即得往生",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/一念至心迴向即得往生.mdx",
+  "version": "current",
+  "sidebarPosition": 3301,
+  "frontMatter": {
+    "sidebar_position": 3301
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "受用具足",
+    "permalink": "/docs/amtb/開示與問答/節錄/受用具足"
+  },
+  "next": {
+    "title": "上品上生我有份",
+    "permalink": "/docs/amtb/開示與問答/節錄/上品上生我有份"
+  }
+}

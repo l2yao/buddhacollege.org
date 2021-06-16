@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/永遠保持一句阿彌陀佛",
+  "id": "amtb/開示與問答/節錄/永遠保持一句阿彌陀佛",
+  "isDocsHomePage": false,
+  "title": "永遠保持一句阿彌陀佛",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/永遠保持一句阿彌陀佛.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/永遠保持一句阿彌陀佛",
+  "permalink": "/docs/amtb/開示與問答/節錄/永遠保持一句阿彌陀佛",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/永遠保持一句阿彌陀佛.mdx",
+  "version": "current",
+  "sidebarPosition": 1145,
+  "frontMatter": {
+    "sidebar_position": 1145
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "富在知足 貴在知足 福在受諫",
+    "permalink": "/docs/amtb/開示與問答/節錄/富在知足-貴在知足-福在受諫"
+  },
+  "next": {
+    "title": "入佛菩提",
+    "permalink": "/docs/amtb/開示與問答/節錄/入佛菩提"
+  }
+}

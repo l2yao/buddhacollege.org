@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/第一義空",
+  "id": "amtb/開示與問答/節錄/第一義空",
+  "isDocsHomePage": false,
+  "title": "第一義空",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/第一義空.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/第一義空",
+  "permalink": "/docs/amtb/開示與問答/節錄/第一義空",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/第一義空.mdx",
+  "version": "current",
+  "sidebarPosition": 2834,
+  "frontMatter": {
+    "sidebar_position": 2834
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "十一空",
+    "permalink": "/docs/amtb/開示與問答/節錄/十一空"
+  },
+  "next": {
+    "title": "不計眾苦,少欲知足:從初發心到如來地",
+    "permalink": "/docs/amtb/開示與問答/節錄/不計眾苦少欲知足從初發心到如來地"
+  }
+}

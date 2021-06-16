@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/智慧莊嚴住不退故-生活在感恩的世界",
+  "id": "amtb/開示與問答/節錄/智慧莊嚴住不退故-生活在感恩的世界",
+  "isDocsHomePage": false,
+  "title": "智慧莊嚴住不退故－生活在感恩的世界",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/智慧莊嚴住不退故-生活在感恩的世界.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/智慧莊嚴住不退故-生活在感恩的世界",
+  "permalink": "/docs/amtb/開示與問答/節錄/智慧莊嚴住不退故-生活在感恩的世界",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/智慧莊嚴住不退故-生活在感恩的世界.mdx",
+  "version": "current",
+  "sidebarPosition": 1094,
+  "frontMatter": {
+    "sidebar_position": 1094
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "須彌山頂念佛法要",
+    "permalink": "/docs/amtb/開示與問答/節錄/須彌山頂念佛法要"
+  },
+  "next": {
+    "title": "山頂科學",
+    "permalink": "/docs/amtb/開示與問答/節錄/山頂科學"
+  }
+}

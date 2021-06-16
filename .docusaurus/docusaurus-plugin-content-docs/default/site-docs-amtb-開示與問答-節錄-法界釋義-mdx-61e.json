@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/法界釋義",
+  "id": "amtb/開示與問答/節錄/法界釋義",
+  "isDocsHomePage": false,
+  "title": "法界釋義",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/法界釋義.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/法界釋義",
+  "permalink": "/docs/amtb/開示與問答/節錄/法界釋義",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/法界釋義.mdx",
+  "version": "current",
+  "sidebarPosition": 3429,
+  "frontMatter": {
+    "sidebar_position": 3429
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "求善知識之道",
+    "permalink": "/docs/amtb/開示與問答/節錄/求善知識之道"
+  },
+  "next": {
+    "title": "妙法難遇 作大守護",
+    "permalink": "/docs/amtb/開示與問答/節錄/妙法難遇-作大守護"
+  }
+}

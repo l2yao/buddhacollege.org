@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/十玄門一",
+  "id": "amtb/開示與問答/節錄/十玄門一",
+  "isDocsHomePage": false,
+  "title": "十玄門（一）",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/十玄門一.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/十玄門一",
+  "permalink": "/docs/amtb/開示與問答/節錄/十玄門一",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/十玄門一.mdx",
+  "version": "current",
+  "sidebarPosition": 2586,
+  "frontMatter": {
+    "sidebar_position": 2586
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "家庭主婦怎樣修菩薩道",
+    "permalink": "/docs/amtb/開示與問答/節錄/家庭主婦怎樣修菩薩道"
+  },
+  "next": {
+    "title": "六事明經意－正道、善權、至教、誘導、福德、禁戒",
+    "permalink": "/docs/amtb/開示與問答/節錄/六事明經意-正道善權至教誘導福德禁戒"
+  }
+}

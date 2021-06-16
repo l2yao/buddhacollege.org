@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/無量壽佛不可思議功德",
+  "id": "amtb/開示與問答/節錄/無量壽佛不可思議功德",
+  "isDocsHomePage": false,
+  "title": "無量壽佛不可思議功德",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/無量壽佛不可思議功德.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/無量壽佛不可思議功德",
+  "permalink": "/docs/amtb/開示與問答/節錄/無量壽佛不可思議功德",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/無量壽佛不可思議功德.mdx",
+  "version": "current",
+  "sidebarPosition": 3693,
+  "frontMatter": {
+    "sidebar_position": 3693
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "若當生者 皆悉究竟無上菩提",
+    "permalink": "/docs/amtb/開示與問答/節錄/若當生者-皆悉究竟無上菩提"
+  },
+  "next": {
+    "title": "清淨心念佛所獲得的利益",
+    "permalink": "/docs/amtb/開示與問答/節錄/清淨心念佛所獲得的利益"
+  }
+}

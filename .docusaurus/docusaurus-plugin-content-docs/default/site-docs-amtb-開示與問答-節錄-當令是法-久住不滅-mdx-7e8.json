@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/當令是法-久住不滅",
+  "id": "amtb/開示與問答/節錄/當令是法-久住不滅",
+  "isDocsHomePage": false,
+  "title": "當令是法 久住不滅",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/當令是法-久住不滅.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/當令是法-久住不滅",
+  "permalink": "/docs/amtb/開示與問答/節錄/當令是法-久住不滅",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/當令是法-久住不滅.mdx",
+  "version": "current",
+  "sidebarPosition": 3442,
+  "frontMatter": {
+    "sidebar_position": 3442
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "妙法難遇 作大守護",
+    "permalink": "/docs/amtb/開示與問答/節錄/妙法難遇-作大守護"
+  },
+  "next": {
+    "title": "我法如是 作如是說",
+    "permalink": "/docs/amtb/開示與問答/節錄/我法如是-作如是說"
+  }
+}

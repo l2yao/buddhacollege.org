@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/淨定安樂",
+  "id": "amtb/開示與問答/節錄/淨定安樂",
+  "isDocsHomePage": false,
+  "title": "淨定安樂",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/淨定安樂.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/淨定安樂",
+  "permalink": "/docs/amtb/開示與問答/節錄/淨定安樂",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/淨定安樂.mdx",
+  "version": "current",
+  "sidebarPosition": 2962,
+  "frontMatter": {
+    "sidebar_position": 2962
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "普賢菩薩教我們如何導歸極樂",
+    "permalink": "/docs/amtb/開示與問答/節錄/普賢菩薩教我們如何導歸極樂"
+  },
+  "next": {
+    "title": "敬於佛者 是為大善",
+    "permalink": "/docs/amtb/開示與問答/節錄/敬於佛者-是為大善"
+  }
+}

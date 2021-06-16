@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/諸佛妙法性-若聞此法者-當得清淨眼",
+  "id": "amtb/開示與問答/節錄/諸佛妙法性-若聞此法者-當得清淨眼",
+  "isDocsHomePage": false,
+  "title": "諸佛妙法性 若聞此法者 當得清淨眼",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/諸佛妙法性-若聞此法者-當得清淨眼.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/諸佛妙法性-若聞此法者-當得清淨眼",
+  "permalink": "/docs/amtb/開示與問答/節錄/諸佛妙法性-若聞此法者-當得清淨眼",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/諸佛妙法性-若聞此法者-當得清淨眼.mdx",
+  "version": "current",
+  "sidebarPosition": 1124,
+  "frontMatter": {
+    "sidebar_position": 1124
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "三細相六粗相",
+    "permalink": "/docs/amtb/開示與問答/節錄/三細相六粗相"
+  },
+  "next": {
+    "title": "聞法得大利",
+    "permalink": "/docs/amtb/開示與問答/節錄/聞法得大利"
+  }
+}

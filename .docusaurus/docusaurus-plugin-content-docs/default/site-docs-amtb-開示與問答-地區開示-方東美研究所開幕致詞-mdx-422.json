@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/方東美研究所開幕致詞",
+  "id": "amtb/開示與問答/地區開示/方東美研究所開幕致詞",
+  "isDocsHomePage": false,
+  "title": "方東美研究所開幕致詞",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/方東美研究所開幕致詞.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/方東美研究所開幕致詞",
+  "permalink": "/docs/amtb/開示與問答/地區開示/方東美研究所開幕致詞",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/方東美研究所開幕致詞.mdx",
+  "version": "current",
+  "sidebarPosition": 821,
+  "frontMatter": {
+    "sidebar_position": 821
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "老和尚開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/老和尚開示"
+  },
+  "next": {
+    "title": "達拉斯佛教會佛七講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/達拉斯佛教會佛七講話"
+  }
+}

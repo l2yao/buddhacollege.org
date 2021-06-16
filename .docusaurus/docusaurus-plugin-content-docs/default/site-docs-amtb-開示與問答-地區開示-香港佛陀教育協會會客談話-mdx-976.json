@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/香港佛陀教育協會會客談話",
+  "id": "amtb/開示與問答/地區開示/香港佛陀教育協會會客談話",
+  "isDocsHomePage": false,
+  "title": "香港佛陀教育協會會客談話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/香港佛陀教育協會會客談話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/香港佛陀教育協會會客談話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/香港佛陀教育協會會客談話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/香港佛陀教育協會會客談話.mdx",
+  "version": "current",
+  "sidebarPosition": 4895,
+  "frontMatter": {
+    "sidebar_position": 4895
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "新加坡富麗華酒店會客談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/新加坡富麗華酒店會客談話"
+  },
+  "next": {
+    "title": "善學佛法與傳統文化 ——二〇一八香港清明祭祖法會談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/善學佛法與傳統文化-二〇一八香港清明祭祖法會談話"
+  }
+}

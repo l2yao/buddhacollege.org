@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/法國巴黎餐後開示",
+  "id": "amtb/開示與問答/地區開示/法國巴黎餐後開示",
+  "isDocsHomePage": false,
+  "title": "法國巴黎餐後開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/法國巴黎餐後開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/法國巴黎餐後開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/法國巴黎餐後開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/法國巴黎餐後開示.mdx",
+  "version": "current",
+  "sidebarPosition": 4948,
+  "frontMatter": {
+    "sidebar_position": 4948
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何使社會安定和諧統一、世界和平",
+    "permalink": "/docs/amtb/開示與問答/地區開示/如何使社會安定和諧統一世界和平"
+  },
+  "next": {
+    "title": "日本東京會客談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/日本東京會客談話"
+  }
+}

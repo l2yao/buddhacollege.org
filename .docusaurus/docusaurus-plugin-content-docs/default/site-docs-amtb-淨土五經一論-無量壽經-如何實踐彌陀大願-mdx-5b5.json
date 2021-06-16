@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/無量壽經/如何實踐彌陀大願",
+  "id": "amtb/淨土五經一論/無量壽經/如何實踐彌陀大願",
+  "isDocsHomePage": false,
+  "title": "如何實踐彌陀大願",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/無量壽經/如何實踐彌陀大願.mdx",
+  "sourceDirName": "amtb/淨土五經一論/無量壽經",
+  "slug": "/amtb/淨土五經一論/無量壽經/如何實踐彌陀大願",
+  "permalink": "/docs/amtb/淨土五經一論/無量壽經/如何實踐彌陀大願",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/無量壽經/如何實踐彌陀大願.mdx",
+  "version": "current",
+  "sidebarPosition": 26,
+  "frontMatter": {
+    "sidebar_position": 26
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "當生成就第一法門",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/當生成就第一法門"
+  },
+  "next": {
+    "title": "無量壽經玄義",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/無量壽經玄義"
+  }
+}

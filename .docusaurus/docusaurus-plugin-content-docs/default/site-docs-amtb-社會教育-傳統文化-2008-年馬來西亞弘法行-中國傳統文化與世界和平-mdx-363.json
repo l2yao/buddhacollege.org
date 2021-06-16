@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/傳統文化/2008年馬來西亞弘法行-中國傳統文化與世界和平",
+  "id": "amtb/社會教育/傳統文化/2008年馬來西亞弘法行-中國傳統文化與世界和平",
+  "isDocsHomePage": false,
+  "title": "2008年馬來西亞弘法行－中國傳統文化與世界和平",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/傳統文化/2008年馬來西亞弘法行-中國傳統文化與世界和平.mdx",
+  "sourceDirName": "amtb/社會教育/傳統文化",
+  "slug": "/amtb/社會教育/傳統文化/2008年馬來西亞弘法行-中國傳統文化與世界和平",
+  "permalink": "/docs/amtb/社會教育/傳統文化/2008年馬來西亞弘法行-中國傳統文化與世界和平",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/傳統文化/2008年馬來西亞弘法行-中國傳統文化與世界和平.mdx",
+  "version": "current",
+  "sidebarPosition": 832,
+  "frontMatter": {
+    "sidebar_position": 832
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "儒家文化與和諧社會建設",
+    "permalink": "/docs/amtb/社會教育/傳統文化/儒家文化與和諧社會建設"
+  },
+  "next": {
+    "title": "光大祖宗之德",
+    "permalink": "/docs/amtb/社會教育/傳統文化/光大祖宗之德"
+  }
+}

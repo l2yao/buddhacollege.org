@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/七辯",
+  "id": "amtb/開示與問答/節錄/七辯",
+  "isDocsHomePage": false,
+  "title": "七辯",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/七辯.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/七辯",
+  "permalink": "/docs/amtb/開示與問答/節錄/七辯",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/七辯.mdx",
+  "version": "current",
+  "sidebarPosition": 1139,
+  "frontMatter": {
+    "sidebar_position": 1139
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "四無礙智",
+    "permalink": "/docs/amtb/開示與問答/節錄/四無礙智"
+  },
+  "next": {
+    "title": "種性",
+    "permalink": "/docs/amtb/開示與問答/節錄/種性"
+  }
+}

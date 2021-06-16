@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/第十八願-十念必生願",
+  "id": "amtb/開示與問答/節錄/第十八願-十念必生願",
+  "isDocsHomePage": false,
+  "title": "第十八願  十念必生願",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/第十八願-十念必生願.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/第十八願-十念必生願",
+  "permalink": "/docs/amtb/開示與問答/節錄/第十八願-十念必生願",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/第十八願-十念必生願.mdx",
+  "version": "current",
+  "sidebarPosition": 2764,
+  "frontMatter": {
+    "sidebar_position": 2764
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "發菩提心  修菩提行（念佛求生淨土）",
+    "permalink": "/docs/amtb/開示與問答/節錄/發菩提心-修菩提行念佛求生淨土"
+  },
+  "next": {
+    "title": "第十九願  聞名發心願；第二十願　臨終接引願",
+    "permalink": "/docs/amtb/開示與問答/節錄/第十九願-聞名發心願第二十願-臨終接引願"
+  }
+}

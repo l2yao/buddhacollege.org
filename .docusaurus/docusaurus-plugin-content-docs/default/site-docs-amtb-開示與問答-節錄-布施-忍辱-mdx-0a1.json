@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/布施-忍辱",
+  "id": "amtb/開示與問答/節錄/布施-忍辱",
+  "isDocsHomePage": false,
+  "title": "布施 忍辱",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/布施-忍辱.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/布施-忍辱",
+  "permalink": "/docs/amtb/開示與問答/節錄/布施-忍辱",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/布施-忍辱.mdx",
+  "version": "current",
+  "sidebarPosition": 1075,
+  "frontMatter": {
+    "sidebar_position": 1075
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "今生要成就、必以戒為師",
+    "permalink": "/docs/amtb/開示與問答/節錄/今生要成就必以戒為師"
+  },
+  "next": {
+    "title": "微細自在",
+    "permalink": "/docs/amtb/開示與問答/節錄/微細自在"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/德遵普賢",
+  "id": "amtb/開示與問答/節錄/德遵普賢",
+  "isDocsHomePage": false,
+  "title": "德遵普賢",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/德遵普賢.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/德遵普賢",
+  "permalink": "/docs/amtb/開示與問答/節錄/德遵普賢",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/德遵普賢.mdx",
+  "version": "current",
+  "sidebarPosition": 3200,
+  "frontMatter": {
+    "sidebar_position": 3200
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "定成正覺",
+    "permalink": "/docs/amtb/開示與問答/節錄/定成正覺"
+  },
+  "next": {
+    "title": "菩薩六度",
+    "permalink": "/docs/amtb/開示與問答/節錄/菩薩六度"
+  }
+}

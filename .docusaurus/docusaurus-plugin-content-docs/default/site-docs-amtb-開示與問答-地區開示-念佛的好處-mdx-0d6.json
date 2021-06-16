@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/念佛的好處",
+  "id": "amtb/開示與問答/地區開示/念佛的好處",
+  "isDocsHomePage": false,
+  "title": "念佛的好處",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/念佛的好處.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/念佛的好處",
+  "permalink": "/docs/amtb/開示與問答/地區開示/念佛的好處",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/念佛的好處.mdx",
+  "version": "current",
+  "sidebarPosition": 514,
+  "frontMatter": {
+    "sidebar_position": 514
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "改造命運 心想事成",
+    "permalink": "/docs/amtb/開示與問答/地區開示/改造命運-心想事成"
+  },
+  "next": {
+    "title": "參訪中華醫院致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/參訪中華醫院致詞"
+  }
+}

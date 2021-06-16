@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/觀無量壽佛經/觀無量壽佛經講記",
+  "id": "amtb/淨土五經一論/觀無量壽佛經/觀無量壽佛經講記",
+  "isDocsHomePage": false,
+  "title": "觀無量壽佛經講記",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/觀無量壽佛經/觀無量壽佛經講記.mdx",
+  "sourceDirName": "amtb/淨土五經一論/觀無量壽佛經",
+  "slug": "/amtb/淨土五經一論/觀無量壽佛經/觀無量壽佛經講記",
+  "permalink": "/docs/amtb/淨土五經一論/觀無量壽佛經/觀無量壽佛經講記",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/觀無量壽佛經/觀無量壽佛經講記.mdx",
+  "version": "current",
+  "sidebarPosition": 54,
+  "frontMatter": {
+    "sidebar_position": 54
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "淨土大經科註（第五回）",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/淨土大經科註第五回"
+  },
+  "next": {
+    "title": "觀無量壽佛經疏鈔演義",
+    "permalink": "/docs/amtb/淨土五經一論/觀無量壽佛經/觀無量壽佛經疏鈔演義"
+  }
+}

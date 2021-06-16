@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/福人居福地-福地福人居-消災必先修福-修福必先消業障",
+  "id": "amtb/開示與問答/地區開示/福人居福地-福地福人居-消災必先修福-修福必先消業障",
+  "isDocsHomePage": false,
+  "title": "福人居福地 福地福人居－消災必先修福 修福必先消業障",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/福人居福地-福地福人居-消災必先修福-修福必先消業障.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/福人居福地-福地福人居-消災必先修福-修福必先消業障",
+  "permalink": "/docs/amtb/開示與問答/地區開示/福人居福地-福地福人居-消災必先修福-修福必先消業障",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/福人居福地-福地福人居-消災必先修福-修福必先消業障.mdx",
+  "version": "current",
+  "sidebarPosition": 2372,
+  "frontMatter": {
+    "sidebar_position": 2372
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "拜訪澳洲全基督教會",
+    "permalink": "/docs/amtb/開示與問答/地區開示/拜訪澳洲全基督教會"
+  },
+  "next": {
+    "title": "湯恩比博士看二十一世紀的世界",
+    "permalink": "/docs/amtb/開示與問答/地區開示/湯恩比博士看二十一世紀的世界"
+  }
+}

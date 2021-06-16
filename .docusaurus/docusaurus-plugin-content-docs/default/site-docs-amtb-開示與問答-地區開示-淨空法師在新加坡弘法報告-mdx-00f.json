@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/淨空法師在新加坡弘法報告",
+  "id": "amtb/開示與問答/地區開示/淨空法師在新加坡弘法報告",
+  "isDocsHomePage": false,
+  "title": "淨空法師在新加坡弘法報告",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/淨空法師在新加坡弘法報告.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/淨空法師在新加坡弘法報告",
+  "permalink": "/docs/amtb/開示與問答/地區開示/淨空法師在新加坡弘法報告",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/淨空法師在新加坡弘法報告.mdx",
+  "version": "current",
+  "sidebarPosition": 426,
+  "frontMatter": {
+    "sidebar_position": 426
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "馬來西亞弘法大會歡送晚宴開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/馬來西亞弘法大會歡送晚宴開示"
+  },
+  "next": {
+    "title": "千禧年心靈改革座談會",
+    "permalink": "/docs/amtb/開示與問答/地區開示/千禧年心靈改革座談會"
+  }
+}

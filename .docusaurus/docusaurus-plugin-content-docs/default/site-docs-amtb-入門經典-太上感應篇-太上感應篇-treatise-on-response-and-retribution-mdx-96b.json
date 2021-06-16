@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/入門經典/太上感應篇/太上感應篇-treatise-on-response-and-retribution",
+  "id": "amtb/入門經典/太上感應篇/太上感應篇-treatise-on-response-and-retribution",
+  "isDocsHomePage": false,
+  "title": "太上感應篇 Treatise on Response and Retribution",
+  "description": "",
+  "source": "@site/docs/amtb/入門經典/太上感應篇/太上感應篇-treatise-on-response-and-retribution.mdx",
+  "sourceDirName": "amtb/入門經典/太上感應篇",
+  "slug": "/amtb/入門經典/太上感應篇/太上感應篇-treatise-on-response-and-retribution",
+  "permalink": "/docs/amtb/入門經典/太上感應篇/太上感應篇-treatise-on-response-and-retribution",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/入門經典/太上感應篇/太上感應篇-treatise-on-response-and-retribution.mdx",
+  "version": "current",
+  "sidebarPosition": 308,
+  "frontMatter": {
+    "sidebar_position": 308
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "太上感應篇大意",
+    "permalink": "/docs/amtb/入門經典/太上感應篇/太上感應篇大意"
+  },
+  "next": {
+    "title": "太上感應篇精華節錄",
+    "permalink": "/docs/amtb/入門經典/太上感應篇/太上感應篇精華節錄"
+  }
+}

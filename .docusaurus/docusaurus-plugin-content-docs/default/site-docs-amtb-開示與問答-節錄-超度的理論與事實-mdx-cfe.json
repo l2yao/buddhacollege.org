@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/超度的理論與事實",
+  "id": "amtb/開示與問答/節錄/超度的理論與事實",
+  "isDocsHomePage": false,
+  "title": "超度的理論與事實",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/超度的理論與事實.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/超度的理論與事實",
+  "permalink": "/docs/amtb/開示與問答/節錄/超度的理論與事實",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/超度的理論與事實.mdx",
+  "version": "current",
+  "sidebarPosition": 1104,
+  "frontMatter": {
+    "sidebar_position": 1104
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "止觀－三止三觀",
+    "permalink": "/docs/amtb/開示與問答/節錄/止觀-三止三觀"
+  },
+  "next": {
+    "title": "正覺的修行－謙卑、尊重",
+    "permalink": "/docs/amtb/開示與問答/節錄/正覺的修行-謙卑尊重"
+  }
+}

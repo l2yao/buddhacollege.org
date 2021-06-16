@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/馬尼拉電台訪問",
+  "id": "amtb/開示與問答/地區開示/馬尼拉電台訪問",
+  "isDocsHomePage": false,
+  "title": "馬尼拉電台訪問",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/馬尼拉電台訪問.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/馬尼拉電台訪問",
+  "permalink": "/docs/amtb/開示與問答/地區開示/馬尼拉電台訪問",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/馬尼拉電台訪問.mdx",
+  "version": "current",
+  "sidebarPosition": 826,
+  "frontMatter": {
+    "sidebar_position": 826
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "對馬尼拉同修講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對馬尼拉同修講話"
+  },
+  "next": {
+    "title": "對淨宗同修講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對淨宗同修講話"
+  }
+}

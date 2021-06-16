@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/淨土是大乘菩薩所修",
+  "id": "amtb/開示與問答/節錄/淨土是大乘菩薩所修",
+  "isDocsHomePage": false,
+  "title": "淨土是大乘菩薩所修",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/淨土是大乘菩薩所修.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/淨土是大乘菩薩所修",
+  "permalink": "/docs/amtb/開示與問答/節錄/淨土是大乘菩薩所修",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/淨土是大乘菩薩所修.mdx",
+  "version": "current",
+  "sidebarPosition": 3946,
+  "frontMatter": {
+    "sidebar_position": 3946
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "來佛三聖一向專念表法深意",
+    "permalink": "/docs/amtb/開示與問答/節錄/來佛三聖一向專念表法深意"
+  },
+  "next": {
+    "title": "三學興衰",
+    "permalink": "/docs/amtb/開示與問答/節錄/三學興衰"
+  }
+}

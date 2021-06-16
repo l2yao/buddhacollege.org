@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/祖師大德/中峰大師/繫念法事講話",
+  "id": "amtb/祖師大德/中峰大師/繫念法事講話",
+  "isDocsHomePage": false,
+  "title": "繫念法事講話",
+  "description": "",
+  "source": "@site/docs/amtb/祖師大德/中峰大師/繫念法事講話.mdx",
+  "sourceDirName": "amtb/祖師大德/中峰大師",
+  "slug": "/amtb/祖師大德/中峰大師/繫念法事講話",
+  "permalink": "/docs/amtb/祖師大德/中峰大師/繫念法事講話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/祖師大德/中峰大師/繫念法事講話.mdx",
+  "version": "current",
+  "sidebarPosition": 324,
+  "frontMatter": {
+    "sidebar_position": 324
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "玫瑰經學習報告－歡喜心的來源 II",
+    "permalink": "/docs/amtb/社會教育/宗教典籍/玫瑰經學習報告-歡喜心的來源-ii"
+  },
+  "next": {
+    "title": "中峰三時繫念法事全集",
+    "permalink": "/docs/amtb/祖師大德/中峰大師/中峰三時繫念法事全集"
+  }
+}

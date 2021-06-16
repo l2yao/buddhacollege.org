@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/普賢德-懺悔業障",
+  "id": "amtb/開示與問答/節錄/普賢德-懺悔業障",
+  "isDocsHomePage": false,
+  "title": "普賢德-懺悔業障",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/普賢德-懺悔業障.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/普賢德-懺悔業障",
+  "permalink": "/docs/amtb/開示與問答/節錄/普賢德-懺悔業障",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/普賢德-懺悔業障.mdx",
+  "version": "current",
+  "sidebarPosition": 1169,
+  "frontMatter": {
+    "sidebar_position": 1169
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "普賢德-禮敬諸佛 稱讚如來 廣修供養",
+    "permalink": "/docs/amtb/開示與問答/節錄/普賢德-禮敬諸佛-稱讚如來-廣修供養"
+  },
+  "next": {
+    "title": "普賢德-隨喜功德",
+    "permalink": "/docs/amtb/開示與問答/節錄/普賢德-隨喜功德"
+  }
+}

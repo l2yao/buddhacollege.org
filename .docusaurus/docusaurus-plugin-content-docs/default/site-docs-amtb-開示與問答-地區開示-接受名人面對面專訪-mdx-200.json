@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/接受名人面對面專訪",
+  "id": "amtb/開示與問答/地區開示/接受名人面對面專訪",
+  "isDocsHomePage": false,
+  "title": "接受「名人面對面」專訪",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/接受名人面對面專訪.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/接受名人面對面專訪",
+  "permalink": "/docs/amtb/開示與問答/地區開示/接受名人面對面專訪",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/接受名人面對面專訪.mdx",
+  "version": "current",
+  "sidebarPosition": 433,
+  "frontMatter": {
+    "sidebar_position": 433
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "接受「名人本色」專訪",
+    "permalink": "/docs/amtb/開示與問答/地區開示/接受名人本色專訪"
+  },
+  "next": {
+    "title": "高科技弘法",
+    "permalink": "/docs/amtb/開示與問答/地區開示/高科技弘法"
+  }
+}

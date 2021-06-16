@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/入門經典/十善業道經/十善業道經大意",
+  "id": "amtb/入門經典/十善業道經/十善業道經大意",
+  "isDocsHomePage": false,
+  "title": "十善業道經大意",
+  "description": "",
+  "source": "@site/docs/amtb/入門經典/十善業道經/十善業道經大意.mdx",
+  "sourceDirName": "amtb/入門經典/十善業道經",
+  "slug": "/amtb/入門經典/十善業道經/十善業道經大意",
+  "permalink": "/docs/amtb/入門經典/十善業道經/十善業道經大意",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/入門經典/十善業道經/十善業道經大意.mdx",
+  "version": "current",
+  "sidebarPosition": 311,
+  "frontMatter": {
+    "sidebar_position": 311
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "佛說十善業道經",
+    "permalink": "/docs/amtb/入門經典/十善業道經/佛說十善業道經"
+  },
+  "next": {
+    "title": "儒釋道學說講座－十善業道經",
+    "permalink": "/docs/amtb/入門經典/十善業道經/儒釋道學說講座-十善業道經"
+  }
+}

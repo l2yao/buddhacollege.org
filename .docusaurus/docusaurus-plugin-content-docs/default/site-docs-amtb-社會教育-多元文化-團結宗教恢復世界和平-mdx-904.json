@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/團結宗教恢復世界和平",
+  "id": "amtb/社會教育/多元文化/團結宗教恢復世界和平",
+  "isDocsHomePage": false,
+  "title": "團結宗教恢復世界和平",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/團結宗教恢復世界和平.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/團結宗教恢復世界和平",
+  "permalink": "/docs/amtb/社會教育/多元文化/團結宗教恢復世界和平",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/團結宗教恢復世界和平.mdx",
+  "version": "current",
+  "sidebarPosition": 2366,
+  "frontMatter": {
+    "sidebar_position": 2366
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "宗教教育於今世之大用",
+    "permalink": "/docs/amtb/社會教育/多元文化/宗教教育於今世之大用"
+  },
+  "next": {
+    "title": "拜訪澳洲多元文化基金會",
+    "permalink": "/docs/amtb/社會教育/多元文化/拜訪澳洲多元文化基金會"
+  }
+}

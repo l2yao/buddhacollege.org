@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/對馬來西亞同修的開示",
+  "id": "amtb/開示與問答/地區開示/對馬來西亞同修的開示",
+  "isDocsHomePage": false,
+  "title": "對馬來西亞同修的開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/對馬來西亞同修的開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/對馬來西亞同修的開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/對馬來西亞同修的開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/對馬來西亞同修的開示.mdx",
+  "version": "current",
+  "sidebarPosition": 575,
+  "frontMatter": {
+    "sidebar_position": 575
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "淨空法師對學院常住法師、義工開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/淨空法師對學院常住法師義工開示"
+  },
+  "next": {
+    "title": "新春團拜講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/新春團拜講話"
+  }
+}

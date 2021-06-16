@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/善學佛法與傳統文化-二〇一八香港清明祭祖法會談話",
+  "id": "amtb/開示與問答/地區開示/善學佛法與傳統文化-二〇一八香港清明祭祖法會談話",
+  "isDocsHomePage": false,
+  "title": "善學佛法與傳統文化 ——二〇一八香港清明祭祖法會談話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/善學佛法與傳統文化-二〇一八香港清明祭祖法會談話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/善學佛法與傳統文化-二〇一八香港清明祭祖法會談話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/善學佛法與傳統文化-二〇一八香港清明祭祖法會談話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/善學佛法與傳統文化-二〇一八香港清明祭祖法會談話.mdx",
+  "version": "current",
+  "sidebarPosition": 4901,
+  "frontMatter": {
+    "sidebar_position": 4901
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "香港佛陀教育協會會客談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/香港佛陀教育協會會客談話"
+  },
+  "next": {
+    "title": "參訪一條龍學校：中國傳統文化是社會安定最好的藥方",
+    "permalink": "/docs/amtb/開示與問答/地區開示/參訪一條龍學校中國傳統文化是社會安定最好的藥方"
+  }
+}

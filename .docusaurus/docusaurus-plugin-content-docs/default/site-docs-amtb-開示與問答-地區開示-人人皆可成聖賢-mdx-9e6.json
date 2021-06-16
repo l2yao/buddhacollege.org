@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/人人皆可成聖賢",
+  "id": "amtb/開示與問答/地區開示/人人皆可成聖賢",
+  "isDocsHomePage": false,
+  "title": "人人皆可成聖賢",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/人人皆可成聖賢.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/人人皆可成聖賢",
+  "permalink": "/docs/amtb/開示與問答/地區開示/人人皆可成聖賢",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/人人皆可成聖賢.mdx",
+  "version": "current",
+  "sidebarPosition": 446,
+  "frontMatter": {
+    "sidebar_position": 446
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "五年後作真菩薩",
+    "permalink": "/docs/amtb/開示與問答/地區開示/五年後作真菩薩"
+  },
+  "next": {
+    "title": "敦倫盡分 閑邪存誠 老實念佛 求生淨土",
+    "permalink": "/docs/amtb/開示與問答/地區開示/敦倫盡分-閑邪存誠-老實念佛-求生淨土"
+  }
+}

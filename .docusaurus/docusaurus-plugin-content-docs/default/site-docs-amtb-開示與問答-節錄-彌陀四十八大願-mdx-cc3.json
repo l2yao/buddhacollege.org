@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/彌陀四十八大願",
+  "id": "amtb/開示與問答/節錄/彌陀四十八大願",
+  "isDocsHomePage": false,
+  "title": "彌陀四十八大願",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/彌陀四十八大願.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/彌陀四十八大願",
+  "permalink": "/docs/amtb/開示與問答/節錄/彌陀四十八大願",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/彌陀四十八大願.mdx",
+  "version": "current",
+  "sidebarPosition": 4297,
+  "frontMatter": {
+    "sidebar_position": 4297
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "極樂世界是如何建立",
+    "permalink": "/docs/amtb/開示與問答/節錄/極樂世界是如何建立"
+  },
+  "next": {
+    "title": "消除惡病、重病的秘訣",
+    "permalink": "/docs/amtb/開示與問答/節錄/消除惡病重病的秘訣"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/大乘經論/法華經/妙法蓮華經",
+  "id": "amtb/大乘經論/法華經/妙法蓮華經",
+  "isDocsHomePage": false,
+  "title": "妙法蓮華經",
+  "description": "",
+  "source": "@site/docs/amtb/大乘經論/法華經/妙法蓮華經.mdx",
+  "sourceDirName": "amtb/大乘經論/法華經",
+  "slug": "/amtb/大乘經論/法華經/妙法蓮華經",
+  "permalink": "/docs/amtb/大乘經論/法華經/妙法蓮華經",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/大乘經論/法華經/妙法蓮華經.mdx",
+  "version": "current",
+  "sidebarPosition": 92,
+  "frontMatter": {
+    "sidebar_position": 92
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "大佛頂首楞嚴經清淨明誨章",
+    "permalink": "/docs/amtb/大乘經論/楞嚴經/大佛頂首楞嚴經清淨明誨章"
+  },
+  "next": {
+    "title": "妙法蓮華經大意",
+    "permalink": "/docs/amtb/大乘經論/法華經/妙法蓮華經大意"
+  }
+}

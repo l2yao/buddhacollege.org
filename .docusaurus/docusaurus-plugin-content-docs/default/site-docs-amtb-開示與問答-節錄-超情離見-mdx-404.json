@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/超情離見",
+  "id": "amtb/開示與問答/節錄/超情離見",
+  "isDocsHomePage": false,
+  "title": "超情離見",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/超情離見.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/超情離見",
+  "permalink": "/docs/amtb/開示與問答/節錄/超情離見",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/超情離見.mdx",
+  "version": "current",
+  "sidebarPosition": 2849,
+  "frontMatter": {
+    "sidebar_position": 2849
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "皆願作佛",
+    "permalink": "/docs/amtb/開示與問答/節錄/皆願作佛"
+  },
+  "next": {
+    "title": "八苦-人生必經之苦",
+    "permalink": "/docs/amtb/開示與問答/節錄/八苦-人生必經之苦"
+  }
+}

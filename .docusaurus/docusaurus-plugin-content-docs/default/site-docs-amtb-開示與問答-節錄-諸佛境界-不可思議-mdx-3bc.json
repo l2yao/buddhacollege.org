@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/諸佛境界-不可思議",
+  "id": "amtb/開示與問答/節錄/諸佛境界-不可思議",
+  "isDocsHomePage": false,
+  "title": "諸佛境界 不可思議",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/諸佛境界-不可思議.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/諸佛境界-不可思議",
+  "permalink": "/docs/amtb/開示與問答/節錄/諸佛境界-不可思議",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/諸佛境界-不可思議.mdx",
+  "version": "current",
+  "sidebarPosition": 3676,
+  "frontMatter": {
+    "sidebar_position": 3676
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "天台十乘理觀",
+    "permalink": "/docs/amtb/開示與問答/節錄/天台十乘理觀"
+  },
+  "next": {
+    "title": "慈悲喜捨 甘露灌頂",
+    "permalink": "/docs/amtb/開示與問答/節錄/慈悲喜捨-甘露灌頂"
+  }
+}

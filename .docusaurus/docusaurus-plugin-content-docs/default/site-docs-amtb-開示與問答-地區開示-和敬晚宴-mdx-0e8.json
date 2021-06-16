@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/和敬晚宴",
+  "id": "amtb/開示與問答/地區開示/和敬晚宴",
+  "isDocsHomePage": false,
+  "title": "和敬晚宴",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/和敬晚宴.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/和敬晚宴",
+  "permalink": "/docs/amtb/開示與問答/地區開示/和敬晚宴",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/和敬晚宴.mdx",
+  "version": "current",
+  "sidebarPosition": 520,
+  "frontMatter": {
+    "sidebar_position": 520
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "對香港義工的開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對香港義工的開示"
+  },
+  "next": {
+    "title": "人生幸福講座－改造命運心想事成",
+    "permalink": "/docs/amtb/開示與問答/地區開示/人生幸福講座-改造命運心想事成"
+  }
+}

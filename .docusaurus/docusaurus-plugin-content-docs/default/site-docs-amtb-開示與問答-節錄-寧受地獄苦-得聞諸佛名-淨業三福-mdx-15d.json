@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/寧受地獄苦-得聞諸佛名-淨業三福",
+  "id": "amtb/開示與問答/節錄/寧受地獄苦-得聞諸佛名-淨業三福",
+  "isDocsHomePage": false,
+  "title": "寧受地獄苦 得聞諸佛名－淨業三福",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/寧受地獄苦-得聞諸佛名-淨業三福.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/寧受地獄苦-得聞諸佛名-淨業三福",
+  "permalink": "/docs/amtb/開示與問答/節錄/寧受地獄苦-得聞諸佛名-淨業三福",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/寧受地獄苦-得聞諸佛名-淨業三福.mdx",
+  "version": "current",
+  "sidebarPosition": 1115,
+  "frontMatter": {
+    "sidebar_position": 1115
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "無為－無不為",
+    "permalink": "/docs/amtb/開示與問答/節錄/無為-無不為"
+  },
+  "next": {
+    "title": "覺法－諸佛如是修",
+    "permalink": "/docs/amtb/開示與問答/節錄/覺法-諸佛如是修"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/入門經典/地藏菩薩本願經/地藏經大意",
+  "id": "amtb/入門經典/地藏菩薩本願經/地藏經大意",
+  "isDocsHomePage": false,
+  "title": "地藏經大意",
+  "description": "",
+  "source": "@site/docs/amtb/入門經典/地藏菩薩本願經/地藏經大意.mdx",
+  "sourceDirName": "amtb/入門經典/地藏菩薩本願經",
+  "slug": "/amtb/入門經典/地藏菩薩本願經/地藏經大意",
+  "permalink": "/docs/amtb/入門經典/地藏菩薩本願經/地藏經大意",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/入門經典/地藏菩薩本願經/地藏經大意.mdx",
+  "version": "current",
+  "sidebarPosition": 195,
+  "frontMatter": {
+    "sidebar_position": 195
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "佛說十善業道經節要",
+    "permalink": "/docs/amtb/入門經典/十善業道經/佛說十善業道經節要"
+  },
+  "next": {
+    "title": "地藏菩薩本願經",
+    "permalink": "/docs/amtb/入門經典/地藏菩薩本願經/地藏菩薩本願經"
+  }
+}

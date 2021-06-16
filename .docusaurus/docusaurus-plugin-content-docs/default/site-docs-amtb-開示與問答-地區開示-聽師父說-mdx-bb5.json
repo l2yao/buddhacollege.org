@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/聽師父說",
+  "id": "amtb/開示與問答/地區開示/聽師父說",
+  "isDocsHomePage": false,
+  "title": "聽師父說",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/聽師父說.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/聽師父說",
+  "permalink": "/docs/amtb/開示與問答/地區開示/聽師父說",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/聽師父說.mdx",
+  "version": "current",
+  "sidebarPosition": 4963,
+  "frontMatter": {
+    "sidebar_position": 4963
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學習《神愛世人》",
+    "permalink": "/docs/amtb/開示與問答/地區開示/學習神愛世人"
+  },
+  "next": {
+    "title": "承傳聖賢智慧 開啟幸福寶藏——澳洲淨宗學院第二屆文言文先修班開學典禮致辭",
+    "permalink": "/docs/amtb/開示與問答/地區開示/承傳聖賢智慧-開啟幸福寶藏澳洲淨宗學院第二屆文言文先修班開學典禮致辭"
+  }
+}

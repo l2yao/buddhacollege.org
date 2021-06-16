@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/澳洲淨宗學院會客談話",
+  "id": "amtb/開示與問答/地區開示/澳洲淨宗學院會客談話",
+  "isDocsHomePage": false,
+  "title": "澳洲淨宗學院會客談話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/澳洲淨宗學院會客談話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/澳洲淨宗學院會客談話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/澳洲淨宗學院會客談話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/澳洲淨宗學院會客談話.mdx",
+  "version": "current",
+  "sidebarPosition": 5102,
+  "frontMatter": {
+    "sidebar_position": 5102
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "吾人何幸而生此時代——文化興世，今正是時！ 「歲次己亥新馬印各民族清明祭祖大典」 談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/吾人何幸而生此時代文化興世今正是時-歲次己亥新馬印各民族清明祭祖大典-談話"
+  },
+  "next": {
+    "title": "澳洲淨宗學院餐後開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/澳洲淨宗學院餐後開示"
+  }
+}

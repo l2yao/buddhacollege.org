@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/講經培訓/內典研學/內典研學要領第二屆",
+  "id": "amtb/講經培訓/內典研學/內典研學要領第二屆",
+  "isDocsHomePage": false,
+  "title": "內典研學要領（第二屆）",
+  "description": "",
+  "source": "@site/docs/amtb/講經培訓/內典研學/內典研學要領第二屆.mdx",
+  "sourceDirName": "amtb/講經培訓/內典研學",
+  "slug": "/amtb/講經培訓/內典研學/內典研學要領第二屆",
+  "permalink": "/docs/amtb/講經培訓/內典研學/內典研學要領第二屆",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/講經培訓/內典研學/內典研學要領第二屆.mdx",
+  "version": "current",
+  "sidebarPosition": 888,
+  "frontMatter": {
+    "sidebar_position": 888
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第一屆淨土培訓班",
+    "permalink": "/docs/amtb/講經培訓/內典研學/第一屆淨土培訓班"
+  },
+  "next": {
+    "title": "實習小座開示",
+    "permalink": "/docs/amtb/講經培訓/內典研學/實習小座開示"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/離欲深正念-淨慧修梵行",
+  "id": "amtb/開示與問答/節錄/離欲深正念-淨慧修梵行",
+  "isDocsHomePage": false,
+  "title": "離欲深正念 淨慧修梵行",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/離欲深正念-淨慧修梵行.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/離欲深正念-淨慧修梵行",
+  "permalink": "/docs/amtb/開示與問答/節錄/離欲深正念-淨慧修梵行",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/離欲深正念-淨慧修梵行.mdx",
+  "version": "current",
+  "sidebarPosition": 3212,
+  "frontMatter": {
+    "sidebar_position": 3212
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何培養弘法人才",
+    "permalink": "/docs/amtb/開示與問答/節錄/如何培養弘法人才"
+  },
+  "next": {
+    "title": "光明眼",
+    "permalink": "/docs/amtb/開示與問答/節錄/光明眼"
+  }
+}

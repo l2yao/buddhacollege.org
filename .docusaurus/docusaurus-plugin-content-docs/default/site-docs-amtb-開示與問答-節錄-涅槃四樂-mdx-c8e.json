@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/涅槃四樂",
+  "id": "amtb/開示與問答/節錄/涅槃四樂",
+  "isDocsHomePage": false,
+  "title": "涅槃四樂",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/涅槃四樂.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/涅槃四樂",
+  "permalink": "/docs/amtb/開示與問答/節錄/涅槃四樂",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/涅槃四樂.mdx",
+  "version": "current",
+  "sidebarPosition": 2264,
+  "frontMatter": {
+    "sidebar_position": 2264
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "五住地惑",
+    "permalink": "/docs/amtb/開示與問答/節錄/五住地惑"
+  },
+  "next": {
+    "title": "涅槃八味（二）",
+    "permalink": "/docs/amtb/開示與問答/節錄/涅槃八味二"
+  }
+}

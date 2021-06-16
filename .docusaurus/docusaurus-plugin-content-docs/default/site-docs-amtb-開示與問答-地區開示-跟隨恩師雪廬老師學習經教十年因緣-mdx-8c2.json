@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/跟隨恩師雪廬老師學習經教十年因緣",
+  "id": "amtb/開示與問答/地區開示/跟隨恩師雪廬老師學習經教十年因緣",
+  "isDocsHomePage": false,
+  "title": "跟隨恩師雪廬老師學習經教十年因緣",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/跟隨恩師雪廬老師學習經教十年因緣.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/跟隨恩師雪廬老師學習經教十年因緣",
+  "permalink": "/docs/amtb/開示與問答/地區開示/跟隨恩師雪廬老師學習經教十年因緣",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/跟隨恩師雪廬老師學習經教十年因緣.mdx",
+  "version": "current",
+  "sidebarPosition": 4464,
+  "frontMatter": {
+    "sidebar_position": 4464
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "澳洲淨宗學會開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/澳洲淨宗學會開示"
+  },
+  "next": {
+    "title": "孝親尊師是圓滿成佛之根本 ——二０一六年台灣清明祭祖大典談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/孝親尊師是圓滿成佛之根本-二0一六年台灣清明祭祖大典談話"
+  }
+}

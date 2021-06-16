@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/宗教團結-化解衝突-恢復安定和平",
+  "id": "amtb/社會教育/多元文化/宗教團結-化解衝突-恢復安定和平",
+  "isDocsHomePage": false,
+  "title": "宗教團結 化解衝突 恢復安定和平",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/宗教團結-化解衝突-恢復安定和平.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/宗教團結-化解衝突-恢復安定和平",
+  "permalink": "/docs/amtb/社會教育/多元文化/宗教團結-化解衝突-恢復安定和平",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/宗教團結-化解衝突-恢復安定和平.mdx",
+  "version": "current",
+  "sidebarPosition": 4275,
+  "frontMatter": {
+    "sidebar_position": 4275
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "融東方傳統文化與多元宗教團結以求達到世界和平",
+    "permalink": "/docs/amtb/社會教育/多元文化/融東方傳統文化與多元宗教團結以求達到世界和平"
+  },
+  "next": {
+    "title": "多元宗教團結是實現世界和平的保障",
+    "permalink": "/docs/amtb/社會教育/多元文化/多元宗教團結是實現世界和平的保障"
+  }
+}

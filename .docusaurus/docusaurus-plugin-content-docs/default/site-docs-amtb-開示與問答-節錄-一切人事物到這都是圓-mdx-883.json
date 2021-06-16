@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/一切人事物到這都是圓",
+  "id": "amtb/開示與問答/節錄/一切人事物到這都是圓",
+  "isDocsHomePage": false,
+  "title": "一切人事物到這都是圓",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/一切人事物到這都是圓.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/一切人事物到這都是圓",
+  "permalink": "/docs/amtb/開示與問答/節錄/一切人事物到這都是圓",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/一切人事物到這都是圓.mdx",
+  "version": "current",
+  "sidebarPosition": 1072,
+  "frontMatter": {
+    "sidebar_position": 1072
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "皈依重實質不重形式",
+    "permalink": "/docs/amtb/開示與問答/節錄/皈依重實質不重形式"
+  },
+  "next": {
+    "title": "有福有慧、量大福大",
+    "permalink": "/docs/amtb/開示與問答/節錄/有福有慧量大福大"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/和平-佛學問答",
+  "id": "amtb/社會教育/多元文化/和平-佛學問答",
+  "isDocsHomePage": false,
+  "title": "和平-《佛學問答》",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/和平-佛學問答.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/和平-佛學問答",
+  "permalink": "/docs/amtb/社會教育/多元文化/和平-佛學問答",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/和平-佛學問答.mdx",
+  "version": "current",
+  "sidebarPosition": 501,
+  "frontMatter": {
+    "sidebar_position": 501
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "對參加多元宗教朋友的談話 An address to friends of multi-faith",
+    "permalink": "/docs/amtb/社會教育/多元文化/對參加多元宗教朋友的談話-an-address-to-friends-of-multi-faith"
+  },
+  "next": {
+    "title": "消除敵對，宗教融合，建立大同-中時駱副總編專訪淨空法師",
+    "permalink": "/docs/amtb/社會教育/多元文化/消除敵對宗教融合建立大同-中時駱副總編專訪淨空法師"
+  }
+}

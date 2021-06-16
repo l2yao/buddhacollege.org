@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/中國傳統教學系列-落實四種教育",
+  "id": "amtb/社會教育/仁愛和平講堂/中國傳統教學系列-落實四種教育",
+  "isDocsHomePage": false,
+  "title": "中國傳統教學系列-落實四種教育",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-落實四種教育.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-落實四種教育",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-落實四種教育",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-落實四種教育.mdx",
+  "version": "current",
+  "sidebarPosition": 1038,
+  "frontMatter": {
+    "sidebar_position": 1038
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "中國傳統教學系列-弟子規節要",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-弟子規節要"
+  },
+  "next": {
+    "title": "中國傳統教學系列-振興佛教",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-振興佛教"
+  }
+}

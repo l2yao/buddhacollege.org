@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/發菩提心-重中之重",
+  "id": "amtb/開示與問答/節錄/發菩提心-重中之重",
+  "isDocsHomePage": false,
+  "title": "發菩提心 重中之重",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/發菩提心-重中之重.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/發菩提心-重中之重",
+  "permalink": "/docs/amtb/開示與問答/節錄/發菩提心-重中之重",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/發菩提心-重中之重.mdx",
+  "version": "current",
+  "sidebarPosition": 3932,
+  "frontMatter": {
+    "sidebar_position": 3932
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "垢除明現  離妄即真",
+    "permalink": "/docs/amtb/開示與問答/節錄/垢除明現-離妄即真"
+  },
+  "next": {
+    "title": "一句彌陀  即凡成聖",
+    "permalink": "/docs/amtb/開示與問答/節錄/一句彌陀-即凡成聖"
+  }
+}

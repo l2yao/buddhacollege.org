@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/訪問善光寺",
+  "id": "amtb/開示與問答/地區開示/訪問善光寺",
+  "isDocsHomePage": false,
+  "title": "訪問善光寺",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/訪問善光寺.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/訪問善光寺",
+  "permalink": "/docs/amtb/開示與問答/地區開示/訪問善光寺",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/訪問善光寺.mdx",
+  "version": "current",
+  "sidebarPosition": 470,
+  "frontMatter": {
+    "sidebar_position": 470
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "訪問日本西山光明寺",
+    "permalink": "/docs/amtb/開示與問答/地區開示/訪問日本西山光明寺"
+  },
+  "next": {
+    "title": "訪問知恩院",
+    "permalink": "/docs/amtb/開示與問答/地區開示/訪問知恩院"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/普賢德-常隨佛學",
+  "id": "amtb/開示與問答/節錄/普賢德-常隨佛學",
+  "isDocsHomePage": false,
+  "title": "普賢德-常隨佛學",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/普賢德-常隨佛學.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/普賢德-常隨佛學",
+  "permalink": "/docs/amtb/開示與問答/節錄/普賢德-常隨佛學",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/普賢德-常隨佛學.mdx",
+  "version": "current",
+  "sidebarPosition": 1173,
+  "frontMatter": {
+    "sidebar_position": 1173
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "普賢德-請轉法輪 請佛住世",
+    "permalink": "/docs/amtb/開示與問答/節錄/普賢德-請轉法輪-請佛住世"
+  },
+  "next": {
+    "title": "涅槃八味（一）",
+    "permalink": "/docs/amtb/開示與問答/節錄/涅槃八味一"
+  }
+}

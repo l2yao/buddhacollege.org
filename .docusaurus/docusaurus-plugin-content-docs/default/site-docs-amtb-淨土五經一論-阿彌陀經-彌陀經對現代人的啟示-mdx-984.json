@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/阿彌陀經/彌陀經對現代人的啟示",
+  "id": "amtb/淨土五經一論/阿彌陀經/彌陀經對現代人的啟示",
+  "isDocsHomePage": false,
+  "title": "彌陀經對現代人的啟示",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/阿彌陀經/彌陀經對現代人的啟示.mdx",
+  "sourceDirName": "amtb/淨土五經一論/阿彌陀經",
+  "slug": "/amtb/淨土五經一論/阿彌陀經/彌陀經對現代人的啟示",
+  "permalink": "/docs/amtb/淨土五經一論/阿彌陀經/彌陀經對現代人的啟示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/阿彌陀經/彌陀經對現代人的啟示.mdx",
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "阿彌陀經要解研習報告",
+    "permalink": "/docs/amtb/淨土五經一論/阿彌陀經/阿彌陀經要解研習報告"
+  },
+  "next": {
+    "title": "佛說阿彌陀經要解",
+    "permalink": "/docs/amtb/淨土五經一論/阿彌陀經/佛說阿彌陀經要解"
+  }
+}

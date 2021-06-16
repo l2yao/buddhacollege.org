@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話五",
+  "id": "amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話五",
+  "isDocsHomePage": false,
+  "title": "對香港佛陀教育協會職員義工談話五",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話五.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話五",
+  "permalink": "/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話五",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話五.mdx",
+  "version": "current",
+  "sidebarPosition": 659,
+  "frontMatter": {
+    "sidebar_position": 659
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "和諧社會系列訪談-因果教育與和諧社會",
+    "permalink": "/docs/amtb/開示與問答/地區開示/和諧社會系列訪談-因果教育與和諧社會"
+  },
+  "next": {
+    "title": "對香港佛陀教育協會職員義工談話六",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話六"
+  }
+}

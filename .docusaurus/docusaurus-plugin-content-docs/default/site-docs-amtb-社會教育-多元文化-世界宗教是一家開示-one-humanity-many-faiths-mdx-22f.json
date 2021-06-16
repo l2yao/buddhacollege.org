@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/世界宗教是一家開示-one-humanity-many-faiths",
+  "id": "amtb/社會教育/多元文化/世界宗教是一家開示-one-humanity-many-faiths",
+  "isDocsHomePage": false,
+  "title": "「世界宗教是一家」開示 One Humanity, Many Faiths",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/世界宗教是一家開示-one-humanity-many-faiths.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/世界宗教是一家開示-one-humanity-many-faiths",
+  "permalink": "/docs/amtb/社會教育/多元文化/世界宗教是一家開示-one-humanity-many-faiths",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/世界宗教是一家開示-one-humanity-many-faiths.mdx",
+  "version": "current",
+  "sidebarPosition": 3181,
+  "frontMatter": {
+    "sidebar_position": 3181
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2011年澳洲多元宗教論壇開幕典禮",
+    "permalink": "/docs/amtb/社會教育/多元文化/2011年澳洲多元宗教論壇開幕典禮"
+  },
+  "next": {
+    "title": "2012年3月澳洲多元宗教論壇－宗教教育是和諧世界之必須 Multi-Faith Forum Programme In Conversation with Faith Leaders",
+    "permalink": "/docs/amtb/社會教育/多元文化/2012年3月澳洲多元宗教論壇-宗教教育是和諧世界之必須-multi-faith-forum-programme-in-conversation-with-faith-leaders"
+  }
+}

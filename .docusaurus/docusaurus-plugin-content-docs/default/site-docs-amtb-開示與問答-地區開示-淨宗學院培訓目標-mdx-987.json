@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/淨宗學院培訓目標",
+  "id": "amtb/開示與問答/地區開示/淨宗學院培訓目標",
+  "isDocsHomePage": false,
+  "title": "淨宗學院培訓目標",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/淨宗學院培訓目標.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/淨宗學院培訓目標",
+  "permalink": "/docs/amtb/開示與問答/地區開示/淨宗學院培訓目標",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/淨宗學院培訓目標.mdx",
+  "version": "current",
+  "sidebarPosition": 449,
+  "frontMatter": {
+    "sidebar_position": 449
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "淨空法師專題訪問(主持人：郎祖筠)",
+    "permalink": "/docs/amtb/開示與問答/地區開示/淨空法師專題訪問主持人郎祖筠"
+  },
+  "next": {
+    "title": "2001年淨空法師回台中敘舊會",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2001年淨空法師回台中敘舊會"
+  }
+}

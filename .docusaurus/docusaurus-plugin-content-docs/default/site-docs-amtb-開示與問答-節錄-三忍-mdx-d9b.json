@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/三忍",
+  "id": "amtb/開示與問答/節錄/三忍",
+  "isDocsHomePage": false,
+  "title": "三忍",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/三忍.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/三忍",
+  "permalink": "/docs/amtb/開示與問答/節錄/三忍",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/三忍.mdx",
+  "version": "current",
+  "sidebarPosition": 3276,
+  "frontMatter": {
+    "sidebar_position": 3276
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "十二光佛",
+    "permalink": "/docs/amtb/開示與問答/節錄/十二光佛"
+  },
+  "next": {
+    "title": "無性無作無我聲",
+    "permalink": "/docs/amtb/開示與問答/節錄/無性無作無我聲"
+  }
+}

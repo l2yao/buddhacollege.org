@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/韓故館長往生九週年追思法會開示",
+  "id": "amtb/開示與問答/地區開示/韓故館長往生九週年追思法會開示",
+  "isDocsHomePage": false,
+  "title": "韓故館長往生九週年追思法會開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/韓故館長往生九週年追思法會開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/韓故館長往生九週年追思法會開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/韓故館長往生九週年追思法會開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/韓故館長往生九週年追思法會開示.mdx",
+  "version": "current",
+  "sidebarPosition": 638,
+  "frontMatter": {
+    "sidebar_position": 638
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2006年新春開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2006年新春開示"
+  },
+  "next": {
+    "title": "處事之道和為貴",
+    "permalink": "/docs/amtb/開示與問答/地區開示/處事之道和為貴"
+  }
+}

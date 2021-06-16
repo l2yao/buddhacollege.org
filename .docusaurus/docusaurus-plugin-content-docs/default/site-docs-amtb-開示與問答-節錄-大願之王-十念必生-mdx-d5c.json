@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/大願之王-十念必生",
+  "id": "amtb/開示與問答/節錄/大願之王-十念必生",
+  "isDocsHomePage": false,
+  "title": "大願之王 十念必生",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/大願之王-十念必生.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/大願之王-十念必生",
+  "permalink": "/docs/amtb/開示與問答/節錄/大願之王-十念必生",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/大願之王-十念必生.mdx",
+  "version": "current",
+  "sidebarPosition": 3584,
+  "frontMatter": {
+    "sidebar_position": 3584
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "戒是無上菩提本",
+    "permalink": "/docs/amtb/開示與問答/節錄/戒是無上菩提本"
+  },
+  "next": {
+    "title": "聞名發心 願生極樂",
+    "permalink": "/docs/amtb/開示與問答/節錄/聞名發心-願生極樂"
+  }
+}

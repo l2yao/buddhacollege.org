@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/電台弘法/如何挽救社會人心系列二迷信理智人生價值",
+  "id": "amtb/開示與問答/電台弘法/如何挽救社會人心系列二迷信理智人生價值",
+  "isDocsHomePage": false,
+  "title": "如何挽救社會人心系列(二)迷信、理智、人生價值",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列二迷信理智人生價值.mdx",
+  "sourceDirName": "amtb/開示與問答/電台弘法",
+  "slug": "/amtb/開示與問答/電台弘法/如何挽救社會人心系列二迷信理智人生價值",
+  "permalink": "/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列二迷信理智人生價值",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列二迷信理智人生價值.mdx",
+  "version": "current",
+  "sidebarPosition": 913,
+  "frontMatter": {
+    "sidebar_position": 913
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何挽救社會人心系列(一)消除迷信挽救人心",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列一消除迷信挽救人心"
+  },
+  "next": {
+    "title": "如何挽救社會人心系列(三)提倡因果教育挽救社會風氣",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列三提倡因果教育挽救社會風氣"
+  }
+}

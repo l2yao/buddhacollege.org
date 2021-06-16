@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/信成就一切萬法",
+  "id": "amtb/開示與問答/節錄/信成就一切萬法",
+  "isDocsHomePage": false,
+  "title": "信成就一切萬法",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/信成就一切萬法.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/信成就一切萬法",
+  "permalink": "/docs/amtb/開示與問答/節錄/信成就一切萬法",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/信成就一切萬法.mdx",
+  "version": "current",
+  "sidebarPosition": 4032,
+  "frontMatter": {
+    "sidebar_position": 4032
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "三學興衰",
+    "permalink": "/docs/amtb/開示與問答/節錄/三學興衰"
+  },
+  "next": {
+    "title": "如何在生活中實踐佛法與傳統文化",
+    "permalink": "/docs/amtb/開示與問答/節錄/如何在生活中實踐佛法與傳統文化"
+  }
+}

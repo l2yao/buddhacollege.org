@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-恭讀古蘭經心得報告",
+  "id": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-恭讀古蘭經心得報告",
+  "isDocsHomePage": false,
+  "title": "仁愛和平講堂-恭讀古蘭經心得報告",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-恭讀古蘭經心得報告.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-恭讀古蘭經心得報告",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-恭讀古蘭經心得報告",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-恭讀古蘭經心得報告.mdx",
+  "version": "current",
+  "sidebarPosition": 1024,
+  "frontMatter": {
+    "sidebar_position": 1024
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仁愛和平講堂-中華聖哲傳統教學綱要",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-中華聖哲傳統教學綱要"
+  },
+  "next": {
+    "title": "仁愛和平講堂-傳統教育的重要性（淨宗學院之二）",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-傳統教育的重要性淨宗學院之二"
+  }
+}

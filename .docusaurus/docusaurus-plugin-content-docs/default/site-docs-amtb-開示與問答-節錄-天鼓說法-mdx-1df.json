@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/天鼓說法",
+  "id": "amtb/開示與問答/節錄/天鼓說法",
+  "isDocsHomePage": false,
+  "title": "天鼓說法",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/天鼓說法.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/天鼓說法",
+  "permalink": "/docs/amtb/開示與問答/節錄/天鼓說法",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/天鼓說法.mdx",
+  "version": "current",
+  "sidebarPosition": 1082,
+  "frontMatter": {
+    "sidebar_position": 1082
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "羅漢現通喻菩薩益生德",
+    "permalink": "/docs/amtb/開示與問答/節錄/羅漢現通喻菩薩益生德"
+  },
+  "next": {
+    "title": "普應悅機－讓一切眾生生歡喜心",
+    "permalink": "/docs/amtb/開示與問答/節錄/普應悅機-讓一切眾生生歡喜心"
+  }
+}

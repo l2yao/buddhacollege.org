@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/供佛的意義",
+  "id": "amtb/開示與問答/節錄/供佛的意義",
+  "isDocsHomePage": false,
+  "title": "供佛的意義",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/供佛的意義.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/供佛的意義",
+  "permalink": "/docs/amtb/開示與問答/節錄/供佛的意義",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/供佛的意義.mdx",
+  "version": "current",
+  "sidebarPosition": 3707,
+  "frontMatter": {
+    "sidebar_position": 3707
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "極樂妙果",
+    "permalink": "/docs/amtb/開示與問答/節錄/極樂妙果"
+  },
+  "next": {
+    "title": "諸佛世尊的十種佛事",
+    "permalink": "/docs/amtb/開示與問答/節錄/諸佛世尊的十種佛事"
+  }
+}

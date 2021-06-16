@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/一句彌陀-即凡成聖",
+  "id": "amtb/開示與問答/節錄/一句彌陀-即凡成聖",
+  "isDocsHomePage": false,
+  "title": "一句彌陀  即凡成聖",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/一句彌陀-即凡成聖.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/一句彌陀-即凡成聖",
+  "permalink": "/docs/amtb/開示與問答/節錄/一句彌陀-即凡成聖",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/一句彌陀-即凡成聖.mdx",
+  "version": "current",
+  "sidebarPosition": 3934,
+  "frontMatter": {
+    "sidebar_position": 3934
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "發菩提心 重中之重",
+    "permalink": "/docs/amtb/開示與問答/節錄/發菩提心-重中之重"
+  },
+  "next": {
+    "title": "往生極樂即圓生四土",
+    "permalink": "/docs/amtb/開示與問答/節錄/往生極樂即圓生四土"
+  }
+}

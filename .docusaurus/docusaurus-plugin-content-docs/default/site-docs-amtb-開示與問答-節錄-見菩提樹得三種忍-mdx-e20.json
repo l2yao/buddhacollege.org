@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/見菩提樹得三種忍",
+  "id": "amtb/開示與問答/節錄/見菩提樹得三種忍",
+  "isDocsHomePage": false,
+  "title": "見菩提樹得三種忍",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/見菩提樹得三種忍.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/見菩提樹得三種忍",
+  "permalink": "/docs/amtb/開示與問答/節錄/見菩提樹得三種忍",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/見菩提樹得三種忍.mdx",
+  "version": "current",
+  "sidebarPosition": 2880,
+  "frontMatter": {
+    "sidebar_position": 2880
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "根本煩惱－貪、瞋、癡、慢、疑、惡見",
+    "permalink": "/docs/amtb/開示與問答/節錄/根本煩惱-貪瞋癡慢疑惡見"
+  },
+  "next": {
+    "title": "極樂世界 －居住與修學環境",
+    "permalink": "/docs/amtb/開示與問答/節錄/極樂世界-居住與修學環境"
+  }
+}

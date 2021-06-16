@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/基礎佛學/清淨解脫之道",
+  "id": "amtb/開示與問答/基礎佛學/清淨解脫之道",
+  "isDocsHomePage": false,
+  "title": "清淨解脫之道",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/基礎佛學/清淨解脫之道.mdx",
+  "sourceDirName": "amtb/開示與問答/基礎佛學",
+  "slug": "/amtb/開示與問答/基礎佛學/清淨解脫之道",
+  "permalink": "/docs/amtb/開示與問答/基礎佛學/清淨解脫之道",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/基礎佛學/清淨解脫之道.mdx",
+  "version": "current",
+  "sidebarPosition": 881,
+  "frontMatter": {
+    "sidebar_position": 881
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "真善美慧的人生",
+    "permalink": "/docs/amtb/開示與問答/基礎佛學/真善美慧的人生"
+  },
+  "next": {
+    "title": "究竟圓滿的歸宿",
+    "permalink": "/docs/amtb/開示與問答/基礎佛學/究竟圓滿的歸宿"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/其他經律論/金剛般若/金剛般若波羅蜜經",
+  "id": "amtb/其他經律論/金剛般若/金剛般若波羅蜜經",
+  "isDocsHomePage": false,
+  "title": "金剛般若波羅蜜經",
+  "description": "",
+  "source": "@site/docs/amtb/其他經律論/金剛般若/金剛般若波羅蜜經.mdx",
+  "sourceDirName": "amtb/其他經律論/金剛般若",
+  "slug": "/amtb/其他經律論/金剛般若/金剛般若波羅蜜經",
+  "permalink": "/docs/amtb/其他經律論/金剛般若/金剛般若波羅蜜經",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/其他經律論/金剛般若/金剛般若波羅蜜經.mdx",
+  "version": "current",
+  "sidebarPosition": 109,
+  "frontMatter": {
+    "sidebar_position": 109
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仁王經護國品",
+    "permalink": "/docs/amtb/其他經律論/金剛般若/仁王經護國品"
+  },
+  "next": {
+    "title": "般若心經",
+    "permalink": "/docs/amtb/其他經律論/金剛般若/般若心經"
+  }
+}

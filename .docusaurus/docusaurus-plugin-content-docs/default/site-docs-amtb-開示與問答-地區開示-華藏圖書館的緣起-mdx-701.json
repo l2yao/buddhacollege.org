@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/華藏圖書館的緣起",
+  "id": "amtb/開示與問答/地區開示/華藏圖書館的緣起",
+  "isDocsHomePage": false,
+  "title": "華藏圖書館的緣起",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/華藏圖書館的緣起.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/華藏圖書館的緣起",
+  "permalink": "/docs/amtb/開示與問答/地區開示/華藏圖書館的緣起",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/華藏圖書館的緣起.mdx",
+  "version": "current",
+  "sidebarPosition": 864,
+  "frontMatter": {
+    "sidebar_position": 864
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "人心壞了，世界亂了，怎麼辦？！",
+    "permalink": "/docs/amtb/開示與問答/地區開示/人心壞了世界亂了怎麼辦"
+  },
+  "next": {
+    "title": "美加護國息災法會開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/美加護國息災法會開示"
+  }
+}

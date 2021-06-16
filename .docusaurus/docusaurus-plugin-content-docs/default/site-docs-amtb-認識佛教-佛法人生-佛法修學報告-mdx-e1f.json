@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/認識佛教/佛法人生/佛法修學報告",
+  "id": "amtb/認識佛教/佛法人生/佛法修學報告",
+  "isDocsHomePage": false,
+  "title": "佛法修學報告",
+  "description": "",
+  "source": "@site/docs/amtb/認識佛教/佛法人生/佛法修學報告.mdx",
+  "sourceDirName": "amtb/認識佛教/佛法人生",
+  "slug": "/amtb/認識佛教/佛法人生/佛法修學報告",
+  "permalink": "/docs/amtb/認識佛教/佛法人生/佛法修學報告",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/認識佛教/佛法人生/佛法修學報告.mdx",
+  "version": "current",
+  "sidebarPosition": 275,
+  "frontMatter": {
+    "sidebar_position": 275
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "佛法要義",
+    "permalink": "/docs/amtb/認識佛教/佛法人生/佛法要義"
+  },
+  "next": {
+    "title": "生活的藝術",
+    "permalink": "/docs/amtb/認識佛教/佛法人生/生活的藝術"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/普賢行願品/普賢行願品輯要疏菁華",
+  "id": "amtb/淨土五經一論/普賢行願品/普賢行願品輯要疏菁華",
+  "isDocsHomePage": false,
+  "title": "普賢行願品輯要疏菁華",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/普賢行願品/普賢行願品輯要疏菁華.mdx",
+  "sourceDirName": "amtb/淨土五經一論/普賢行願品",
+  "slug": "/amtb/淨土五經一論/普賢行願品/普賢行願品輯要疏菁華",
+  "permalink": "/docs/amtb/淨土五經一論/普賢行願品/普賢行願品輯要疏菁華",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/普賢行願品/普賢行願品輯要疏菁華.mdx",
+  "version": "current",
+  "sidebarPosition": 72,
+  "frontMatter": {
+    "sidebar_position": 72
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "普賢行願品的啟示",
+    "permalink": "/docs/amtb/淨土五經一論/普賢行願品/普賢行願品的啟示"
+  },
+  "next": {
+    "title": "普賢行願品輯要疏選讀",
+    "permalink": "/docs/amtb/淨土五經一論/普賢行願品/普賢行願品輯要疏選讀"
+  }
+}

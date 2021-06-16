@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/靈性如何指示多元宗教和諧之道",
+  "id": "amtb/社會教育/多元文化/靈性如何指示多元宗教和諧之道",
+  "isDocsHomePage": false,
+  "title": "靈性如何指示多元宗教和諧之道",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/靈性如何指示多元宗教和諧之道.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/靈性如何指示多元宗教和諧之道",
+  "permalink": "/docs/amtb/社會教育/多元文化/靈性如何指示多元宗教和諧之道",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/靈性如何指示多元宗教和諧之道.mdx",
+  "version": "current",
+  "sidebarPosition": 5450,
+  "frontMatter": {
+    "sidebar_position": 5450
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "發揚宗教教育  促進安定和平",
+    "permalink": "/docs/amtb/社會教育/多元文化/發揚宗教教育-促進安定和平"
+  },
+  "next": {
+    "title": "團結宗教、回歸教育、化解危機多元宗教和諧匯報會開幕",
+    "permalink": "/docs/amtb/社會教育/多元文化/團結宗教回歸教育化解危機多元宗教和諧匯報會開幕"
+  }
+}

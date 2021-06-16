@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話八",
+  "id": "amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話八",
+  "isDocsHomePage": false,
+  "title": "對香港佛陀教育協會職員義工談話八",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話八.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話八",
+  "permalink": "/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話八",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話八.mdx",
+  "version": "current",
+  "sidebarPosition": 674,
+  "frontMatter": {
+    "sidebar_position": 674
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "對香港佛陀教育協會職員義工談話七",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話七"
+  },
+  "next": {
+    "title": "和諧世界  從心開始",
+    "permalink": "/docs/amtb/開示與問答/地區開示/和諧世界-從心開始"
+  }
+}

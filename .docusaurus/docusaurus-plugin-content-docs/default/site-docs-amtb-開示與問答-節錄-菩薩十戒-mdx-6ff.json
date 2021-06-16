@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/菩薩十戒",
+  "id": "amtb/開示與問答/節錄/菩薩十戒",
+  "isDocsHomePage": false,
+  "title": "菩薩十戒",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/菩薩十戒.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/菩薩十戒",
+  "permalink": "/docs/amtb/開示與問答/節錄/菩薩十戒",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/菩薩十戒.mdx",
+  "version": "current",
+  "sidebarPosition": 1119,
+  "frontMatter": {
+    "sidebar_position": 1119
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "菩提道場",
+    "permalink": "/docs/amtb/開示與問答/節錄/菩提道場"
+  },
+  "next": {
+    "title": "菩薩十施",
+    "permalink": "/docs/amtb/開示與問答/節錄/菩薩十施"
+  }
+}

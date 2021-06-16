@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/雍正皇帝上諭與多元文化教育",
+  "id": "amtb/社會教育/多元文化/雍正皇帝上諭與多元文化教育",
+  "isDocsHomePage": false,
+  "title": "雍正皇帝上諭與多元文化教育",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/雍正皇帝上諭與多元文化教育.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/雍正皇帝上諭與多元文化教育",
+  "permalink": "/docs/amtb/社會教育/多元文化/雍正皇帝上諭與多元文化教育",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/雍正皇帝上諭與多元文化教育.mdx",
+  "version": "current",
+  "sidebarPosition": 569,
+  "frontMatter": {
+    "sidebar_position": 569
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "多元文化教育與和平",
+    "permalink": "/docs/amtb/社會教育/多元文化/多元文化教育與和平"
+  },
+  "next": {
+    "title": "宗教教育與和諧",
+    "permalink": "/docs/amtb/社會教育/多元文化/宗教教育與和諧"
+  }
+}

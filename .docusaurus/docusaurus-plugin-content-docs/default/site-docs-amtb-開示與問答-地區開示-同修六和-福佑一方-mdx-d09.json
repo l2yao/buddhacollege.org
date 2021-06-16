@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/同修六和-福佑一方",
+  "id": "amtb/開示與問答/地區開示/同修六和-福佑一方",
+  "isDocsHomePage": false,
+  "title": "同修六和 福佑一方",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/同修六和-福佑一方.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/同修六和-福佑一方",
+  "permalink": "/docs/amtb/開示與問答/地區開示/同修六和-福佑一方",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/同修六和-福佑一方.mdx",
+  "version": "current",
+  "sidebarPosition": 4421,
+  "frontMatter": {
+    "sidebar_position": 4421
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "法音宣流 普天同慶 —祝賀「二○一六年海峽兩岸萬人祈福佛樂大合唱」",
+    "permalink": "/docs/amtb/開示與問答/地區開示/法音宣流-普天同慶-祝賀二一六年海峽兩岸萬人祈福佛樂大合唱"
+  },
+  "next": {
+    "title": "兄弟之邦  情義永固——祝賀「二○一六中國節」",
+    "permalink": "/docs/amtb/開示與問答/地區開示/兄弟之邦-情義永固祝賀二一六中國節"
+  }
+}

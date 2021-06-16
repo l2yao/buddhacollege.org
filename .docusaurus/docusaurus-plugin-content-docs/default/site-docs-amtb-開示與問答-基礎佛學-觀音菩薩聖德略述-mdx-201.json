@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/基礎佛學/觀音菩薩聖德略述",
+  "id": "amtb/開示與問答/基礎佛學/觀音菩薩聖德略述",
+  "isDocsHomePage": false,
+  "title": "觀音菩薩聖德略述",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/基礎佛學/觀音菩薩聖德略述.mdx",
+  "sourceDirName": "amtb/開示與問答/基礎佛學",
+  "slug": "/amtb/開示與問答/基礎佛學/觀音菩薩聖德略述",
+  "permalink": "/docs/amtb/開示與問答/基礎佛學/觀音菩薩聖德略述",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/基礎佛學/觀音菩薩聖德略述.mdx",
+  "version": "current",
+  "sidebarPosition": 875,
+  "frontMatter": {
+    "sidebar_position": 875
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "剃度開光儀式",
+    "permalink": "/docs/amtb/開示與問答/基礎佛學/剃度開光儀式"
+  },
+  "next": {
+    "title": "斷惑證果說",
+    "permalink": "/docs/amtb/開示與問答/基礎佛學/斷惑證果說"
+  }
+}

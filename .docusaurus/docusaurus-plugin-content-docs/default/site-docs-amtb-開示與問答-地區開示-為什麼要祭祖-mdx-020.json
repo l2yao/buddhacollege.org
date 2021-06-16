@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/為什麼要祭祖",
+  "id": "amtb/開示與問答/地區開示/為什麼要祭祖",
+  "isDocsHomePage": false,
+  "title": "為什麼要祭祖",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/為什麼要祭祖.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/為什麼要祭祖",
+  "permalink": "/docs/amtb/開示與問答/地區開示/為什麼要祭祖",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/為什麼要祭祖.mdx",
+  "version": "current",
+  "sidebarPosition": 4519,
+  "frontMatter": {
+    "sidebar_position": 4519
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "孝道與人生",
+    "permalink": "/docs/amtb/開示與問答/地區開示/孝道與人生"
+  },
+  "next": {
+    "title": "祭祖與孝道對社會的正面作用 ——「二○一六年護世息災三時繫念法會暨慎終追遠民德歸厚祭祖大典」談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/祭祖與孝道對社會的正面作用-二一六年護世息災三時繫念法會暨慎終追遠民德歸厚祭祖大典談話"
+  }
+}

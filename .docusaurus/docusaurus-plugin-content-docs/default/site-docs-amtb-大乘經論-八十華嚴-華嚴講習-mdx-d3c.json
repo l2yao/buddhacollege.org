@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/大乘經論/八十華嚴/華嚴講習",
+  "id": "amtb/大乘經論/八十華嚴/華嚴講習",
+  "isDocsHomePage": false,
+  "title": "華嚴講習",
+  "description": "",
+  "source": "@site/docs/amtb/大乘經論/八十華嚴/華嚴講習.mdx",
+  "sourceDirName": "amtb/大乘經論/八十華嚴",
+  "slug": "/amtb/大乘經論/八十華嚴/華嚴講習",
+  "permalink": "/docs/amtb/大乘經論/八十華嚴/華嚴講習",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/大乘經論/八十華嚴/華嚴講習.mdx",
+  "version": "current",
+  "sidebarPosition": 152,
+  "frontMatter": {
+    "sidebar_position": 152
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "華嚴經疏論節要研習報告",
+    "permalink": "/docs/amtb/大乘經論/八十華嚴/華嚴經疏論節要研習報告"
+  },
+  "next": {
+    "title": "華嚴經講述菁華",
+    "permalink": "/docs/amtb/大乘經論/八十華嚴/華嚴經講述菁華"
+  }
+}

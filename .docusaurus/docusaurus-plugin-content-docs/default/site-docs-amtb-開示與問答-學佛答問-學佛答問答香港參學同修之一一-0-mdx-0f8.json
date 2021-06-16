@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/學佛答問/學佛答問答香港參學同修之一一0",
+  "id": "amtb/開示與問答/學佛答問/學佛答問答香港參學同修之一一0",
+  "isDocsHomePage": false,
+  "title": "學佛答問（答香港參學同修之一一０）",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之一一0.mdx",
+  "sourceDirName": "amtb/開示與問答/學佛答問",
+  "slug": "/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之一一0",
+  "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之一一0",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之一一0.mdx",
+  "version": "current",
+  "sidebarPosition": 846,
+  "frontMatter": {
+    "sidebar_position": 846
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學佛答問（答香港參學同修之一０九）",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之一0九"
+  },
+  "next": {
+    "title": "答北京同學問",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/答北京同學問"
+  }
+}

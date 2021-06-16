@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/佛教的大同世界",
+  "id": "amtb/開示與問答/節錄/佛教的大同世界",
+  "isDocsHomePage": false,
+  "title": "佛教的大同世界",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/佛教的大同世界.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/佛教的大同世界",
+  "permalink": "/docs/amtb/開示與問答/節錄/佛教的大同世界",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/佛教的大同世界.mdx",
+  "version": "current",
+  "sidebarPosition": 2995,
+  "frontMatter": {
+    "sidebar_position": 2995
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何面對災難",
+    "permalink": "/docs/amtb/開示與問答/節錄/如何面對災難"
+  },
+  "next": {
+    "title": "以無相智慧 植眾德本",
+    "permalink": "/docs/amtb/開示與問答/節錄/以無相智慧-植眾德本"
+  }
+}

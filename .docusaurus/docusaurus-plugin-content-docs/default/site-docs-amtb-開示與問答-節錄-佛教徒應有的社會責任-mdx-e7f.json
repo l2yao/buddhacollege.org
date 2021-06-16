@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/佛教徒應有的社會責任",
+  "id": "amtb/開示與問答/節錄/佛教徒應有的社會責任",
+  "isDocsHomePage": false,
+  "title": "佛教徒應有的社會責任",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/佛教徒應有的社會責任.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/佛教徒應有的社會責任",
+  "permalink": "/docs/amtb/開示與問答/節錄/佛教徒應有的社會責任",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/佛教徒應有的社會責任.mdx",
+  "version": "current",
+  "sidebarPosition": 2653,
+  "frontMatter": {
+    "sidebar_position": 2653
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "通達法性 供佛度生－如何振興佛教",
+    "permalink": "/docs/amtb/開示與問答/節錄/通達法性-供佛度生-如何振興佛教"
+  },
+  "next": {
+    "title": "三摩地",
+    "permalink": "/docs/amtb/開示與問答/節錄/三摩地"
+  }
+}

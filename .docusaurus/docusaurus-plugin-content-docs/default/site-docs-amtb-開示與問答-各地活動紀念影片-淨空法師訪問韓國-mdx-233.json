@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/各地活動紀念影片/淨空法師訪問韓國",
+  "id": "amtb/開示與問答/各地活動紀念影片/淨空法師訪問韓國",
+  "isDocsHomePage": false,
+  "title": "淨空法師訪問韓國",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/各地活動紀念影片/淨空法師訪問韓國.mdx",
+  "sourceDirName": "amtb/開示與問答/各地活動紀念影片",
+  "slug": "/amtb/開示與問答/各地活動紀念影片/淨空法師訪問韓國",
+  "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/淨空法師訪問韓國",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/各地活動紀念影片/淨空法師訪問韓國.mdx",
+  "version": "current",
+  "sidebarPosition": 941,
+  "frontMatter": {
+    "sidebar_position": 941
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Venerable Master Chin Kung-His Devotion to the Education of Peace(邁向和諧安定的新世紀-淨空老法師簡介)",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/venerable-master-chin-kung-his-devotion-to-the-education-of-peace邁向和諧安定的新世紀-淨空老法師簡介"
+  },
+  "next": {
+    "title": "邁向和諧安定的新世紀-淨空老法師簡介",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/邁向和諧安定的新世紀-淨空老法師簡介"
+  }
+}

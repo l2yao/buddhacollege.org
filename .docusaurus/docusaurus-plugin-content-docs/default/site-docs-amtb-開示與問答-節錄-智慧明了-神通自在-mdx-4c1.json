@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/智慧明了-神通自在",
+  "id": "amtb/開示與問答/節錄/智慧明了-神通自在",
+  "isDocsHomePage": false,
+  "title": "智慧明了 神通自在",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/智慧明了-神通自在.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/智慧明了-神通自在",
+  "permalink": "/docs/amtb/開示與問答/節錄/智慧明了-神通自在",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/智慧明了-神通自在.mdx",
+  "version": "current",
+  "sidebarPosition": 3683,
+  "frontMatter": {
+    "sidebar_position": 3683
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "往生勝樂",
+    "permalink": "/docs/amtb/開示與問答/節錄/往生勝樂"
+  },
+  "next": {
+    "title": "德風花雨妙用",
+    "permalink": "/docs/amtb/開示與問答/節錄/德風花雨妙用"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/對澳洲淨宗學會同修的開示",
+  "id": "amtb/開示與問答/地區開示/對澳洲淨宗學會同修的開示",
+  "isDocsHomePage": false,
+  "title": "對澳洲淨宗學會同修的開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/對澳洲淨宗學會同修的開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/對澳洲淨宗學會同修的開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/對澳洲淨宗學會同修的開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/對澳洲淨宗學會同修的開示.mdx",
+  "version": "current",
+  "sidebarPosition": 2466,
+  "frontMatter": {
+    "sidebar_position": 2466
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2010年先師長善護追思紀念大會－追思紀念法會談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2010年先師長善護追思紀念大會-追思紀念法會談話"
+  },
+  "next": {
+    "title": "在麗晶酒店的新春談話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/在麗晶酒店的新春談話"
+  }
+}

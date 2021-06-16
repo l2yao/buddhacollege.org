@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/開智慧眼-得光明身-怎樣念佛",
+  "id": "amtb/開示與問答/節錄/開智慧眼-得光明身-怎樣念佛",
+  "isDocsHomePage": false,
+  "title": "開智慧眼 得光明身－怎樣念佛",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/開智慧眼-得光明身-怎樣念佛.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/開智慧眼-得光明身-怎樣念佛",
+  "permalink": "/docs/amtb/開示與問答/節錄/開智慧眼-得光明身-怎樣念佛",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/開智慧眼-得光明身-怎樣念佛.mdx",
+  "version": "current",
+  "sidebarPosition": 3602,
+  "frontMatter": {
+    "sidebar_position": 3602
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "慧光普照 除垢濟難",
+    "permalink": "/docs/amtb/開示與問答/節錄/慧光普照-除垢濟難"
+  },
+  "next": {
+    "title": "悲智廣度諸有情",
+    "permalink": "/docs/amtb/開示與問答/節錄/悲智廣度諸有情"
+  }
+}

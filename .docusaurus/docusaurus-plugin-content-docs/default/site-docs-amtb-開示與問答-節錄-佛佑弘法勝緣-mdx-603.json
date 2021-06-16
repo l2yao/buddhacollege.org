@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/佛佑弘法勝緣",
+  "id": "amtb/開示與問答/節錄/佛佑弘法勝緣",
+  "isDocsHomePage": false,
+  "title": "佛佑弘法勝緣",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/佛佑弘法勝緣.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/佛佑弘法勝緣",
+  "permalink": "/docs/amtb/開示與問答/節錄/佛佑弘法勝緣",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/佛佑弘法勝緣.mdx",
+  "version": "current",
+  "sidebarPosition": 3665,
+  "frontMatter": {
+    "sidebar_position": 3665
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "往生論二十九種莊嚴",
+    "permalink": "/docs/amtb/開示與問答/節錄/往生論二十九種莊嚴"
+  },
+  "next": {
+    "title": "身即無有  一心何來",
+    "permalink": "/docs/amtb/開示與問答/節錄/身即無有-一心何來"
+  }
+}

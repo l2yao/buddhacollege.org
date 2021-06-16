@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/念佛功德-從真心起",
+  "id": "amtb/開示與問答/節錄/念佛功德-從真心起",
+  "isDocsHomePage": false,
+  "title": "念佛功德 從真心起",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/念佛功德-從真心起.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/念佛功德-從真心起",
+  "permalink": "/docs/amtb/開示與問答/節錄/念佛功德-從真心起",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/念佛功德-從真心起.mdx",
+  "version": "current",
+  "sidebarPosition": 3700,
+  "frontMatter": {
+    "sidebar_position": 3700
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "傳統文化的實驗點值得觀摩",
+    "permalink": "/docs/amtb/開示與問答/節錄/傳統文化的實驗點值得觀摩"
+  },
+  "next": {
+    "title": "持名念佛 諸佛本懷",
+    "permalink": "/docs/amtb/開示與問答/節錄/持名念佛-諸佛本懷"
+  }
+}

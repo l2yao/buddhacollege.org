@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/一念淨心的重要性",
+  "id": "amtb/開示與問答/節錄/一念淨心的重要性",
+  "isDocsHomePage": false,
+  "title": "一念淨心的重要性",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/一念淨心的重要性.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/一念淨心的重要性",
+  "permalink": "/docs/amtb/開示與問答/節錄/一念淨心的重要性",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/一念淨心的重要性.mdx",
+  "version": "current",
+  "sidebarPosition": 3713,
+  "frontMatter": {
+    "sidebar_position": 3713
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "諸佛世尊的十種佛事",
+    "permalink": "/docs/amtb/開示與問答/節錄/諸佛世尊的十種佛事"
+  },
+  "next": {
+    "title": "臨終十念往生",
+    "permalink": "/docs/amtb/開示與問答/節錄/臨終十念往生"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/六波羅蜜實踐在日常生活中",
+  "id": "amtb/開示與問答/節錄/六波羅蜜實踐在日常生活中",
+  "isDocsHomePage": false,
+  "title": "六波羅蜜實踐在日常生活中",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/六波羅蜜實踐在日常生活中.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/六波羅蜜實踐在日常生活中",
+  "permalink": "/docs/amtb/開示與問答/節錄/六波羅蜜實踐在日常生活中",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/六波羅蜜實踐在日常生活中.mdx",
+  "version": "current",
+  "sidebarPosition": 1165,
+  "frontMatter": {
+    "sidebar_position": 1165
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "四十八大願",
+    "permalink": "/docs/amtb/開示與問答/節錄/四十八大願"
+  },
+  "next": {
+    "title": "不求五欲及王位",
+    "permalink": "/docs/amtb/開示與問答/節錄/不求五欲及王位"
+  }
+}

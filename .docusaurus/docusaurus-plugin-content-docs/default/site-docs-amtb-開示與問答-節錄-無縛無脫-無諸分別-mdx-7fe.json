@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/無縛無脫-無諸分別",
+  "id": "amtb/開示與問答/節錄/無縛無脫-無諸分別",
+  "isDocsHomePage": false,
+  "title": "無縛無脫  無諸分別",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/無縛無脫-無諸分別.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/無縛無脫-無諸分別",
+  "permalink": "/docs/amtb/開示與問答/節錄/無縛無脫-無諸分別",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/無縛無脫-無諸分別.mdx",
+  "version": "current",
+  "sidebarPosition": 3742,
+  "frontMatter": {
+    "sidebar_position": 3742
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "得其一 萬事畢",
+    "permalink": "/docs/amtb/開示與問答/節錄/得其一-萬事畢"
+  },
+  "next": {
+    "title": "入道二門",
+    "permalink": "/docs/amtb/開示與問答/節錄/入道二門"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/各地活動紀念影片/2015年5~6月法英弘法回顧",
+  "id": "amtb/開示與問答/各地活動紀念影片/2015年5~6月法英弘法回顧",
+  "isDocsHomePage": false,
+  "title": "2015年5～6月法英弘法回顧",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/各地活動紀念影片/2015年5~6月法英弘法回顧.mdx",
+  "sourceDirName": "amtb/開示與問答/各地活動紀念影片",
+  "slug": "/amtb/開示與問答/各地活動紀念影片/2015年5~6月法英弘法回顧",
+  "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/2015年5~6月法英弘法回顧",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/各地活動紀念影片/2015年5~6月法英弘法回顧.mdx",
+  "version": "current",
+  "sidebarPosition": 4281,
+  "frontMatter": {
+    "sidebar_position": 4281
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "憶恩師－恩師早年弘法掠影",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/憶恩師-恩師早年弘法掠影"
+  },
+  "next": {
+    "title": "恭祝淨公和尚己亥年祝賀影片",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/恭祝淨公和尚己亥年祝賀影片"
+  }
+}

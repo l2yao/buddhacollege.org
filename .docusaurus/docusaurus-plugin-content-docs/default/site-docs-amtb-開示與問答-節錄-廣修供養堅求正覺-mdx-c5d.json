@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/廣修供養堅求正覺",
+  "id": "amtb/開示與問答/節錄/廣修供養堅求正覺",
+  "isDocsHomePage": false,
+  "title": "廣修供養──堅求正覺",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/廣修供養堅求正覺.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/廣修供養堅求正覺",
+  "permalink": "/docs/amtb/開示與問答/節錄/廣修供養堅求正覺",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/廣修供養堅求正覺.mdx",
+  "version": "current",
+  "sidebarPosition": 4196,
+  "frontMatter": {
+    "sidebar_position": 4196
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "發廣大願 效海賢行",
+    "permalink": "/docs/amtb/開示與問答/節錄/發廣大願-效海賢行"
+  },
+  "next": {
+    "title": "志求淨土 願心不退",
+    "permalink": "/docs/amtb/開示與問答/節錄/志求淨土-願心不退"
+  }
+}

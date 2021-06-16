@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/認識佛教/認識佛陀教育/佛教是宗教哲學教育",
+  "id": "amtb/認識佛教/認識佛陀教育/佛教是宗教哲學教育",
+  "isDocsHomePage": false,
+  "title": "佛教是宗教？哲學？教育？",
+  "description": "",
+  "source": "@site/docs/amtb/認識佛教/認識佛陀教育/佛教是宗教哲學教育.mdx",
+  "sourceDirName": "amtb/認識佛教/認識佛陀教育",
+  "slug": "/amtb/認識佛教/認識佛陀教育/佛教是宗教哲學教育",
+  "permalink": "/docs/amtb/認識佛教/認識佛陀教育/佛教是宗教哲學教育",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/認識佛教/認識佛陀教育/佛教是宗教哲學教育.mdx",
+  "version": "current",
+  "sidebarPosition": 276,
+  "frontMatter": {
+    "sidebar_position": 276
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "認識佛陀教育",
+    "permalink": "/docs/amtb/認識佛教/認識佛陀教育/認識佛陀教育"
+  },
+  "next": {
+    "title": "佛教非宗教哲學而為今日所必需",
+    "permalink": "/docs/amtb/認識佛教/認識佛陀教育/佛教非宗教哲學而為今日所必需"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/宗教徒同願會緣起",
+  "id": "amtb/社會教育/多元文化/宗教徒同願會緣起",
+  "isDocsHomePage": false,
+  "title": "宗教徒同願會緣起",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/宗教徒同願會緣起.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/宗教徒同願會緣起",
+  "permalink": "/docs/amtb/社會教育/多元文化/宗教徒同願會緣起",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/宗教徒同願會緣起.mdx",
+  "version": "current",
+  "sidebarPosition": 442,
+  "frontMatter": {
+    "sidebar_position": 442
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "世界宗教和平會議講話",
+    "permalink": "/docs/amtb/社會教育/多元文化/世界宗教和平會議講話"
+  },
+  "next": {
+    "title": "重視宗教教育挽救社會人心",
+    "permalink": "/docs/amtb/社會教育/多元文化/重視宗教教育挽救社會人心"
+  }
+}

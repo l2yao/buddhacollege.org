@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/認識佛教/佛教使命/佛法的現代與未來",
+  "id": "amtb/認識佛教/佛教使命/佛法的現代與未來",
+  "isDocsHomePage": false,
+  "title": "佛法的現代與未來",
+  "description": "",
+  "source": "@site/docs/amtb/認識佛教/佛教使命/佛法的現代與未來.mdx",
+  "sourceDirName": "amtb/認識佛教/佛教使命",
+  "slug": "/amtb/認識佛教/佛教使命/佛法的現代與未來",
+  "permalink": "/docs/amtb/認識佛教/佛教使命/佛法的現代與未來",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/認識佛教/佛教使命/佛法的現代與未來.mdx",
+  "version": "current",
+  "sidebarPosition": 280,
+  "frontMatter": {
+    "sidebar_position": 280
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "雲谷大師傳",
+    "permalink": "/docs/amtb/祖師大德/雲谷大師/雲谷大師傳"
+  },
+  "next": {
+    "title": "佛陀教育新時代的使命",
+    "permalink": "/docs/amtb/認識佛教/佛教使命/佛陀教育新時代的使命"
+  }
+}

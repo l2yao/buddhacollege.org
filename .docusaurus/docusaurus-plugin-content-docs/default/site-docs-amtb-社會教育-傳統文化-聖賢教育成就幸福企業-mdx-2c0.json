@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/傳統文化/聖賢教育成就幸福企業",
+  "id": "amtb/社會教育/傳統文化/聖賢教育成就幸福企業",
+  "isDocsHomePage": false,
+  "title": "聖賢教育成就幸福企業",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/傳統文化/聖賢教育成就幸福企業.mdx",
+  "sourceDirName": "amtb/社會教育/傳統文化",
+  "slug": "/amtb/社會教育/傳統文化/聖賢教育成就幸福企業",
+  "permalink": "/docs/amtb/社會教育/傳統文化/聖賢教育成就幸福企業",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/傳統文化/聖賢教育成就幸福企業.mdx",
+  "version": "current",
+  "sidebarPosition": 3738,
+  "frontMatter": {
+    "sidebar_position": 3738
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "傳統文化教育學會閉幕典禮",
+    "permalink": "/docs/amtb/社會教育/傳統文化/傳統文化教育學會閉幕典禮"
+  },
+  "next": {
+    "title": "傳統文化如何學習",
+    "permalink": "/docs/amtb/社會教育/傳統文化/傳統文化如何學習"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/戒是無上菩提本",
+  "id": "amtb/開示與問答/節錄/戒是無上菩提本",
+  "isDocsHomePage": false,
+  "title": "戒是無上菩提本",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/戒是無上菩提本.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/戒是無上菩提本",
+  "permalink": "/docs/amtb/開示與問答/節錄/戒是無上菩提本",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/戒是無上菩提本.mdx",
+  "version": "current",
+  "sidebarPosition": 3565,
+  "frontMatter": {
+    "sidebar_position": 3565
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "拔諸勤苦生死根本",
+    "permalink": "/docs/amtb/開示與問答/節錄/拔諸勤苦生死根本"
+  },
+  "next": {
+    "title": "大願之王 十念必生",
+    "permalink": "/docs/amtb/開示與問答/節錄/大願之王-十念必生"
+  }
+}

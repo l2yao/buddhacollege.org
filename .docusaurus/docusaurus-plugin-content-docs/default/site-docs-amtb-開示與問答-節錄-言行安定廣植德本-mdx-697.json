@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/言行安定廣植德本",
+  "id": "amtb/開示與問答/節錄/言行安定廣植德本",
+  "isDocsHomePage": false,
+  "title": "言行安定廣植德本",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/言行安定廣植德本.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/言行安定廣植德本",
+  "permalink": "/docs/amtb/開示與問答/節錄/言行安定廣植德本",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/言行安定廣植德本.mdx",
+  "version": "current",
+  "sidebarPosition": 3773,
+  "frontMatter": {
+    "sidebar_position": 3773
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "端守佛誨永離三途",
+    "permalink": "/docs/amtb/開示與問答/節錄/端守佛誨永離三途"
+  },
+  "next": {
+    "title": "奉持經戒  如貧得寶",
+    "permalink": "/docs/amtb/開示與問答/節錄/奉持經戒-如貧得寶"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/於淨宗學院2009年報恩佛學講座的開示",
+  "id": "amtb/開示與問答/地區開示/於淨宗學院2009年報恩佛學講座的開示",
+  "isDocsHomePage": false,
+  "title": "於淨宗學院2009年報恩佛學講座的開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/於淨宗學院2009年報恩佛學講座的開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/於淨宗學院2009年報恩佛學講座的開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/於淨宗學院2009年報恩佛學講座的開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/於淨宗學院2009年報恩佛學講座的開示.mdx",
+  "version": "current",
+  "sidebarPosition": 856,
+  "frontMatter": {
+    "sidebar_position": 856
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "鳳凰衛視訪談",
+    "permalink": "/docs/amtb/開示與問答/地區開示/鳳凰衛視訪談"
+  },
+  "next": {
+    "title": "對雪梨同修弟子規教學答疑",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對雪梨同修弟子規教學答疑"
+  }
+}

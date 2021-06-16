@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/羅漢現通喻菩薩益生德",
+  "id": "amtb/開示與問答/節錄/羅漢現通喻菩薩益生德",
+  "isDocsHomePage": false,
+  "title": "羅漢現通喻菩薩益生德",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/羅漢現通喻菩薩益生德.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/羅漢現通喻菩薩益生德",
+  "permalink": "/docs/amtb/開示與問答/節錄/羅漢現通喻菩薩益生德",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/羅漢現通喻菩薩益生德.mdx",
+  "version": "current",
+  "sidebarPosition": 1081,
+  "frontMatter": {
+    "sidebar_position": 1081
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "退一步才是真正的向前",
+    "permalink": "/docs/amtb/開示與問答/節錄/退一步才是真正的向前"
+  },
+  "next": {
+    "title": "天鼓說法",
+    "permalink": "/docs/amtb/開示與問答/節錄/天鼓說法"
+  }
+}

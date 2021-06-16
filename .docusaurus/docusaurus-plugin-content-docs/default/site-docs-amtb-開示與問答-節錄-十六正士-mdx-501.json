@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/十六正士",
+  "id": "amtb/開示與問答/節錄/十六正士",
+  "isDocsHomePage": false,
+  "title": "十六正士",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/十六正士.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/十六正士",
+  "permalink": "/docs/amtb/開示與問答/節錄/十六正士",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/十六正士.mdx",
+  "version": "current",
+  "sidebarPosition": 3530,
+  "frontMatter": {
+    "sidebar_position": 3530
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "念佛十種心",
+    "permalink": "/docs/amtb/開示與問答/節錄/念佛十種心"
+  },
+  "next": {
+    "title": "十大願王",
+    "permalink": "/docs/amtb/開示與問答/節錄/十大願王"
+  }
+}

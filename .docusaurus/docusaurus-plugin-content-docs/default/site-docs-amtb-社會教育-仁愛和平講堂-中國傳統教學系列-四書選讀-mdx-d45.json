@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/中國傳統教學系列-四書選讀",
+  "id": "amtb/社會教育/仁愛和平講堂/中國傳統教學系列-四書選讀",
+  "isDocsHomePage": false,
+  "title": "中國傳統教學系列-四書選讀",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-四書選讀.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-四書選讀",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-四書選讀",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-四書選讀.mdx",
+  "version": "current",
+  "sidebarPosition": 1034,
+  "frontMatter": {
+    "sidebar_position": 1034
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "家庭教育是修身齊家治國之根本",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/家庭教育是修身齊家治國之根本"
+  },
+  "next": {
+    "title": "中國傳統教育的特色",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/中國傳統教育的特色"
+  }
+}

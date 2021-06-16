@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/孝是做人成佛的根本",
+  "id": "amtb/開示與問答/節錄/孝是做人成佛的根本",
+  "isDocsHomePage": false,
+  "title": "孝是做人、成佛的根本",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/孝是做人成佛的根本.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/孝是做人成佛的根本",
+  "permalink": "/docs/amtb/開示與問答/節錄/孝是做人成佛的根本",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/孝是做人成佛的根本.mdx",
+  "version": "current",
+  "sidebarPosition": 4079,
+  "frontMatter": {
+    "sidebar_position": 4079
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "真心念佛 護國息災",
+    "permalink": "/docs/amtb/開示與問答/節錄/真心念佛-護國息災"
+  },
+  "next": {
+    "title": "認識中華文化",
+    "permalink": "/docs/amtb/開示與問答/節錄/認識中華文化"
+  }
+}

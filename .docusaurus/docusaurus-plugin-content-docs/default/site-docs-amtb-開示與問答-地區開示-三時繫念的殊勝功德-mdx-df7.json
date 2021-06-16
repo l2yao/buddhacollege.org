@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/三時繫念的殊勝功德",
+  "id": "amtb/開示與問答/地區開示/三時繫念的殊勝功德",
+  "isDocsHomePage": false,
+  "title": "三時繫念的殊勝功德",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/三時繫念的殊勝功德.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/三時繫念的殊勝功德",
+  "permalink": "/docs/amtb/開示與問答/地區開示/三時繫念的殊勝功德",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/三時繫念的殊勝功德.mdx",
+  "version": "current",
+  "sidebarPosition": 5444,
+  "frontMatter": {
+    "sidebar_position": 5444
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "教學為先",
+    "permalink": "/docs/amtb/開示與問答/地區開示/教學為先"
+  },
+  "next": {
+    "title": "我們為何來到這裡",
+    "permalink": "/docs/amtb/開示與問答/地區開示/我們為何來到這裡"
+  }
+}

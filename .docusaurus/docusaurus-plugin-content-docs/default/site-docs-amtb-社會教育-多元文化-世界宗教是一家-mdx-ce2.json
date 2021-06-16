@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/世界宗教是一家",
+  "id": "amtb/社會教育/多元文化/世界宗教是一家",
+  "isDocsHomePage": false,
+  "title": "世界宗教是一家",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/世界宗教是一家.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/世界宗教是一家",
+  "permalink": "/docs/amtb/社會教育/多元文化/世界宗教是一家",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/世界宗教是一家.mdx",
+  "version": "current",
+  "sidebarPosition": 854,
+  "frontMatter": {
+    "sidebar_position": 854
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2009年多元宗教高峰會議閉幕開示",
+    "permalink": "/docs/amtb/社會教育/多元文化/2009年多元宗教高峰會議閉幕開示"
+  },
+  "next": {
+    "title": "印尼和平論壇講話",
+    "permalink": "/docs/amtb/社會教育/多元文化/印尼和平論壇講話"
+  }
+}

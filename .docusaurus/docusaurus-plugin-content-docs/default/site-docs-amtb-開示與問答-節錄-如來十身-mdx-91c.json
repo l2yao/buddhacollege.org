@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/如來十身",
+  "id": "amtb/開示與問答/節錄/如來十身",
+  "isDocsHomePage": false,
+  "title": "如來十身",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/如來十身.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/如來十身",
+  "permalink": "/docs/amtb/開示與問答/節錄/如來十身",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/如來十身.mdx",
+  "version": "current",
+  "sidebarPosition": 1113,
+  "frontMatter": {
+    "sidebar_position": 1113
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "計我人 入險道－請自性佛住世建築成佛之道",
+    "permalink": "/docs/amtb/開示與問答/節錄/計我人-入險道-請自性佛住世建築成佛之道"
+  },
+  "next": {
+    "title": "無為－無不為",
+    "permalink": "/docs/amtb/開示與問答/節錄/無為-無不為"
+  }
+}

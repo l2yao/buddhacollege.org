@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/教學最成功的示範區極樂世界",
+  "id": "amtb/開示與問答/節錄/教學最成功的示範區極樂世界",
+  "isDocsHomePage": false,
+  "title": "教學最成功的示範區─極樂世界",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/教學最成功的示範區極樂世界.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/教學最成功的示範區極樂世界",
+  "permalink": "/docs/amtb/開示與問答/節錄/教學最成功的示範區極樂世界",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/教學最成功的示範區極樂世界.mdx",
+  "version": "current",
+  "sidebarPosition": 3217,
+  "frontMatter": {
+    "sidebar_position": 3217
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "六種震動",
+    "permalink": "/docs/amtb/開示與問答/節錄/六種震動"
+  },
+  "next": {
+    "title": "學習彌陀莊嚴國土",
+    "permalink": "/docs/amtb/開示與問答/節錄/學習彌陀莊嚴國土"
+  }
+}

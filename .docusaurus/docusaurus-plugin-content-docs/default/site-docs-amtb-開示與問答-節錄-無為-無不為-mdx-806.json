@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/無為-無不為",
+  "id": "amtb/開示與問答/節錄/無為-無不為",
+  "isDocsHomePage": false,
+  "title": "無為－無不為",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/無為-無不為.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/無為-無不為",
+  "permalink": "/docs/amtb/開示與問答/節錄/無為-無不為",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/無為-無不為.mdx",
+  "version": "current",
+  "sidebarPosition": 1114,
+  "frontMatter": {
+    "sidebar_position": 1114
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如來十身",
+    "permalink": "/docs/amtb/開示與問答/節錄/如來十身"
+  },
+  "next": {
+    "title": "寧受地獄苦 得聞諸佛名－淨業三福",
+    "permalink": "/docs/amtb/開示與問答/節錄/寧受地獄苦-得聞諸佛名-淨業三福"
+  }
+}

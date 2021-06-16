@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/菩薩的五種自在",
+  "id": "amtb/開示與問答/節錄/菩薩的五種自在",
+  "isDocsHomePage": false,
+  "title": "菩薩的五種自在",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/菩薩的五種自在.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/菩薩的五種自在",
+  "permalink": "/docs/amtb/開示與問答/節錄/菩薩的五種自在",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/菩薩的五種自在.mdx",
+  "version": "current",
+  "sidebarPosition": 1197,
+  "frontMatter": {
+    "sidebar_position": 1197
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "念三寶大意",
+    "permalink": "/docs/amtb/開示與問答/節錄/念三寶大意"
+  },
+  "next": {
+    "title": "智光 慧光 自在光",
+    "permalink": "/docs/amtb/開示與問答/節錄/智光-慧光-自在光"
+  }
+}

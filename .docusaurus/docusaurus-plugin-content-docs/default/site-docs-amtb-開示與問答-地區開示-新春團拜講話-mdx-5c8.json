@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/新春團拜講話",
+  "id": "amtb/開示與問答/地區開示/新春團拜講話",
+  "isDocsHomePage": false,
+  "title": "新春團拜講話",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/新春團拜講話.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/新春團拜講話",
+  "permalink": "/docs/amtb/開示與問答/地區開示/新春團拜講話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/新春團拜講話.mdx",
+  "version": "current",
+  "sidebarPosition": 576,
+  "frontMatter": {
+    "sidebar_position": 576
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "對馬來西亞同修的開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對馬來西亞同修的開示"
+  },
+  "next": {
+    "title": "對老人開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對老人開示"
+  }
+}

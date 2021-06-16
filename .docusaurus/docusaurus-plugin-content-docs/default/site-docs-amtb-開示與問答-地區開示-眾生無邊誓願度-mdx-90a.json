@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/眾生無邊誓願度",
+  "id": "amtb/開示與問答/地區開示/眾生無邊誓願度",
+  "isDocsHomePage": false,
+  "title": "眾生無邊誓願度",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/眾生無邊誓願度.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/眾生無邊誓願度",
+  "permalink": "/docs/amtb/開示與問答/地區開示/眾生無邊誓願度",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/眾生無邊誓願度.mdx",
+  "version": "current",
+  "sidebarPosition": 392,
+  "frontMatter": {
+    "sidebar_position": 392
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "小城多福",
+    "permalink": "/docs/amtb/開示與問答/地區開示/小城多福"
+  },
+  "next": {
+    "title": "‘98〝新春開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/98新春開示"
+  }
+}

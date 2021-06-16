@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/基礎佛學/究竟圓滿的歸宿",
+  "id": "amtb/開示與問答/基礎佛學/究竟圓滿的歸宿",
+  "isDocsHomePage": false,
+  "title": "究竟圓滿的歸宿",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/基礎佛學/究竟圓滿的歸宿.mdx",
+  "sourceDirName": "amtb/開示與問答/基礎佛學",
+  "slug": "/amtb/開示與問答/基礎佛學/究竟圓滿的歸宿",
+  "permalink": "/docs/amtb/開示與問答/基礎佛學/究竟圓滿的歸宿",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/基礎佛學/究竟圓滿的歸宿.mdx",
+  "version": "current",
+  "sidebarPosition": 882,
+  "frontMatter": {
+    "sidebar_position": 882
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "清淨解脫之道",
+    "permalink": "/docs/amtb/開示與問答/基礎佛學/清淨解脫之道"
+  },
+  "next": {
+    "title": "學佛答問",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問"
+  }
+}

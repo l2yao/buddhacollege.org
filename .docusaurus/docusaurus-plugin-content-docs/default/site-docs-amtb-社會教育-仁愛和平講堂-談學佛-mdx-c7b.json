@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/談學佛",
+  "id": "amtb/社會教育/仁愛和平講堂/談學佛",
+  "isDocsHomePage": false,
+  "title": "談學佛",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/談學佛.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/談學佛",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/談學佛",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/談學佛.mdx",
+  "version": "current",
+  "sidebarPosition": 1036,
+  "frontMatter": {
+    "sidebar_position": 1036
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "中國傳統教育的特色",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/中國傳統教育的特色"
+  },
+  "next": {
+    "title": "中國傳統教學系列-弟子規節要",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/中國傳統教學系列-弟子規節要"
+  }
+}

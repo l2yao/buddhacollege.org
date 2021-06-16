@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/拜訪澳洲全基督教會",
+  "id": "amtb/開示與問答/地區開示/拜訪澳洲全基督教會",
+  "isDocsHomePage": false,
+  "title": "拜訪澳洲全基督教會",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/拜訪澳洲全基督教會.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/拜訪澳洲全基督教會",
+  "permalink": "/docs/amtb/開示與問答/地區開示/拜訪澳洲全基督教會",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/拜訪澳洲全基督教會.mdx",
+  "version": "current",
+  "sidebarPosition": 2369,
+  "frontMatter": {
+    "sidebar_position": 2369
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "對澳洲淨宗學院四眾弟子開示－德為健康之本",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對澳洲淨宗學院四眾弟子開示-德為健康之本"
+  },
+  "next": {
+    "title": "福人居福地 福地福人居－消災必先修福 修福必先消業障",
+    "permalink": "/docs/amtb/開示與問答/地區開示/福人居福地-福地福人居-消災必先修福-修福必先消業障"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/極樂世界二十九種莊嚴",
+  "id": "amtb/開示與問答/地區開示/極樂世界二十九種莊嚴",
+  "isDocsHomePage": false,
+  "title": "極樂世界二十九種莊嚴",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/極樂世界二十九種莊嚴.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/極樂世界二十九種莊嚴",
+  "permalink": "/docs/amtb/開示與問答/地區開示/極樂世界二十九種莊嚴",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/極樂世界二十九種莊嚴.mdx",
+  "version": "current",
+  "sidebarPosition": 3327,
+  "frontMatter": {
+    "sidebar_position": 3327
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "對香港灣仔淨宗同修開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對香港灣仔淨宗同修開示"
+  },
+  "next": {
+    "title": "對「淨土大經解」學習分享報告會的開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對淨土大經解學習分享報告會的開示"
+  }
+}

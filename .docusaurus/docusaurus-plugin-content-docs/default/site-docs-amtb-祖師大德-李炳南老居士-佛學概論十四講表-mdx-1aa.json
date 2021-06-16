@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/祖師大德/李炳南老居士/佛學概論十四講表",
+  "id": "amtb/祖師大德/李炳南老居士/佛學概論十四講表",
+  "isDocsHomePage": false,
+  "title": "佛學概論十四講表",
+  "description": "",
+  "source": "@site/docs/amtb/祖師大德/李炳南老居士/佛學概論十四講表.mdx",
+  "sourceDirName": "amtb/祖師大德/李炳南老居士",
+  "slug": "/amtb/祖師大德/李炳南老居士/佛學概論十四講表",
+  "permalink": "/docs/amtb/祖師大德/李炳南老居士/佛學概論十四講表",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/祖師大德/李炳南老居士/佛學概論十四講表.mdx",
+  "version": "current",
+  "sidebarPosition": 872,
+  "frontMatter": {
+    "sidebar_position": 872
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "佛學概論十四講",
+    "permalink": "/docs/amtb/祖師大德/李炳南老居士/佛學概論十四講"
+  },
+  "next": {
+    "title": "永嘉禪宗集",
+    "permalink": "/docs/amtb/祖師大德/永嘉大師/永嘉禪宗集"
+  }
+}

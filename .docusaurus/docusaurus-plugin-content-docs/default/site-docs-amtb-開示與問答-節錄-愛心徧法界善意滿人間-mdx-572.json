@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/愛心徧法界善意滿人間",
+  "id": "amtb/開示與問答/節錄/愛心徧法界善意滿人間",
+  "isDocsHomePage": false,
+  "title": "愛心徧法界,善意滿人間",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/愛心徧法界善意滿人間.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/愛心徧法界善意滿人間",
+  "permalink": "/docs/amtb/開示與問答/節錄/愛心徧法界善意滿人間",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/愛心徧法界善意滿人間.mdx",
+  "version": "current",
+  "sidebarPosition": 3488,
+  "frontMatter": {
+    "sidebar_position": 3488
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "三種違順菩提心門",
+    "permalink": "/docs/amtb/開示與問答/節錄/三種違順菩提心門"
+  },
+  "next": {
+    "title": "常寂光土",
+    "permalink": "/docs/amtb/開示與問答/節錄/常寂光土"
+  }
+}

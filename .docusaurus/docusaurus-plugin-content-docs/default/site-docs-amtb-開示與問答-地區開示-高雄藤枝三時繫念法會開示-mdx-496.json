@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/高雄藤枝三時繫念法會開示",
+  "id": "amtb/開示與問答/地區開示/高雄藤枝三時繫念法會開示",
+  "isDocsHomePage": false,
+  "title": "高雄藤枝三時繫念法會開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/高雄藤枝三時繫念法會開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/高雄藤枝三時繫念法會開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/高雄藤枝三時繫念法會開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/高雄藤枝三時繫念法會開示.mdx",
+  "version": "current",
+  "sidebarPosition": 2274,
+  "frontMatter": {
+    "sidebar_position": 2274
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "菲律賓淨宗學會開幕致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/菲律賓淨宗學會開幕致詞"
+  },
+  "next": {
+    "title": "傳統文化教育學會閉幕典禮淨空老法師致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/傳統文化教育學會閉幕典禮淨空老法師致詞"
+  }
+}

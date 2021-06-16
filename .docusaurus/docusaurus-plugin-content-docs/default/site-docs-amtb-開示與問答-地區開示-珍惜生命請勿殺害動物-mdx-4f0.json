@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/珍惜生命請勿殺害動物",
+  "id": "amtb/開示與問答/地區開示/珍惜生命請勿殺害動物",
+  "isDocsHomePage": false,
+  "title": "珍惜生命請勿殺害動物",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/珍惜生命請勿殺害動物.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/珍惜生命請勿殺害動物",
+  "permalink": "/docs/amtb/開示與問答/地區開示/珍惜生命請勿殺害動物",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/珍惜生命請勿殺害動物.mdx",
+  "version": "current",
+  "sidebarPosition": 3277,
+  "frontMatter": {
+    "sidebar_position": 3277
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "二零一二農曆元旦講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/二零一二農曆元旦講話"
+  },
+  "next": {
+    "title": "中國傳統文化與和諧社會",
+    "permalink": "/docs/amtb/開示與問答/地區開示/中國傳統文化與和諧社會"
+  }
+}

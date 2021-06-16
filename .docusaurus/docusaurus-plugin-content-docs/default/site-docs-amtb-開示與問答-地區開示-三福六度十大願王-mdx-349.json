@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/三福六度十大願王",
+  "id": "amtb/開示與問答/地區開示/三福六度十大願王",
+  "isDocsHomePage": false,
+  "title": "三福六度十大願王",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/三福六度十大願王.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/三福六度十大願王",
+  "permalink": "/docs/amtb/開示與問答/地區開示/三福六度十大願王",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/三福六度十大願王.mdx",
+  "version": "current",
+  "sidebarPosition": 481,
+  "frontMatter": {
+    "sidebar_position": 481
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2002年8月淨宗學院齋堂開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2002年8月淨宗學院齋堂開示"
+  },
+  "next": {
+    "title": "四大天王",
+    "permalink": "/docs/amtb/開示與問答/地區開示/四大天王"
+  }
+}

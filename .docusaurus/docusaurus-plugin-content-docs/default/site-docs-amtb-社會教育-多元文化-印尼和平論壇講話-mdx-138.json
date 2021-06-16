@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/印尼和平論壇講話",
+  "id": "amtb/社會教育/多元文化/印尼和平論壇講話",
+  "isDocsHomePage": false,
+  "title": "印尼和平論壇講話",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/印尼和平論壇講話.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/印尼和平論壇講話",
+  "permalink": "/docs/amtb/社會教育/多元文化/印尼和平論壇講話",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/印尼和平論壇講話.mdx",
+  "version": "current",
+  "sidebarPosition": 863,
+  "frontMatter": {
+    "sidebar_position": 863
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "世界宗教是一家",
+    "permalink": "/docs/amtb/社會教育/多元文化/世界宗教是一家"
+  },
+  "next": {
+    "title": "2004年淨空法師多元文化和平之旅-阿德萊得行記",
+    "permalink": "/docs/amtb/社會教育/多元文化/2004年淨空法師多元文化和平之旅-阿德萊得行記"
+  }
+}

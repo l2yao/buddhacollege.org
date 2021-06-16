@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/轉凡成聖的秘訣-放下捨",
+  "id": "amtb/開示與問答/地區開示/轉凡成聖的秘訣-放下捨",
+  "isDocsHomePage": false,
+  "title": "轉凡成聖的秘訣 放下（捨）",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/轉凡成聖的秘訣-放下捨.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/轉凡成聖的秘訣-放下捨",
+  "permalink": "/docs/amtb/開示與問答/地區開示/轉凡成聖的秘訣-放下捨",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/轉凡成聖的秘訣-放下捨.mdx",
+  "version": "current",
+  "sidebarPosition": 717,
+  "frontMatter": {
+    "sidebar_position": 717
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "二00七年章嘉大師韓故館長追思紀念會淨空老法師致辭",
+    "permalink": "/docs/amtb/開示與問答/地區開示/二00七年章嘉大師韓故館長追思紀念會淨空老法師致辭"
+  },
+  "next": {
+    "title": "一切萬法不離自性",
+    "permalink": "/docs/amtb/開示與問答/地區開示/一切萬法不離自性"
+  }
+}

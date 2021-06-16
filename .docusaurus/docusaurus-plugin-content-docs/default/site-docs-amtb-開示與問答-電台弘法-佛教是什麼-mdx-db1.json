@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/電台弘法/佛教是什麼",
+  "id": "amtb/開示與問答/電台弘法/佛教是什麼",
+  "isDocsHomePage": false,
+  "title": "佛教是什麼?",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/電台弘法/佛教是什麼.mdx",
+  "sourceDirName": "amtb/開示與問答/電台弘法",
+  "slug": "/amtb/開示與問答/電台弘法/佛教是什麼",
+  "permalink": "/docs/amtb/開示與問答/電台弘法/佛教是什麼",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/電台弘法/佛教是什麼.mdx",
+  "version": "current",
+  "sidebarPosition": 5398,
+  "frontMatter": {
+    "sidebar_position": 5398
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何挽救社會人心系列(十)教育、風水、命運",
+    "permalink": "/docs/amtb/開示與問答/電台弘法/如何挽救社會人心系列十教育風水命運"
+  },
+  "next": {
+    "title": "谷歌教室",
+    "permalink": "/docs/谷歌教室"
+  }
+}

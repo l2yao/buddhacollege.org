@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/觀無量壽佛經/觀經善導疏菁華",
+  "id": "amtb/淨土五經一論/觀無量壽佛經/觀經善導疏菁華",
+  "isDocsHomePage": false,
+  "title": "觀經善導疏菁華",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/觀無量壽佛經/觀經善導疏菁華.mdx",
+  "sourceDirName": "amtb/淨土五經一論/觀無量壽佛經",
+  "slug": "/amtb/淨土五經一論/觀無量壽佛經/觀經善導疏菁華",
+  "permalink": "/docs/amtb/淨土五經一論/觀無量壽佛經/觀經善導疏菁華",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/觀無量壽佛經/觀經善導疏菁華.mdx",
+  "version": "current",
+  "sidebarPosition": 61,
+  "frontMatter": {
+    "sidebar_position": 61
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "觀無量壽佛經大意",
+    "permalink": "/docs/amtb/淨土五經一論/觀無量壽佛經/觀無量壽佛經大意"
+  },
+  "next": {
+    "title": "淨業三福",
+    "permalink": "/docs/amtb/淨土五經一論/觀無量壽佛經/淨業三福"
+  }
+}

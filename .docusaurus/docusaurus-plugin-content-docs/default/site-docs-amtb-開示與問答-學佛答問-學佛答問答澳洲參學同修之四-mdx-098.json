@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/學佛答問/學佛答問答澳洲參學同修之四",
+  "id": "amtb/開示與問答/學佛答問/學佛答問答澳洲參學同修之四",
+  "isDocsHomePage": false,
+  "title": "學佛答問（答澳洲參學同修之四）",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/學佛答問/學佛答問答澳洲參學同修之四.mdx",
+  "sourceDirName": "amtb/開示與問答/學佛答問",
+  "slug": "/amtb/開示與問答/學佛答問/學佛答問答澳洲參學同修之四",
+  "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答澳洲參學同修之四",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/學佛答問/學佛答問答澳洲參學同修之四.mdx",
+  "version": "current",
+  "sidebarPosition": 571,
+  "frontMatter": {
+    "sidebar_position": 571
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學佛答問（答澳洲參學同修之三）",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答澳洲參學同修之三"
+  },
+  "next": {
+    "title": "淨空法師答問-關於童蒙養正",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/淨空法師答問-關於童蒙養正"
+  }
+}

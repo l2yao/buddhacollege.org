@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/普賢德-禮敬諸佛-稱讚如來-廣修供養",
+  "id": "amtb/開示與問答/節錄/普賢德-禮敬諸佛-稱讚如來-廣修供養",
+  "isDocsHomePage": false,
+  "title": "普賢德-禮敬諸佛 稱讚如來 廣修供養",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/普賢德-禮敬諸佛-稱讚如來-廣修供養.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/普賢德-禮敬諸佛-稱讚如來-廣修供養",
+  "permalink": "/docs/amtb/開示與問答/節錄/普賢德-禮敬諸佛-稱讚如來-廣修供養",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/普賢德-禮敬諸佛-稱讚如來-廣修供養.mdx",
+  "version": "current",
+  "sidebarPosition": 1168,
+  "frontMatter": {
+    "sidebar_position": 1168
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "辦班供養 中國傳統學術 一級教師",
+    "permalink": "/docs/amtb/開示與問答/節錄/辦班供養-中國傳統學術-一級教師"
+  },
+  "next": {
+    "title": "普賢德-懺悔業障",
+    "permalink": "/docs/amtb/開示與問答/節錄/普賢德-懺悔業障"
+  }
+}

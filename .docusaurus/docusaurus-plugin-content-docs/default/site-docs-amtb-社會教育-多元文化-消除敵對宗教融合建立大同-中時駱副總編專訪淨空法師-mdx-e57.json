@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/消除敵對宗教融合建立大同-中時駱副總編專訪淨空法師",
+  "id": "amtb/社會教育/多元文化/消除敵對宗教融合建立大同-中時駱副總編專訪淨空法師",
+  "isDocsHomePage": false,
+  "title": "消除敵對，宗教融合，建立大同-中時駱副總編專訪淨空法師",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/消除敵對宗教融合建立大同-中時駱副總編專訪淨空法師.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/消除敵對宗教融合建立大同-中時駱副總編專訪淨空法師",
+  "permalink": "/docs/amtb/社會教育/多元文化/消除敵對宗教融合建立大同-中時駱副總編專訪淨空法師",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/消除敵對宗教融合建立大同-中時駱副總編專訪淨空法師.mdx",
+  "version": "current",
+  "sidebarPosition": 510,
+  "frontMatter": {
+    "sidebar_position": 510
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "和平-《佛學問答》",
+    "permalink": "/docs/amtb/社會教育/多元文化/和平-佛學問答"
+  },
+  "next": {
+    "title": "淨空法師開示：怎樣才能實現世界和平",
+    "permalink": "/docs/amtb/社會教育/多元文化/淨空法師開示怎樣才能實現世界和平"
+  }
+}

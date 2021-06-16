@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/教育的重要性",
+  "id": "amtb/開示與問答/地區開示/教育的重要性",
+  "isDocsHomePage": false,
+  "title": "教育的重要性",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/教育的重要性.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/教育的重要性",
+  "permalink": "/docs/amtb/開示與問答/地區開示/教育的重要性",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/教育的重要性.mdx",
+  "version": "current",
+  "sidebarPosition": 503,
+  "frontMatter": {
+    "sidebar_position": 503
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "古晉佛七開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/古晉佛七開示"
+  },
+  "next": {
+    "title": "關懷SARS座談會",
+    "permalink": "/docs/amtb/開示與問答/地區開示/關懷sars座談會"
+  }
+}

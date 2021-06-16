@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/究竟菩薩諸波羅蜜",
+  "id": "amtb/開示與問答/節錄/究竟菩薩諸波羅蜜",
+  "isDocsHomePage": false,
+  "title": "究竟菩薩諸波羅蜜",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/究竟菩薩諸波羅蜜.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/究竟菩薩諸波羅蜜",
+  "permalink": "/docs/amtb/開示與問答/節錄/究竟菩薩諸波羅蜜",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/究竟菩薩諸波羅蜜.mdx",
+  "version": "current",
+  "sidebarPosition": 3749,
+  "frontMatter": {
+    "sidebar_position": 3749
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "持戒淨潔  寂定明察",
+    "permalink": "/docs/amtb/開示與問答/節錄/持戒淨潔-寂定明察"
+  },
+  "next": {
+    "title": "容容虛空  適得其中",
+    "permalink": "/docs/amtb/開示與問答/節錄/容容虛空-適得其中"
+  }
+}

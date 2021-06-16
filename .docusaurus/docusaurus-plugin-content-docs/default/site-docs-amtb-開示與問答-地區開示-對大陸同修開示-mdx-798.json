@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/對大陸同修開示",
+  "id": "amtb/開示與問答/地區開示/對大陸同修開示",
+  "isDocsHomePage": false,
+  "title": "對大陸同修開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/對大陸同修開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/對大陸同修開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/對大陸同修開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/對大陸同修開示.mdx",
+  "version": "current",
+  "sidebarPosition": 4801,
+  "frontMatter": {
+    "sidebar_position": 4801
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "極樂寺「道德講堂第38期」開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/極樂寺道德講堂第38期開示"
+  },
+  "next": {
+    "title": "復興漢學 圓成佛道——馬來西亞漢學院淨宗學會學習營開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/復興漢學-圓成佛道馬來西亞漢學院淨宗學會學習營開示"
+  }
+}

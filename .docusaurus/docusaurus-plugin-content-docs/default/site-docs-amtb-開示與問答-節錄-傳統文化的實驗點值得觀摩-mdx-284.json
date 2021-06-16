@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/傳統文化的實驗點值得觀摩",
+  "id": "amtb/開示與問答/節錄/傳統文化的實驗點值得觀摩",
+  "isDocsHomePage": false,
+  "title": "傳統文化的實驗點值得觀摩",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/傳統文化的實驗點值得觀摩.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/傳統文化的實驗點值得觀摩",
+  "permalink": "/docs/amtb/開示與問答/節錄/傳統文化的實驗點值得觀摩",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/傳統文化的實驗點值得觀摩.mdx",
+  "version": "current",
+  "sidebarPosition": 3699,
+  "frontMatter": {
+    "sidebar_position": 3699
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "菩提心功德不可思議",
+    "permalink": "/docs/amtb/開示與問答/節錄/菩提心功德不可思議"
+  },
+  "next": {
+    "title": "念佛功德 從真心起",
+    "permalink": "/docs/amtb/開示與問答/節錄/念佛功德-從真心起"
+  }
+}

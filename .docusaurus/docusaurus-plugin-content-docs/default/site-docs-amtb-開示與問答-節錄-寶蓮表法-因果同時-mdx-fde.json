@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/寶蓮表法-因果同時",
+  "id": "amtb/開示與問答/節錄/寶蓮表法-因果同時",
+  "isDocsHomePage": false,
+  "title": "寶蓮表法  因果同時",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/寶蓮表法-因果同時.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/寶蓮表法-因果同時",
+  "permalink": "/docs/amtb/開示與問答/節錄/寶蓮表法-因果同時",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/寶蓮表法-因果同時.mdx",
+  "version": "current",
+  "sidebarPosition": 1189,
+  "frontMatter": {
+    "sidebar_position": 1189
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "菩薩染淨觀",
+    "permalink": "/docs/amtb/開示與問答/節錄/菩薩染淨觀"
+  },
+  "next": {
+    "title": "四攝 四悉檀",
+    "permalink": "/docs/amtb/開示與問答/節錄/四攝-四悉檀"
+  }
+}

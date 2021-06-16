@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何立法-強化倫理道德",
+  "id": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何立法-強化倫理道德",
+  "isDocsHomePage": false,
+  "title": "仁愛和平講堂－如何立法 強化倫理道德",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何立法-強化倫理道德.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何立法-強化倫理道德",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何立法-強化倫理道德",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何立法-強化倫理道德.mdx",
+  "version": "current",
+  "sidebarPosition": 1064,
+  "frontMatter": {
+    "sidebar_position": 1064
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仁愛和平講堂－從倫理道德檢視台灣司法制度",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-從倫理道德檢視台灣司法制度"
+  },
+  "next": {
+    "title": "仁愛和平講堂－如何讓老百姓心靈更富有",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-如何讓老百姓心靈更富有"
+  }
+}

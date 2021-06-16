@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/對台南淨宗學會的開示",
+  "id": "amtb/開示與問答/地區開示/對台南淨宗學會的開示",
+  "isDocsHomePage": false,
+  "title": "對台南淨宗學會的開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/對台南淨宗學會的開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/對台南淨宗學會的開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/對台南淨宗學會的開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/對台南淨宗學會的開示.mdx",
+  "version": "current",
+  "sidebarPosition": 2334,
+  "frontMatter": {
+    "sidebar_position": 2334
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "台南市政府記者會淨空老法師致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/台南市政府記者會淨空老法師致詞"
+  },
+  "next": {
+    "title": "八八水災暨南山公墓祖靈報恩三時繫念法事老法師開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/八八水災暨南山公墓祖靈報恩三時繫念法事老法師開示"
+  }
+}

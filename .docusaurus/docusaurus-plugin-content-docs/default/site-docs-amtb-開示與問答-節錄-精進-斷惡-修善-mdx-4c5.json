@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/精進-斷惡-修善",
+  "id": "amtb/開示與問答/節錄/精進-斷惡-修善",
+  "isDocsHomePage": false,
+  "title": "精進 斷惡 修善",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/精進-斷惡-修善.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/精進-斷惡-修善",
+  "permalink": "/docs/amtb/開示與問答/節錄/精進-斷惡-修善",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/精進-斷惡-修善.mdx",
+  "version": "current",
+  "sidebarPosition": 3719,
+  "frontMatter": {
+    "sidebar_position": 3719
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "五念法門",
+    "permalink": "/docs/amtb/開示與問答/節錄/五念法門"
+  },
+  "next": {
+    "title": "究竟通達神通智慧",
+    "permalink": "/docs/amtb/開示與問答/節錄/究竟通達神通智慧"
+  }
+}

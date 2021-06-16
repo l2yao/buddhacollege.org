@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/此心即是自性清淨心",
+  "id": "amtb/開示與問答/節錄/此心即是自性清淨心",
+  "isDocsHomePage": false,
+  "title": "此心即是自性清淨心",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/此心即是自性清淨心.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/此心即是自性清淨心",
+  "permalink": "/docs/amtb/開示與問答/節錄/此心即是自性清淨心",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/此心即是自性清淨心.mdx",
+  "version": "current",
+  "sidebarPosition": 3614,
+  "frontMatter": {
+    "sidebar_position": 3614
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "悲智廣度諸有情",
+    "permalink": "/docs/amtb/開示與問答/節錄/悲智廣度諸有情"
+  },
+  "next": {
+    "title": "住真實慧 莊嚴妙土",
+    "permalink": "/docs/amtb/開示與問答/節錄/住真實慧-莊嚴妙土"
+  }
+}

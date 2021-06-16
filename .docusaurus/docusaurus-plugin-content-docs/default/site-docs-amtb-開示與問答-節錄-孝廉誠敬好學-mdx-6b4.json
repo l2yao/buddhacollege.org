@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/孝廉誠敬好學",
+  "id": "amtb/開示與問答/節錄/孝廉誠敬好學",
+  "isDocsHomePage": false,
+  "title": "孝廉誠敬好學",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/孝廉誠敬好學.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/孝廉誠敬好學",
+  "permalink": "/docs/amtb/開示與問答/節錄/孝廉誠敬好學",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/孝廉誠敬好學.mdx",
+  "version": "current",
+  "sidebarPosition": 1179,
+  "frontMatter": {
+    "sidebar_position": 1179
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "普賢德-普皆回向",
+    "permalink": "/docs/amtb/開示與問答/節錄/普賢德-普皆回向"
+  },
+  "next": {
+    "title": "六種戲論",
+    "permalink": "/docs/amtb/開示與問答/節錄/六種戲論"
+  }
+}

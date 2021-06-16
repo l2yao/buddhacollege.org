@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/福慧始聞淨土法門",
+  "id": "amtb/開示與問答/節錄/福慧始聞淨土法門",
+  "isDocsHomePage": false,
+  "title": "福慧始聞淨土法門",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/福慧始聞淨土法門.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/福慧始聞淨土法門",
+  "permalink": "/docs/amtb/開示與問答/節錄/福慧始聞淨土法門",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/福慧始聞淨土法門.mdx",
+  "version": "current",
+  "sidebarPosition": 3812,
+  "frontMatter": {
+    "sidebar_position": 3812
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "種修福善  求生淨剎",
+    "permalink": "/docs/amtb/開示與問答/節錄/種修福善-求生淨剎"
+  },
+  "next": {
+    "title": "諸佛本心 勸人念佛",
+    "permalink": "/docs/amtb/開示與問答/節錄/諸佛本心-勸人念佛"
+  }
+}

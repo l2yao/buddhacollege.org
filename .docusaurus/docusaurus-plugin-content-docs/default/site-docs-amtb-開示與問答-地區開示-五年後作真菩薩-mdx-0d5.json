@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/五年後作真菩薩",
+  "id": "amtb/開示與問答/地區開示/五年後作真菩薩",
+  "isDocsHomePage": false,
+  "title": "五年後作真菩薩",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/五年後作真菩薩.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/五年後作真菩薩",
+  "permalink": "/docs/amtb/開示與問答/地區開示/五年後作真菩薩",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/五年後作真菩薩.mdx",
+  "version": "current",
+  "sidebarPosition": 445,
+  "frontMatter": {
+    "sidebar_position": 445
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "香港鳳凰衛視記者陳敏莉對淨空法的專訪－答記者問(關於法輪功)",
+    "permalink": "/docs/amtb/開示與問答/地區開示/香港鳳凰衛視記者陳敏莉對淨空法的專訪-答記者問關於法輪功"
+  },
+  "next": {
+    "title": "人人皆可成聖賢",
+    "permalink": "/docs/amtb/開示與問答/地區開示/人人皆可成聖賢"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/一門深入-專志淨土",
+  "id": "amtb/開示與問答/節錄/一門深入-專志淨土",
+  "isDocsHomePage": false,
+  "title": "一門深入 專志淨土",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/一門深入-專志淨土.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/一門深入-專志淨土",
+  "permalink": "/docs/amtb/開示與問答/節錄/一門深入-專志淨土",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/一門深入-專志淨土.mdx",
+  "version": "current",
+  "sidebarPosition": 4144,
+  "frontMatter": {
+    "sidebar_position": 4144
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "一句佛號大總持",
+    "permalink": "/docs/amtb/開示與問答/節錄/一句佛號大總持"
+  },
+  "next": {
+    "title": "淨土法門惠予眾生真實之利",
+    "permalink": "/docs/amtb/開示與問答/節錄/淨土法門惠予眾生真實之利"
+  }
+}

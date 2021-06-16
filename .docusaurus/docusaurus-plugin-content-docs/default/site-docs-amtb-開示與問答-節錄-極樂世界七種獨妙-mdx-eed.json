@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/極樂世界七種獨妙",
+  "id": "amtb/開示與問答/節錄/極樂世界七種獨妙",
+  "isDocsHomePage": false,
+  "title": "極樂世界七種獨妙",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/極樂世界七種獨妙.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/極樂世界七種獨妙",
+  "permalink": "/docs/amtb/開示與問答/節錄/極樂世界七種獨妙",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/極樂世界七種獨妙.mdx",
+  "version": "current",
+  "sidebarPosition": 3219,
+  "frontMatter": {
+    "sidebar_position": 3219
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學習彌陀莊嚴國土",
+    "permalink": "/docs/amtb/開示與問答/節錄/學習彌陀莊嚴國土"
+  },
+  "next": {
+    "title": "做大聖不做大官",
+    "permalink": "/docs/amtb/開示與問答/節錄/做大聖不做大官"
+  }
+}

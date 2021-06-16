@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/四十八願核心",
+  "id": "amtb/開示與問答/節錄/四十八願核心",
+  "isDocsHomePage": false,
+  "title": "四十八願核心",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/四十八願核心.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/四十八願核心",
+  "permalink": "/docs/amtb/開示與問答/節錄/四十八願核心",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/四十八願核心.mdx",
+  "version": "current",
+  "sidebarPosition": 1128,
+  "frontMatter": {
+    "sidebar_position": 1128
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "十種智明",
+    "permalink": "/docs/amtb/開示與問答/節錄/十種智明"
+  },
+  "next": {
+    "title": "堂舍樓觀",
+    "permalink": "/docs/amtb/開示與問答/節錄/堂舍樓觀"
+  }
+}

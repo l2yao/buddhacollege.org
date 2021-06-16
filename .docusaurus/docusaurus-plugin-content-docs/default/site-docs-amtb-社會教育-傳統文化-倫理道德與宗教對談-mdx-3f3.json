@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/傳統文化/倫理道德與宗教對談",
+  "id": "amtb/社會教育/傳統文化/倫理道德與宗教對談",
+  "isDocsHomePage": false,
+  "title": "倫理道德與宗教對談",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/傳統文化/倫理道德與宗教對談.mdx",
+  "sourceDirName": "amtb/社會教育/傳統文化",
+  "slug": "/amtb/社會教育/傳統文化/倫理道德與宗教對談",
+  "permalink": "/docs/amtb/社會教育/傳統文化/倫理道德與宗教對談",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/傳統文化/倫理道德與宗教對談.mdx",
+  "version": "current",
+  "sidebarPosition": 511,
+  "frontMatter": {
+    "sidebar_position": 511
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "為師及教學之道",
+    "permalink": "/docs/amtb/社會教育/傳統文化/為師及教學之道"
+  },
+  "next": {
+    "title": "澳洲萬姓先祖紀念堂安位典禮",
+    "permalink": "/docs/amtb/社會教育/傳統文化/澳洲萬姓先祖紀念堂安位典禮"
+  }
+}

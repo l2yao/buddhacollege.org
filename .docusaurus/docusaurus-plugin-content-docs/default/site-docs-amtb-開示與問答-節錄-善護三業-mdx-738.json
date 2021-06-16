@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/善護三業",
+  "id": "amtb/開示與問答/節錄/善護三業",
+  "isDocsHomePage": false,
+  "title": "善護三業",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/善護三業.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/善護三業",
+  "permalink": "/docs/amtb/開示與問答/節錄/善護三業",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/善護三業.mdx",
+  "version": "current",
+  "sidebarPosition": 3237,
+  "frontMatter": {
+    "sidebar_position": 3237
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "三諦三觀",
+    "permalink": "/docs/amtb/開示與問答/節錄/三諦三觀"
+  },
+  "next": {
+    "title": "於法自在",
+    "permalink": "/docs/amtb/開示與問答/節錄/於法自在"
+  }
+}

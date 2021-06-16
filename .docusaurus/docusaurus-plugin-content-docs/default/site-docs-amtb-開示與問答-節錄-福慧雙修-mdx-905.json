@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/福慧雙修",
+  "id": "amtb/開示與問答/節錄/福慧雙修",
+  "isDocsHomePage": false,
+  "title": "福慧雙修",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/福慧雙修.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/福慧雙修",
+  "permalink": "/docs/amtb/開示與問答/節錄/福慧雙修",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/福慧雙修.mdx",
+  "version": "current",
+  "sidebarPosition": 2679,
+  "frontMatter": {
+    "sidebar_position": 2679
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "三摩地",
+    "permalink": "/docs/amtb/開示與問答/節錄/三摩地"
+  },
+  "next": {
+    "title": "普賢十願",
+    "permalink": "/docs/amtb/開示與問答/節錄/普賢十願"
+  }
+}

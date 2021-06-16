@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/願聲同佛",
+  "id": "amtb/開示與問答/節錄/願聲同佛",
+  "isDocsHomePage": false,
+  "title": "願聲同佛",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/願聲同佛.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/願聲同佛",
+  "permalink": "/docs/amtb/開示與問答/節錄/願聲同佛",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/願聲同佛.mdx",
+  "version": "current",
+  "sidebarPosition": 3178,
+  "frontMatter": {
+    "sidebar_position": 3178
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "愛能化解天災人禍",
+    "permalink": "/docs/amtb/開示與問答/節錄/愛能化解天災人禍"
+  },
+  "next": {
+    "title": "三十二種 大丈夫相",
+    "permalink": "/docs/amtb/開示與問答/節錄/三十二種-大丈夫相"
+  }
+}

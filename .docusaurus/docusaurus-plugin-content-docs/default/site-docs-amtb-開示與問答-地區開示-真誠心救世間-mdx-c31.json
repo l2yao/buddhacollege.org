@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/真誠心救世間",
+  "id": "amtb/開示與問答/地區開示/真誠心救世間",
+  "isDocsHomePage": false,
+  "title": "真誠心救世間",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/真誠心救世間.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/真誠心救世間",
+  "permalink": "/docs/amtb/開示與問答/地區開示/真誠心救世間",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/真誠心救世間.mdx",
+  "version": "current",
+  "sidebarPosition": 525,
+  "frontMatter": {
+    "sidebar_position": 525
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "元亨寺開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/元亨寺開示"
+  },
+  "next": {
+    "title": "香港成報記者訪問淨空法師",
+    "permalink": "/docs/amtb/開示與問答/地區開示/香港成報記者訪問淨空法師"
+  }
+}

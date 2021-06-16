@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/各地活動紀念影片/大愛無疆",
+  "id": "amtb/開示與問答/各地活動紀念影片/大愛無疆",
+  "isDocsHomePage": false,
+  "title": "《大愛無疆》",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/各地活動紀念影片/大愛無疆.mdx",
+  "sourceDirName": "amtb/開示與問答/各地活動紀念影片",
+  "slug": "/amtb/開示與問答/各地活動紀念影片/大愛無疆",
+  "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/大愛無疆",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/各地活動紀念影片/大愛無疆.mdx",
+  "version": "current",
+  "sidebarPosition": 5865,
+  "frontMatter": {
+    "sidebar_position": 5865
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "二Ｏ一九己亥年全球弘法重點開示",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/二o一九己亥年全球弘法重點開示"
+  },
+  "next": {
+    "title": "弘法三十年心得",
+    "permalink": "/docs/amtb/開示與問答/地區開示/弘法三十年心得"
+  }
+}

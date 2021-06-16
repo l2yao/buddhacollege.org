@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/宇宙和平-靠心力-靠願力",
+  "id": "amtb/開示與問答/節錄/宇宙和平-靠心力-靠願力",
+  "isDocsHomePage": false,
+  "title": "宇宙和平 靠心力 靠願力",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/宇宙和平-靠心力-靠願力.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/宇宙和平-靠心力-靠願力",
+  "permalink": "/docs/amtb/開示與問答/節錄/宇宙和平-靠心力-靠願力",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/宇宙和平-靠心力-靠願力.mdx",
+  "version": "current",
+  "sidebarPosition": 2684,
+  "frontMatter": {
+    "sidebar_position": 2684
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "戒律是修行的根基",
+    "permalink": "/docs/amtb/開示與問答/節錄/戒律是修行的根基"
+  },
+  "next": {
+    "title": "住普賢行－普賢十願",
+    "permalink": "/docs/amtb/開示與問答/節錄/住普賢行-普賢十願"
+  }
+}

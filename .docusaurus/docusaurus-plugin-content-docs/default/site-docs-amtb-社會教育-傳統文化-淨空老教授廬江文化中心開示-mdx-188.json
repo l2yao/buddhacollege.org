@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/傳統文化/淨空老教授廬江文化中心開示",
+  "id": "amtb/社會教育/傳統文化/淨空老教授廬江文化中心開示",
+  "isDocsHomePage": false,
+  "title": "淨空老教授廬江文化中心開示",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/傳統文化/淨空老教授廬江文化中心開示.mdx",
+  "sourceDirName": "amtb/社會教育/傳統文化",
+  "slug": "/amtb/社會教育/傳統文化/淨空老教授廬江文化中心開示",
+  "permalink": "/docs/amtb/社會教育/傳統文化/淨空老教授廬江文化中心開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/傳統文化/淨空老教授廬江文化中心開示.mdx",
+  "version": "current",
+  "sidebarPosition": 773,
+  "frontMatter": {
+    "sidebar_position": 773
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2007年馬來西亞雪隆區首屆弟子規師資培訓班－淨空老法師開示",
+    "permalink": "/docs/amtb/社會教育/傳統文化/2007年馬來西亞雪隆區首屆弟子規師資培訓班-淨空老法師開示"
+  },
+  "next": {
+    "title": "儒家文化與和諧社會建設",
+    "permalink": "/docs/amtb/社會教育/傳統文化/儒家文化與和諧社會建設"
+  }
+}

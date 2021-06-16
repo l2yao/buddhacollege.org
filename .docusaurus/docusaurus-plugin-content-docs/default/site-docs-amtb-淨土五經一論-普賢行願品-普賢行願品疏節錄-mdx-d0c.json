@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/普賢行願品/普賢行願品疏節錄",
+  "id": "amtb/淨土五經一論/普賢行願品/普賢行願品疏節錄",
+  "isDocsHomePage": false,
+  "title": "普賢行願品疏節錄",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/普賢行願品/普賢行願品疏節錄.mdx",
+  "sourceDirName": "amtb/淨土五經一論/普賢行願品",
+  "slug": "/amtb/淨土五經一論/普賢行願品/普賢行願品疏節錄",
+  "permalink": "/docs/amtb/淨土五經一論/普賢行願品/普賢行願品疏節錄",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/普賢行願品/普賢行願品疏節錄.mdx",
+  "version": "current",
+  "sidebarPosition": 74,
+  "frontMatter": {
+    "sidebar_position": 74
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "普賢行願品輯要疏選讀",
+    "permalink": "/docs/amtb/淨土五經一論/普賢行願品/普賢行願品輯要疏選讀"
+  },
+  "next": {
+    "title": "普賢行願品",
+    "permalink": "/docs/amtb/淨土五經一論/普賢行願品/普賢行願品"
+  }
+}

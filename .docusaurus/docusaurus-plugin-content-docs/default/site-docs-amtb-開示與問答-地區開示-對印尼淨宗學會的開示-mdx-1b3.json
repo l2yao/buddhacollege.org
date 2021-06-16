@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/對印尼淨宗學會的開示",
+  "id": "amtb/開示與問答/地區開示/對印尼淨宗學會的開示",
+  "isDocsHomePage": false,
+  "title": "對印尼淨宗學會的開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/對印尼淨宗學會的開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/對印尼淨宗學會的開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/對印尼淨宗學會的開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/對印尼淨宗學會的開示.mdx",
+  "version": "current",
+  "sidebarPosition": 2320,
+  "frontMatter": {
+    "sidebar_position": 2320
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "三時繫念法會開示－學習印光大師教誨",
+    "permalink": "/docs/amtb/開示與問答/地區開示/三時繫念法會開示-學習印光大師教誨"
+  },
+  "next": {
+    "title": "除夕 初一團拜－淨空老法師致詞",
+    "permalink": "/docs/amtb/開示與問答/地區開示/除夕-初一團拜-淨空老法師致詞"
+  }
+}

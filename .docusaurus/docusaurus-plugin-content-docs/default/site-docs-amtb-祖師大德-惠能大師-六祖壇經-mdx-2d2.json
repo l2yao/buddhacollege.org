@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/祖師大德/惠能大師/六祖壇經",
+  "id": "amtb/祖師大德/惠能大師/六祖壇經",
+  "isDocsHomePage": false,
+  "title": "六祖壇經",
+  "description": "",
+  "source": "@site/docs/amtb/祖師大德/惠能大師/六祖壇經.mdx",
+  "sourceDirName": "amtb/祖師大德/惠能大師",
+  "slug": "/amtb/祖師大德/惠能大師/六祖壇經",
+  "permalink": "/docs/amtb/祖師大德/惠能大師/六祖壇經",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/祖師大德/惠能大師/六祖壇經.mdx",
+  "version": "current",
+  "sidebarPosition": 97,
+  "frontMatter": {
+    "sidebar_position": 97
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "晚晴集之研習",
+    "permalink": "/docs/amtb/祖師大德/弘一大師/晚晴集之研習"
+  },
+  "next": {
+    "title": "佛學概論十四講",
+    "permalink": "/docs/amtb/祖師大德/李炳南老居士/佛學概論十四講"
+  }
+}

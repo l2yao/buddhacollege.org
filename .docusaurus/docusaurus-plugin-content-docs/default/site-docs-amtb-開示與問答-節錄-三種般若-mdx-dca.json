@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/三種般若",
+  "id": "amtb/開示與問答/節錄/三種般若",
+  "isDocsHomePage": false,
+  "title": "三種般若",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/三種般若.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/三種般若",
+  "permalink": "/docs/amtb/開示與問答/節錄/三種般若",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/三種般若.mdx",
+  "version": "current",
+  "sidebarPosition": 3367,
+  "frontMatter": {
+    "sidebar_position": 3367
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "求道和正",
+    "permalink": "/docs/amtb/開示與問答/節錄/求道和正"
+  },
+  "next": {
+    "title": "持戒念佛",
+    "permalink": "/docs/amtb/開示與問答/節錄/持戒念佛"
+  }
+}

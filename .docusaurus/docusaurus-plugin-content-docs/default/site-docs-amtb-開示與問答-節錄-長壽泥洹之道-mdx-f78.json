@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/長壽泥洹之道",
+  "id": "amtb/開示與問答/節錄/長壽泥洹之道",
+  "isDocsHomePage": false,
+  "title": "長壽泥洹之道",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/長壽泥洹之道.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/長壽泥洹之道",
+  "permalink": "/docs/amtb/開示與問答/節錄/長壽泥洹之道",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/長壽泥洹之道.mdx",
+  "version": "current",
+  "sidebarPosition": 3768,
+  "frontMatter": {
+    "sidebar_position": 3768
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "以聖賢智慧轉化愚癡蒙昧",
+    "permalink": "/docs/amtb/開示與問答/節錄/以聖賢智慧轉化愚癡蒙昧"
+  },
+  "next": {
+    "title": "端守佛誨永離三途",
+    "permalink": "/docs/amtb/開示與問答/節錄/端守佛誨永離三途"
+  }
+}

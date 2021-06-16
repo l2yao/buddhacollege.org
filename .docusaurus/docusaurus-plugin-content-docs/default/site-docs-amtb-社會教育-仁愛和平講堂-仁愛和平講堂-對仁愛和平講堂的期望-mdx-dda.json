@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-對仁愛和平講堂的期望",
+  "id": "amtb/社會教育/仁愛和平講堂/仁愛和平講堂-對仁愛和平講堂的期望",
+  "isDocsHomePage": false,
+  "title": "仁愛和平講堂-對仁愛和平講堂的期望",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-對仁愛和平講堂的期望.mdx",
+  "sourceDirName": "amtb/社會教育/仁愛和平講堂",
+  "slug": "/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-對仁愛和平講堂的期望",
+  "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-對仁愛和平講堂的期望",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-對仁愛和平講堂的期望.mdx",
+  "version": "current",
+  "sidebarPosition": 1017,
+  "frontMatter": {
+    "sidebar_position": 1017
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "仁愛和平講堂-仁愛和平講堂緣起",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-仁愛和平講堂緣起"
+  },
+  "next": {
+    "title": "仁愛和平講堂-答中西隨功教授提問",
+    "permalink": "/docs/amtb/社會教育/仁愛和平講堂/仁愛和平講堂-答中西隨功教授提問"
+  }
+}

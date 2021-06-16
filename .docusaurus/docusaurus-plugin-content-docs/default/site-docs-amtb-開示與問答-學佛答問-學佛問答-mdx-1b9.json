@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/學佛答問/學佛問答",
+  "id": "amtb/開示與問答/學佛答問/學佛問答",
+  "isDocsHomePage": false,
+  "title": "學佛問答",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/學佛答問/學佛問答.mdx",
+  "sourceDirName": "amtb/開示與問答/學佛答問",
+  "slug": "/amtb/開示與問答/學佛答問/學佛問答",
+  "permalink": "/docs/amtb/開示與問答/學佛答問/學佛問答",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/學佛答問/學佛問答.mdx",
+  "version": "current",
+  "sidebarPosition": 508,
+  "frontMatter": {
+    "sidebar_position": 508
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學佛答問（答澳洲參學同修之二）",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答澳洲參學同修之二"
+  },
+  "next": {
+    "title": "日本東京法會-佛學問答",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/日本東京法會-佛學問答"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/金剛杵之表法",
+  "id": "amtb/開示與問答/節錄/金剛杵之表法",
+  "isDocsHomePage": false,
+  "title": "金剛杵之表法",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/金剛杵之表法.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/金剛杵之表法",
+  "permalink": "/docs/amtb/開示與問答/節錄/金剛杵之表法",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/金剛杵之表法.mdx",
+  "version": "current",
+  "sidebarPosition": 2950,
+  "frontMatter": {
+    "sidebar_position": 2950
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "不斷之無",
+    "permalink": "/docs/amtb/開示與問答/節錄/不斷之無"
+  },
+  "next": {
+    "title": "普賢菩薩教我們如何導歸極樂",
+    "permalink": "/docs/amtb/開示與問答/節錄/普賢菩薩教我們如何導歸極樂"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/傳統文化/傳統文化教育學會開幕典禮-淨空老法師致詞",
+  "id": "amtb/社會教育/傳統文化/傳統文化教育學會開幕典禮-淨空老法師致詞",
+  "isDocsHomePage": false,
+  "title": "傳統文化教育學會開幕典禮－淨空老法師致詞",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/傳統文化/傳統文化教育學會開幕典禮-淨空老法師致詞.mdx",
+  "sourceDirName": "amtb/社會教育/傳統文化",
+  "slug": "/amtb/社會教育/傳統文化/傳統文化教育學會開幕典禮-淨空老法師致詞",
+  "permalink": "/docs/amtb/社會教育/傳統文化/傳統文化教育學會開幕典禮-淨空老法師致詞",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/傳統文化/傳統文化教育學會開幕典禮-淨空老法師致詞.mdx",
+  "version": "current",
+  "sidebarPosition": 2254,
+  "frontMatter": {
+    "sidebar_position": 2254
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "傳統文化教育學會開幕典禮",
+    "permalink": "/docs/amtb/社會教育/傳統文化/傳統文化教育學會開幕典禮"
+  },
+  "next": {
+    "title": "傳統文化教育學會閉幕典禮",
+    "permalink": "/docs/amtb/社會教育/傳統文化/傳統文化教育學會閉幕典禮"
+  }
+}

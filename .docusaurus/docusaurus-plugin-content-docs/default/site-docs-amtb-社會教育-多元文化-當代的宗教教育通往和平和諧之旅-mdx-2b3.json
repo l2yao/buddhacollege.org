@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/當代的宗教教育通往和平和諧之旅",
+  "id": "amtb/社會教育/多元文化/當代的宗教教育通往和平和諧之旅",
+  "isDocsHomePage": false,
+  "title": "當代的宗教教育—通往和平和諧之旅",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/當代的宗教教育通往和平和諧之旅.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/當代的宗教教育通往和平和諧之旅",
+  "permalink": "/docs/amtb/社會教育/多元文化/當代的宗教教育通往和平和諧之旅",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/當代的宗教教育通往和平和諧之旅.mdx",
+  "version": "current",
+  "sidebarPosition": 3579,
+  "frontMatter": {
+    "sidebar_position": 3579
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2012年11月斯里蘭卡多元宗教論壇－歡迎晚宴 Welcome Dinner and Cultural Performance at Water's Edge Hotel, Battaramulla",
+    "permalink": "/docs/amtb/社會教育/多元文化/2012年11月斯里蘭卡多元宗教論壇-歡迎晚宴-welcome-dinner-and-cultural-performance-at-waters-edge-hotel-battaramulla"
+  },
+  "next": {
+    "title": "2013年5月聯合國歡慶衛塞節暨佛教與多元宗教論壇開幕致詞",
+    "permalink": "/docs/amtb/社會教育/多元文化/2013年5月聯合國歡慶衛塞節暨佛教與多元宗教論壇開幕致詞"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/2011年中元護國息災三時繫念法會淨空老法師開示",
+  "id": "amtb/開示與問答/地區開示/2011年中元護國息災三時繫念法會淨空老法師開示",
+  "isDocsHomePage": false,
+  "title": "2011年中元護國息災三時繫念法會淨空老法師開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/2011年中元護國息災三時繫念法會淨空老法師開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/2011年中元護國息災三時繫念法會淨空老法師開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/2011年中元護國息災三時繫念法會淨空老法師開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/2011年中元護國息災三時繫念法會淨空老法師開示.mdx",
+  "version": "current",
+  "sidebarPosition": 2982,
+  "frontMatter": {
+    "sidebar_position": 2982
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "答日本嘉賓提問",
+    "permalink": "/docs/amtb/開示與問答/地區開示/答日本嘉賓提問"
+  },
+  "next": {
+    "title": "談國學",
+    "permalink": "/docs/amtb/開示與問答/地區開示/談國學"
+  }
+}

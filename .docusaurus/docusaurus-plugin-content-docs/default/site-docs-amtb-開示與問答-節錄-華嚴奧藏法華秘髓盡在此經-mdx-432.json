@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/華嚴奧藏法華秘髓盡在此經",
+  "id": "amtb/開示與問答/節錄/華嚴奧藏法華秘髓盡在此經",
+  "isDocsHomePage": false,
+  "title": "華嚴奧藏，法華秘髓，盡在此經",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/華嚴奧藏法華秘髓盡在此經.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/華嚴奧藏法華秘髓盡在此經",
+  "permalink": "/docs/amtb/開示與問答/節錄/華嚴奧藏法華秘髓盡在此經",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/華嚴奧藏法華秘髓盡在此經.mdx",
+  "version": "current",
+  "sidebarPosition": 3425,
+  "frontMatter": {
+    "sidebar_position": 3425
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "中秋節禮物-持名善根福德同佛",
+    "permalink": "/docs/amtb/開示與問答/節錄/中秋節禮物-持名善根福德同佛"
+  },
+  "next": {
+    "title": "不入一切種類珍寶成就牢獄",
+    "permalink": "/docs/amtb/開示與問答/節錄/不入一切種類珍寶成就牢獄"
+  }
+}

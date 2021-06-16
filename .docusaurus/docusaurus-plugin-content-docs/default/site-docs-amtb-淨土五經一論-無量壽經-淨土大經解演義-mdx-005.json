@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/淨土五經一論/無量壽經/淨土大經解演義",
+  "id": "amtb/淨土五經一論/無量壽經/淨土大經解演義",
+  "isDocsHomePage": false,
+  "title": "淨土大經解演義",
+  "description": "",
+  "source": "@site/docs/amtb/淨土五經一論/無量壽經/淨土大經解演義.mdx",
+  "sourceDirName": "amtb/淨土五經一論/無量壽經",
+  "slug": "/amtb/淨土五經一論/無量壽經/淨土大經解演義",
+  "permalink": "/docs/amtb/淨土五經一論/無量壽經/淨土大經解演義",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/淨土五經一論/無量壽經/淨土大經解演義.mdx",
+  "version": "current",
+  "sidebarPosition": 2490,
+  "frontMatter": {
+    "sidebar_position": 2490
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "淨土大經科註",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/淨土大經科註"
+  },
+  "next": {
+    "title": "2012淨土大經科註",
+    "permalink": "/docs/amtb/淨土五經一論/無量壽經/2012淨土大經科註"
+  }
+}

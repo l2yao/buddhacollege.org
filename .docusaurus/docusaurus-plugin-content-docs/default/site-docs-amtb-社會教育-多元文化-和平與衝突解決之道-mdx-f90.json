@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/社會教育/多元文化/和平與衝突解決之道",
+  "id": "amtb/社會教育/多元文化/和平與衝突解決之道",
+  "isDocsHomePage": false,
+  "title": "和平與衝突解決之道",
+  "description": "",
+  "source": "@site/docs/amtb/社會教育/多元文化/和平與衝突解決之道.mdx",
+  "sourceDirName": "amtb/社會教育/多元文化",
+  "slug": "/amtb/社會教育/多元文化/和平與衝突解決之道",
+  "permalink": "/docs/amtb/社會教育/多元文化/和平與衝突解決之道",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/社會教育/多元文化/和平與衝突解決之道.mdx",
+  "version": "current",
+  "sidebarPosition": 479,
+  "frontMatter": {
+    "sidebar_position": 479
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "祈禱世界和平法會",
+    "permalink": "/docs/amtb/社會教育/多元文化/祈禱世界和平法會"
+  },
+  "next": {
+    "title": "對參加多元宗教朋友的談話 An address to friends of multi-faith",
+    "permalink": "/docs/amtb/社會教育/多元文化/對參加多元宗教朋友的談話-an-address-to-friends-of-multi-faith"
+  }
+}

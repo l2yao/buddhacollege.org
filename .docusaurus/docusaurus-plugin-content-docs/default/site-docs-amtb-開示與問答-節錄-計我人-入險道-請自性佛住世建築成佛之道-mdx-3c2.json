@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/計我人-入險道-請自性佛住世建築成佛之道",
+  "id": "amtb/開示與問答/節錄/計我人-入險道-請自性佛住世建築成佛之道",
+  "isDocsHomePage": false,
+  "title": "計我人 入險道－請自性佛住世建築成佛之道",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/計我人-入險道-請自性佛住世建築成佛之道.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/計我人-入險道-請自性佛住世建築成佛之道",
+  "permalink": "/docs/amtb/開示與問答/節錄/計我人-入險道-請自性佛住世建築成佛之道",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/計我人-入險道-請自性佛住世建築成佛之道.mdx",
+  "version": "current",
+  "sidebarPosition": 1112,
+  "frontMatter": {
+    "sidebar_position": 1112
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "見佛 學佛－二障 三障 三種重障",
+    "permalink": "/docs/amtb/開示與問答/節錄/見佛-學佛-二障-三障-三種重障"
+  },
+  "next": {
+    "title": "如來十身",
+    "permalink": "/docs/amtb/開示與問答/節錄/如來十身"
+  }
+}

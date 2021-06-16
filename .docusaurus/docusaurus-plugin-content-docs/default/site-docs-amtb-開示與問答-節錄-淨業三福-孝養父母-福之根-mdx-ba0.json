@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/淨業三福-孝養父母-福之根",
+  "id": "amtb/開示與問答/節錄/淨業三福-孝養父母-福之根",
+  "isDocsHomePage": false,
+  "title": "淨業三福－孝養父母 福之根",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/淨業三福-孝養父母-福之根.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/淨業三福-孝養父母-福之根",
+  "permalink": "/docs/amtb/開示與問答/節錄/淨業三福-孝養父母-福之根",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/淨業三福-孝養父母-福之根.mdx",
+  "version": "current",
+  "sidebarPosition": 2906,
+  "frontMatter": {
+    "sidebar_position": 2906
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "一心三輩",
+    "permalink": "/docs/amtb/開示與問答/節錄/一心三輩"
+  },
+  "next": {
+    "title": "五念門",
+    "permalink": "/docs/amtb/開示與問答/節錄/五念門"
+  }
+}

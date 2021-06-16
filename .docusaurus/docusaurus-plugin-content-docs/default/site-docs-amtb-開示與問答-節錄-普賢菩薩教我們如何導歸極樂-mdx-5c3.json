@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/普賢菩薩教我們如何導歸極樂",
+  "id": "amtb/開示與問答/節錄/普賢菩薩教我們如何導歸極樂",
+  "isDocsHomePage": false,
+  "title": "普賢菩薩教我們如何導歸極樂",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/普賢菩薩教我們如何導歸極樂.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/普賢菩薩教我們如何導歸極樂",
+  "permalink": "/docs/amtb/開示與問答/節錄/普賢菩薩教我們如何導歸極樂",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/普賢菩薩教我們如何導歸極樂.mdx",
+  "version": "current",
+  "sidebarPosition": 2961,
+  "frontMatter": {
+    "sidebar_position": 2961
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "金剛杵之表法",
+    "permalink": "/docs/amtb/開示與問答/節錄/金剛杵之表法"
+  },
+  "next": {
+    "title": "淨定安樂",
+    "permalink": "/docs/amtb/開示與問答/節錄/淨定安樂"
+  }
+}

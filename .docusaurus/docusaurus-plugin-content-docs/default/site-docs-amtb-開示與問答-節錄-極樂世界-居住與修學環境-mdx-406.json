@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/極樂世界-居住與修學環境",
+  "id": "amtb/開示與問答/節錄/極樂世界-居住與修學環境",
+  "isDocsHomePage": false,
+  "title": "極樂世界 －居住與修學環境",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/極樂世界-居住與修學環境.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/極樂世界-居住與修學環境",
+  "permalink": "/docs/amtb/開示與問答/節錄/極樂世界-居住與修學環境",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/極樂世界-居住與修學環境.mdx",
+  "version": "current",
+  "sidebarPosition": 2881,
+  "frontMatter": {
+    "sidebar_position": 2881
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "見菩提樹得三種忍",
+    "permalink": "/docs/amtb/開示與問答/節錄/見菩提樹得三種忍"
+  },
+  "next": {
+    "title": "十力四無畏",
+    "permalink": "/docs/amtb/開示與問答/節錄/十力四無畏"
+  }
+}

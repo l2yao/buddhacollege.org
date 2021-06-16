@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/認識佛教/佛法人生/佛教生活的藝術",
+  "id": "amtb/認識佛教/佛法人生/佛教生活的藝術",
+  "isDocsHomePage": false,
+  "title": "佛教生活的藝術",
+  "description": "",
+  "source": "@site/docs/amtb/認識佛教/佛法人生/佛教生活的藝術.mdx",
+  "sourceDirName": "amtb/認識佛教/佛法人生",
+  "slug": "/amtb/認識佛教/佛法人生/佛教生活的藝術",
+  "permalink": "/docs/amtb/認識佛教/佛法人生/佛教生活的藝術",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/認識佛教/佛法人生/佛教生活的藝術.mdx",
+  "version": "current",
+  "sidebarPosition": 278,
+  "frontMatter": {
+    "sidebar_position": 278
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "生活的藝術",
+    "permalink": "/docs/amtb/認識佛教/佛法人生/生活的藝術"
+  },
+  "next": {
+    "title": "修學的生活",
+    "permalink": "/docs/amtb/認識佛教/佛法人生/修學的生活"
+  }
+}

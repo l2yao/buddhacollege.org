@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話二",
+  "id": "amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話二",
+  "isDocsHomePage": false,
+  "title": "對香港佛陀教育協會職員義工談話二",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話二.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話二",
+  "permalink": "/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話二",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話二.mdx",
+  "version": "current",
+  "sidebarPosition": 645,
+  "frontMatter": {
+    "sidebar_position": 645
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "處事之道和為貴",
+    "permalink": "/docs/amtb/開示與問答/地區開示/處事之道和為貴"
+  },
+  "next": {
+    "title": "對香港佛陀教育協會職員義工談話三",
+    "permalink": "/docs/amtb/開示與問答/地區開示/對香港佛陀教育協會職員義工談話三"
+  }
+}

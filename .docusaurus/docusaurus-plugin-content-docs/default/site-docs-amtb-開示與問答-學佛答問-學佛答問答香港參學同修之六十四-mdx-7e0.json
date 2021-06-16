@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/學佛答問/學佛答問答香港參學同修之六十四",
+  "id": "amtb/開示與問答/學佛答問/學佛答問答香港參學同修之六十四",
+  "isDocsHomePage": false,
+  "title": "學佛答問（答香港參學同修之六十四）",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之六十四.mdx",
+  "sourceDirName": "amtb/開示與問答/學佛答問",
+  "slug": "/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之六十四",
+  "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之六十四",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之六十四.mdx",
+  "version": "current",
+  "sidebarPosition": 712,
+  "frontMatter": {
+    "sidebar_position": 712
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "學佛答問（答香港參學同修之六十三）",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/學佛答問答香港參學同修之六十三"
+  },
+  "next": {
+    "title": "觀無量壽佛經講記－學佛答問",
+    "permalink": "/docs/amtb/開示與問答/學佛答問/觀無量壽佛經講記-學佛答問"
+  }
+}

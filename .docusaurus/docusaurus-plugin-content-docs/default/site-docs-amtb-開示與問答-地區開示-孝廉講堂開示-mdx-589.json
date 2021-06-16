@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/孝廉講堂開示",
+  "id": "amtb/開示與問答/地區開示/孝廉講堂開示",
+  "isDocsHomePage": false,
+  "title": "孝廉講堂開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/孝廉講堂開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/孝廉講堂開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/孝廉講堂開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/孝廉講堂開示.mdx",
+  "version": "current",
+  "sidebarPosition": 3730,
+  "frontMatter": {
+    "sidebar_position": 3730
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "答印尼同修問",
+    "permalink": "/docs/amtb/開示與問答/地區開示/答印尼同修問"
+  },
+  "next": {
+    "title": "馬六甲孝親報恩消災祈福中峰三時繫念超薦法會開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/馬六甲孝親報恩消災祈福中峰三時繫念超薦法會開示"
+  }
+}

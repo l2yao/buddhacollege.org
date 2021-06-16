@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/行超普賢",
+  "id": "amtb/開示與問答/節錄/行超普賢",
+  "isDocsHomePage": false,
+  "title": "行超普賢",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/行超普賢.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/行超普賢",
+  "permalink": "/docs/amtb/開示與問答/節錄/行超普賢",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/行超普賢.mdx",
+  "version": "current",
+  "sidebarPosition": 3453,
+  "frontMatter": {
+    "sidebar_position": 3453
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "三千世界",
+    "permalink": "/docs/amtb/開示與問答/節錄/三千世界"
+  },
+  "next": {
+    "title": "聞經獲益",
+    "permalink": "/docs/amtb/開示與問答/節錄/聞經獲益"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/認識佛教/認識佛陀教育/認識佛教中英合併",
+  "id": "amtb/認識佛教/認識佛陀教育/認識佛教中英合併",
+  "isDocsHomePage": false,
+  "title": "認識佛教（中英合併）",
+  "description": "",
+  "source": "@site/docs/amtb/認識佛教/認識佛陀教育/認識佛教中英合併.mdx",
+  "sourceDirName": "amtb/認識佛教/認識佛陀教育",
+  "slug": "/amtb/認識佛教/認識佛陀教育/認識佛教中英合併",
+  "permalink": "/docs/amtb/認識佛教/認識佛陀教育/認識佛教中英合併",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/認識佛教/認識佛陀教育/認識佛教中英合併.mdx",
+  "version": "current",
+  "sidebarPosition": 253,
+  "frontMatter": {
+    "sidebar_position": 253
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "佛教─至善圓滿的教育",
+    "permalink": "/docs/amtb/認識佛教/認識佛陀教育/佛教至善圓滿的教育"
+  },
+  "next": {
+    "title": "認識佛教",
+    "permalink": "/docs/amtb/認識佛教/認識佛陀教育/認識佛教"
+  }
+}

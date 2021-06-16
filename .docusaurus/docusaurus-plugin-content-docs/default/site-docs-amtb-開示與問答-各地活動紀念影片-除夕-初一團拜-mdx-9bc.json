@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/各地活動紀念影片/除夕-初一團拜",
+  "id": "amtb/開示與問答/各地活動紀念影片/除夕-初一團拜",
+  "isDocsHomePage": false,
+  "title": "除夕 初一團拜",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/各地活動紀念影片/除夕-初一團拜.mdx",
+  "sourceDirName": "amtb/開示與問答/各地活動紀念影片",
+  "slug": "/amtb/開示與問答/各地活動紀念影片/除夕-初一團拜",
+  "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/除夕-初一團拜",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/各地活動紀念影片/除夕-初一團拜.mdx",
+  "version": "current",
+  "sidebarPosition": 997,
+  "frontMatter": {
+    "sidebar_position": 997
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "新春團拜 祝壽",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/新春團拜-祝壽"
+  },
+  "next": {
+    "title": "雲南行",
+    "permalink": "/docs/amtb/開示與問答/各地活動紀念影片/雲南行"
+  }
+}

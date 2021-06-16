@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/勸諭世人-捨惡修善",
+  "id": "amtb/開示與問答/節錄/勸諭世人-捨惡修善",
+  "isDocsHomePage": false,
+  "title": "勸諭世人 捨惡修善",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/勸諭世人-捨惡修善.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/勸諭世人-捨惡修善",
+  "permalink": "/docs/amtb/開示與問答/節錄/勸諭世人-捨惡修善",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/勸諭世人-捨惡修善.mdx",
+  "version": "current",
+  "sidebarPosition": 3758,
+  "frontMatter": {
+    "sidebar_position": 3758
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "眷屬和敬",
+    "permalink": "/docs/amtb/開示與問答/節錄/眷屬和敬"
+  },
+  "next": {
+    "title": "蒙冥抵突  不識因果",
+    "permalink": "/docs/amtb/開示與問答/節錄/蒙冥抵突-不識因果"
+  }
+}

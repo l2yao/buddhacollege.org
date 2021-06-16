@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/佛學開示",
+  "id": "amtb/開示與問答/地區開示/佛學開示",
+  "isDocsHomePage": false,
+  "title": "佛學開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/佛學開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/佛學開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/佛學開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/佛學開示.mdx",
+  "version": "current",
+  "sidebarPosition": 353,
+  "frontMatter": {
+    "sidebar_position": 353
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "94年達拉斯春季佛七答問",
+    "permalink": "/docs/amtb/開示與問答/地區開示/94年達拉斯春季佛七答問"
+  },
+  "next": {
+    "title": "靈嚴山寺開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/靈嚴山寺開示"
+  }
+}

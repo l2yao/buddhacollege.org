@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/四十八大願",
+  "id": "amtb/開示與問答/節錄/四十八大願",
+  "isDocsHomePage": false,
+  "title": "四十八大願",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/四十八大願.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/四十八大願",
+  "permalink": "/docs/amtb/開示與問答/節錄/四十八大願",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/四十八大願.mdx",
+  "version": "current",
+  "sidebarPosition": 1164,
+  "frontMatter": {
+    "sidebar_position": 1164
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "菩薩淨行的基礎是什麼",
+    "permalink": "/docs/amtb/開示與問答/節錄/菩薩淨行的基礎是什麼"
+  },
+  "next": {
+    "title": "六波羅蜜實踐在日常生活中",
+    "permalink": "/docs/amtb/開示與問答/節錄/六波羅蜜實踐在日常生活中"
+  }
+}

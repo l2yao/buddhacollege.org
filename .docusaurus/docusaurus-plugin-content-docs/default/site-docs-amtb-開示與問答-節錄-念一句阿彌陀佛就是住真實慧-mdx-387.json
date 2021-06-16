@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/念一句阿彌陀佛就是住真實慧",
+  "id": "amtb/開示與問答/節錄/念一句阿彌陀佛就是住真實慧",
+  "isDocsHomePage": false,
+  "title": "念一句阿彌陀佛就是住真實慧",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/念一句阿彌陀佛就是住真實慧.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/念一句阿彌陀佛就是住真實慧",
+  "permalink": "/docs/amtb/開示與問答/節錄/念一句阿彌陀佛就是住真實慧",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/念一句阿彌陀佛就是住真實慧.mdx",
+  "version": "current",
+  "sidebarPosition": 1130,
+  "frontMatter": {
+    "sidebar_position": 1130
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "堂舍樓觀",
+    "permalink": "/docs/amtb/開示與問答/節錄/堂舍樓觀"
+  },
+  "next": {
+    "title": "泉池功德(上)",
+    "permalink": "/docs/amtb/開示與問答/節錄/泉池功德上"
+  }
+}

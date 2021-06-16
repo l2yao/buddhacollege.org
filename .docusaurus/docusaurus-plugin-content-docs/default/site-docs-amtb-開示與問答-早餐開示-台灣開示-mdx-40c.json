@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/早餐開示/台灣開示",
+  "id": "amtb/開示與問答/早餐開示/台灣開示",
+  "isDocsHomePage": false,
+  "title": "台灣開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/早餐開示/台灣開示.mdx",
+  "sourceDirName": "amtb/開示與問答/早餐開示",
+  "slug": "/amtb/開示與問答/早餐開示/台灣開示",
+  "permalink": "/docs/amtb/開示與問答/早餐開示/台灣開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/早餐開示/台灣開示.mdx",
+  "version": "current",
+  "sidebarPosition": 5631,
+  "frontMatter": {
+    "sidebar_position": 5631
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "九五年淨空法師早餐開示",
+    "permalink": "/docs/amtb/開示與問答/早餐開示/九五年淨空法師早餐開示"
+  },
+  "next": {
+    "title": "順境善緣不生貪愛，逆境惡緣不生瞋恚，日常生活當中修淨業",
+    "permalink": "/docs/amtb/開示與問答/節錄/順境善緣不生貪愛逆境惡緣不生瞋恚日常生活當中修淨業"
+  }
+}

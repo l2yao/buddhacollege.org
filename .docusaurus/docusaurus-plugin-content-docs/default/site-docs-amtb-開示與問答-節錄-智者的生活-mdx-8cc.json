@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/節錄/智者的生活",
+  "id": "amtb/開示與問答/節錄/智者的生活",
+  "isDocsHomePage": false,
+  "title": "智者的生活",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/節錄/智者的生活.mdx",
+  "sourceDirName": "amtb/開示與問答/節錄",
+  "slug": "/amtb/開示與問答/節錄/智者的生活",
+  "permalink": "/docs/amtb/開示與問答/節錄/智者的生活",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/節錄/智者的生活.mdx",
+  "version": "current",
+  "sidebarPosition": 1200,
+  "frontMatter": {
+    "sidebar_position": 1200
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "施捨之樂",
+    "permalink": "/docs/amtb/開示與問答/節錄/施捨之樂"
+  },
+  "next": {
+    "title": "順逆境緣 心平氣和－忍嚴光忍辱",
+    "permalink": "/docs/amtb/開示與問答/節錄/順逆境緣-心平氣和-忍嚴光忍辱"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "amtb/開示與問答/地區開示/2012年香港護世息災念佛祈福法會開示",
+  "id": "amtb/開示與問答/地區開示/2012年香港護世息災念佛祈福法會開示",
+  "isDocsHomePage": false,
+  "title": "2012年香港護世息災念佛祈福法會開示",
+  "description": "",
+  "source": "@site/docs/amtb/開示與問答/地區開示/2012年香港護世息災念佛祈福法會開示.mdx",
+  "sourceDirName": "amtb/開示與問答/地區開示",
+  "slug": "/amtb/開示與問答/地區開示/2012年香港護世息災念佛祈福法會開示",
+  "permalink": "/docs/amtb/開示與問答/地區開示/2012年香港護世息災念佛祈福法會開示",
+  "editUrl": "https://github.com/l2yao/buddhacollege.org/edit/master/website/docs/amtb/開示與問答/地區開示/2012年香港護世息災念佛祈福法會開示.mdx",
+  "version": "current",
+  "sidebarPosition": 3180,
+  "frontMatter": {
+    "sidebar_position": 3180
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2011年冬至護國息災三時繫念開示",
+    "permalink": "/docs/amtb/開示與問答/地區開示/2011年冬至護國息災三時繫念開示"
+  },
+  "next": {
+    "title": "二零一二農曆元旦講話",
+    "permalink": "/docs/amtb/開示與問答/地區開示/二零一二農曆元旦講話"
+  }
+}
