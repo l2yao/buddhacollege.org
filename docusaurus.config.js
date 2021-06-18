@@ -39,7 +39,7 @@ module.exports = {
           items: [
             {
               label: 'Courses',
-              to: '/docs/intro',
+              to: '/docs/谷歌教室',
             },
           ],
         },
