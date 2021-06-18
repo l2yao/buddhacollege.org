@@ -38,7 +38,15 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Courses',
+              label: 'AMTB',
+              to: '/docs/amtb/淨土五經一論/無量壽經/02-040',
+            },
+            {
+              label: 'Youtube',
+              to: '/docs/youtube/淨土大經科註',
+            },
+            {
+              label: '谷歌教室',
               to: '/docs/谷歌教室',
             },
           ],
@@ -47,16 +55,20 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: '淨空老法師專集網',
+              href: 'https://www.amtb.tw/#/home',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: '華藏淨宗弘化網',
+              href: 'https://www.hwadzan.com/',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: '佛陀教育網路學院',
+              href: 'https://www.amtbcollege.org/',
+            },
+            {
+              label: '儒釋道文化教育網',
+              href: 'https://rsd.amtb.tw/',
             },
           ],
         },
@@ -64,7 +76,7 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: '新闻',
               to: '/blog',
             },
             {
@@ -85,13 +97,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/l2yao/buddhacollege.org/edit/master/website/',
+            'https://github.com/l2yao/buddhacollege.org/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/l2yao/buddhacollege.org/edit/master/website/blog/',
+            'https://github.com/l2yao/buddhacollege.org/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
