@@ -1,9 +1,9 @@
 ---
 sidebar_position: 891
 ---
-import ReactPlayer from 'react-player'
+import PaginatedPlayer from '/src/components/PaginatedPlayer'
 
 
 # 無住生心
 
-<ReactPlayer controls='true' url={ ['https://tw4.amtb.de/redirect/media/mp3/23/23-008/23-008-0001.mp3', 'https://tw4.amtb.de/redirect/media/mp3/23/23-008/23-008-0002.mp3', 'https://tw4.amtb.de/redirect/media/mp3/23/23-008/23-008-0003.mp3'] } />
+<PaginatedPlayer count={ 3 } baseURL='https://tw4.amtb.de/redirect/media/mp3/23/23-008/23-008-' ext='mp3' />

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2879
 ---
-import ReactPlayer from 'react-player'
+import PaginatedPlayer from '/src/components/PaginatedPlayer'
 
 
 # 根本煩惱－貪、瞋、癡、慢、疑、惡見
 
-<ReactPlayer controls='true' url={ ['https://tw4.amtb.de/redirect/media/himp4/29/29-226/29-226-0001.mp4', 'https://tw4.amtb.de/redirect/media/himp4/29/29-226/29-226-0002.mp4', 'https://tw4.amtb.de/redirect/media/himp4/29/29-226/29-226-0003.mp4'] } />
+<PaginatedPlayer count={ 3 } baseURL='https://tw4.amtb.de/redirect/media/himp4/29/29-226/29-226-' ext='mp4' />

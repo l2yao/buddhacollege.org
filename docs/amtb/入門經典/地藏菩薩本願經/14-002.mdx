@@ -1,9 +1,9 @@
 ---
 sidebar_position: 196
 ---
-import ReactPlayer from 'react-player'
+import PaginatedPlayer from '/src/components/PaginatedPlayer'
 
 
 # 地藏經大意
 
-<ReactPlayer controls='true' url={ ['https://tw4.amtb.de/redirect/media/mp3/14/14-002/14-002-0001.mp3', 'https://tw4.amtb.de/redirect/media/mp3/14/14-002/14-002-0002.mp3', 'https://tw4.amtb.de/redirect/media/mp3/14/14-002/14-002-0003.mp3', 'https://tw4.amtb.de/redirect/media/mp3/14/14-002/14-002-0004.mp3', 'https://tw4.amtb.de/redirect/media/mp3/14/14-002/14-002-0005.mp3', 'https://tw4.amtb.de/redirect/media/mp3/14/14-002/14-002-0006.mp3', 'https://tw4.amtb.de/redirect/media/mp3/14/14-002/14-002-0007.mp3', 'https://tw4.amtb.de/redirect/media/mp3/14/14-002/14-002-0008.mp3', 'https://tw4.amtb.de/redirect/media/mp3/14/14-002/14-002-0009.mp3', 'https://tw4.amtb.de/redirect/media/mp3/14/14-002/14-002-0010.mp3'] } />
+<PaginatedPlayer count={ 10 } baseURL='https://tw4.amtb.de/redirect/media/mp3/14/14-002/14-002-' ext='mp3' />

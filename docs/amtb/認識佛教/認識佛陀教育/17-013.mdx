@@ -1,9 +1,9 @@
 ---
 sidebar_position: 262
 ---
-import ReactPlayer from 'react-player'
+import PaginatedPlayer from '/src/components/PaginatedPlayer'
 
 
 # 認識佛教
 
-<ReactPlayer controls='true' url={ ['https://tw4.amtb.de/redirect/media/himp4/17/17-013/17-013-0001.mp4', 'https://tw4.amtb.de/redirect/media/himp4/17/17-013/17-013-0002.mp4', 'https://tw4.amtb.de/redirect/media/himp4/17/17-013/17-013-0003.mp4', 'https://tw4.amtb.de/redirect/media/himp4/17/17-013/17-013-0004.mp4', 'https://tw4.amtb.de/redirect/media/himp4/17/17-013/17-013-0005.mp4'] } />
+<PaginatedPlayer count={ 5 } baseURL='https://tw4.amtb.de/redirect/media/himp4/17/17-013/17-013-' ext='mp4' />

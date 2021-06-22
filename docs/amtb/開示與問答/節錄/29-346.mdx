@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3551
 ---
-import ReactPlayer from 'react-player'
+import PaginatedPlayer from '/src/components/PaginatedPlayer'
 
 
 # 惠以真實之利
 
-<ReactPlayer controls='true' url={ ['https://tw4.amtb.de/redirect/media/himp4/29/29-346/29-346-0001.mp4', 'https://tw4.amtb.de/redirect/media/himp4/29/29-346/29-346-0002.mp4', 'https://tw4.amtb.de/redirect/media/himp4/29/29-346/29-346-0003.mp4'] } />
+<PaginatedPlayer count={ 3 } baseURL='https://tw4.amtb.de/redirect/media/himp4/29/29-346/29-346-' ext='mp4' />
