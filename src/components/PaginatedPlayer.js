@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactPlayer from 'react-player';
+import { withStyles } from '@material-ui/core/styles';
 import Pagination from '@material-ui/lab/Pagination';
 
 export default function PaginatedPlayer(props) {
@@ -9,9 +10,18 @@ export default function PaginatedPlayer(props) {
     const url = props.baseURL + episode + '.' + props.ext;
     setURL(url);
   };
+  const GlobalCss = withStyles({
+    // @global is handled by jss-plugin-global.
+    '@global': {
+      '.MuiPaginationItem-root': {
+        color: 'inherit',
+      },
+    },
+  })(() => null);
 
   return (
     <div>
+      <GlobalCss />
       <ReactPlayer controls url={url} />
       <Pagination count={props.count} onChange={handleChange} />
     </div>
